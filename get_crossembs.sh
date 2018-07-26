@@ -19,9 +19,9 @@ if [ "$4" = "-vecmap" ]; then
 	cd $SCRIPT_DIR/utils/vecmap
 
 	echo "Applying orthogonal bilingual mapping..."
-	EMBS1="$F1NAME.$DICTFNAME.ortho.w2v"
-	EMBS2="$F2NAME.$DICTFNAME.ortho.w2v"
-	python3 map_embeddings.py --normalize unit center --orthogonal "$F1" "$F2" "$D"/"$EMBS1" "$D"/"$EMBS2" -d "$DICTF"
+	EMBS1="$D"/"$F1NAME.$DICTFNAME.vecmap.w2v"
+	EMBS2="$D"/"$F2NAME.$DICTFNAME.vecmap.w2v"
+	python3 map_embeddings.py --normalize unit center --orthogonal "$F1" "$F2" "$EMBS1" "$EMBS2" -d "$DICTF"
 
 	cd "$D"
 
@@ -32,12 +32,16 @@ elif [ "$4" = "-muse" ]; then
 	cd $SCRIPT_DIR/utils/muse
 
 	echo "Applying orthogonal bilingual mapping..."
-	EMBS1="$F1NAME.$DICTFNAME.ortho.w2v"
-	EMBS2="$F2NAME.$DICTFNAME.ortho.w2v"
-	python3 supervised.py --src_lang "$F1NAME" --tgt_lang "$F2NAME" --src_emb $F1 --tgt_emb $F2 --n_refinement 5 --normalize_embeddings center,renorm --dico_train "$D"/"$DICTFNAME".train.txt --dico_eval "$D"/"$DICTFNAME".valid.txt --export txt --exp_id "$F1NAME-$F2NAME.$DICTFNAME"
+	EMBS1="$D"/"$F1NAME.$DICTFNAME.muse.w2v"
+	EMBS2="$D"/"$F2NAME.$DICTFNAME.muse.w2v"
+	python3 supervised.py --src_lang "$F1NAME" --tgt_lang "$F2NAME" --src_emb $F1 --tgt_emb $F2 --n_refinement 5 --normalize_embeddings center,renorm --dico_train "$D"/"$DICTFNAME".train.txt --dico_eval "$D"/"$DICTFNAME".valid.txt --export txt --exp_id "$F1NAME-$F2NAME.$DICTFNAME" --emb_dim "$(head -n 1 $F1 | cut -f 2 -d ' ')"
 
-	mv dumped/debug/"$F1NAME-$F2NAME.$DICTFNAME"/vectors-"$F1NAME".txt "$D"/"$EMBS1"
-	mv dumped/debug/"$F1NAME-$F2NAME.$DICTFNAME"/vectors-"$F2NAME".txt "$D"/"$EMBS2"
+	mv dumped/debug/"$F1NAME-$F2NAME.$DICTFNAME"/vectors-"$F1NAME".txt "$EMBS1"
+	mv dumped/debug/"$F1NAME-$F2NAME.$DICTFNAME"/vectors-"$F2NAME".txt "$EMBS2"
+	rm -rf dumped/debug/"$F1NAME-$F2NAME.$DICTFNAME"
+
+	rm "$D"/"$DICTFNAME".train.txt
+	rm "$D"/"$DICTFNAME".valid.txt
 
 	cd "$D"
 
@@ -65,9 +69,15 @@ rm "$EMBS1NAME-$EMBS2NAME.means.vec"
 cd $SCRIPT_DIR/utils/vecmap
 
 echo "Getting final embeddings..."
-python3 map_embeddings.py --unconstrained "$EMBS1" "$D"/"$EMBS1NAME".means.w2v "$D"/"$EMBS1NAME".met.w2v tmp -d "$DICTF"
-python3 map_embeddings.py --unconstrained "$EMBS2" "$D"/"$EMBS2NAME".means.w2v "$D"/"$EMBS2NAME".met.w2v tmp -d "$DICTF"
+cut -f 1 -d " " < "$DICTF" > tmp
+paste tmp tmp -d " " > "$DICTFNAME.rep1"
+cut -f 2 -d " " < "$DICTF" > tmp
+paste tmp tmp -d " " > "$DICTFNAME.rep2"
+python3 map_embeddings.py --unconstrained "$EMBS1" "$D"/"$EMBS1NAME".means.w2v "$D"/"$EMBS1NAME".met.w2v tmp -d "$DICTFNAME.rep1"
+python3 map_embeddings.py --unconstrained "$EMBS2" "$D"/"$EMBS2NAME".means.w2v "$D"/"$EMBS2NAME".met.w2v tmp -d "$DICTFNAME.rep2"
 
 rm tmp #TODO
+rm "$DICTFNAME.rep1"
+rm "$DICTFNAME.rep2"
 
 cd "$D"
