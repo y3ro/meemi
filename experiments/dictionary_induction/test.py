@@ -12,7 +12,6 @@ hits10 = 0
 n = 0
 crit1 = torch.dot
 crit2 = torch.nn.MSELoss()
-not_found = 0
 
 for i, line in enumerate(sys.stdin):
     words = line.strip().split(" ")
@@ -45,6 +44,5 @@ for i, line in enumerate(sys.stdin):
             # sys.stderr.write("NOT FOUND: " + words[-1] + " in NN10: " + " ".join(nn10) + "\n")
         n += 1
     except KeyError:
-        not_found += 1
         continue
-print("MSE: " + str((crit2_sum/float(n)).data[0]) + " cos: " + str((crit1_sum/float(n)).data[0]) + " induction P@1: " + str(hits1/float(n)) + " induction P@5: " + str(hits5/float(n)) + " induction P@10: " + str(hits10/float(n)) + " OOV%: " + str(not_found/float(n)))
+print("MSE: " + str((crit2_sum/float(n)).data[0]) + " cos: " + str((crit1_sum/float(n)).data[0]) + " induction P@1: " + str(hits1/float(n)) + " induction P@5: " + str(hits5/float(n)) + " induction P@10: " + str(hits10/float(n)))
