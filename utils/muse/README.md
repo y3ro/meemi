@@ -2,7 +2,7 @@
 ![Model](https://s3.amazonaws.com/arrival/outline_all.png)
 
 MUSE is a Python library for *multilingual word embeddings*, whose goal is to provide the community with:
-* state-of-the-art multilingual word embeddings based on [fastText](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
+* state-of-the-art multilingual word embeddings ([fastText](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) embeddings aligned in a common space)
 * large-scale high-quality bilingual dictionaries for training and evaluation
 
 We include two methods, one *supervised* that uses a bilingual dictionary or identical character strings, and one *unsupervised* that does not use any parallel data (see [Word Translation without Parallel Data](https://arxiv.org/pdf/1710.04087.pdf) for more details).
@@ -85,7 +85,7 @@ When loading embeddings, the model can load:
 The two first options are very fast and can load 1 million embeddings in a few seconds, while loading text files can take a while.
 
 ## Download
-We provide multilingual embeddings and ground-truth bilingual dictionaries.
+We provide multilingual embeddings and ground-truth bilingual dictionaries. These embeddings are fastText embeddings that have been aligned in a common space.
 
 ### Multilingual word Embeddings
 We release fastText Wikipedia **supervised** word embeddings for **30** languages, aligned in a **single vector space**.
@@ -181,15 +181,25 @@ MUSE is the project at the origin of the work on unsupervised machine translatio
 
 ### Unsupervised Machine Translation With Monolingual Data Only
 
-[2] G. Lample, L. Denoyer, MA. Ranzato [*Unsupervised Machine Translation With Monolingual Data Only*](https://arxiv.org/abs/1711.00043)
+[2] G. Lample, A. Conneau, L. Denoyer, MA. Ranzato [*Unsupervised Machine Translation With Monolingual Data Only*](https://arxiv.org/abs/1711.00043)
 
 ```
 @article{lample2017unsupervised,
   title={Unsupervised Machine Translation Using Monolingual Corpora Only},
-  author={Lample, Guillaume and Denoyer, Ludovic and Ranzato, Marc'Aurelio},
+  author={Lample, Guillaume and Conneau, Alexis and Denoyer, Ludovic and Ranzato, Marc'Aurelio},
   journal={arXiv preprint arXiv:1711.00043},
   year={2017}
 }
 ```
+
+### Related work
+* [T. Mikolov, Q. V Le, I. Sutskever - Exploiting similarities among languages for machine translation, 2013](https://arxiv.org/abs/1309.4168)
+* [G. Dinu, A. Lazaridou, M. Baroni - Improving zero-shot learning by mitigating the hubness problem, 2015](https://arxiv.org/abs/1412.6568)
+* [S. L Smith, D. HP Turban, S. Hamblin, N. Y Hammerla - Offline bilingual word vectors, orthogonal transformations and the inverted softmax, 2017](https://arxiv.org/abs/1702.03859)
+* [M. Artetxe, G. Labaka, E. Agirre - Learning bilingual word embeddings with (almost) no bilingual data, 2017](https://aclanthology.coli.uni-saarland.de/papers/P17-1042/p17-1042)
+* [M. Zhang, Y. Liu, H. Luan, and M. Sun - Adversarial training for unsupervised bilingual lexicon induction, 2017](https://aclanthology.coli.uni-saarland.de/papers/P17-1179/p17-1179)
+* [Y. Hoshen, L. Wolf - An Iterative Closest Point Method for Unsupervised Word Translation, 2018](https://arxiv.org/abs/1801.06126)
+* [A. Joulin, P. Bojanowski, T. Mikolov, E. Grave - Improving supervised bilingual mapping of word embeddings, 2018](https://arxiv.org/abs/1804.07745)
+* [E. Grave, A. Joulin, Q. Berthet - Unsupervised Alignment of Embeddings with Wasserstein Procrustes, 2018](https://arxiv.org/abs/1805.11222)
 
 Contact: [gl@fb.com](mailto:gl@fb.com)  [aconneau@fb.com](mailto:aconneau@fb.com)

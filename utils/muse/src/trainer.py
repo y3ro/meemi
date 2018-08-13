@@ -51,7 +51,7 @@ class Trainer(object):
 
         self.decrease_lr = False
 
-    def get_dis_xy(self, volatile):
+    def get_dis_xy(self, requires_grad):
         """
         Get discriminator input batch / output target.
         """
@@ -68,8 +68,8 @@ class Trainer(object):
         # get word embeddings
         src_emb = self.src_emb(Variable(src_ids, requires_grad=False))
         tgt_emb = self.tgt_emb(Variable(tgt_ids, requires_grad=False))
-        src_emb = self.mapping(Variable(src_emb.data, requires_grad=not not volatile))
-        tgt_emb = Variable(tgt_emb.data, requires_grad=not volatile)
+        src_emb = self.mapping(Variable(src_emb.data, requires_grad=requires_grad))
+        tgt_emb = Variable(tgt_emb.data, requires_grad=requires_grad)
 
         # input / target
         x = torch.cat([src_emb, tgt_emb], 0)
@@ -87,10 +87,10 @@ class Trainer(object):
         self.discriminator.train()
 
         # loss
-        x, y = self.get_dis_xy(volatile=True)
+        x, y = self.get_dis_xy(requires_grad=False)
         preds = self.discriminator(Variable(x.data))
         loss = F.binary_cross_entropy(preds, y)
-        stats['DIS_COSTS'].append(loss.item())
+        stats['DIS_COSTS'].append(loss.data[0])
 
         # check NaN
         if (loss != loss).data.any():
@@ -113,7 +113,7 @@ class Trainer(object):
         self.discriminator.eval()
 
         # loss
-        x, y = self.get_dis_xy(volatile=False)
+        x, y = self.get_dis_xy(requires_grad=True)
         preds = self.discriminator(x)
         loss = F.binary_cross_entropy(preds, 1 - y)
         loss = self.params.dis_lambda * loss
@@ -135,13 +135,8 @@ class Trainer(object):
         """
         Load training dictionary.
         """
-
-        print("*** load_training_dico ***")
-
         word2id1 = self.src_dico.word2id
         word2id2 = self.tgt_dico.word2id
-
-        print(dico_train)
 
         # identical character strings
         if dico_train == "identical_char":
@@ -161,21 +156,15 @@ class Trainer(object):
         if self.params.cuda:
             self.dico = self.dico.cuda()
 
-        print(self.dico is None)
-
     def build_dictionary(self):
         """
         Build a dictionary from aligned embeddings.
         """
-        print("*** build_dictionary ***")
-
         src_emb = self.mapping(self.src_emb.weight).data
         tgt_emb = self.tgt_emb.weight.data
         src_emb = src_emb / src_emb.norm(2, 1, keepdim=True).expand_as(src_emb)
         tgt_emb = tgt_emb / tgt_emb.norm(2, 1, keepdim=True).expand_as(tgt_emb)
         self.dico = build_dictionary(src_emb, tgt_emb, self.params)
-
-        print(self.dico is None)
 
     def procrustes(self):
         """
