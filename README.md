@@ -1,15 +1,31 @@
 ## Meemi
-#### Yerai Doval...
 
 The following repository includes the code and pre-trained cross-lingual embeddings from the paper *[]()*  ().
 
-### Apply meemi to your cross-lingual embeddings
-
+### Usage
 
 ```bash
-python get...
+get_crossembs.sh EMBEDDING_FILE1 EMBEDDING_FILE2 DICTIONARY_FILE [-vecmap | -muse TRAIN_SIZE VALID_SIZE]
 ```
 
+#### Apply meemi to your cross-lingual embeddings
+
+```bash
+get_crossembs.sh EMBEDDING_FILE1 EMBEDDING_FILE2 DICTIONARY_FILE
+```
+
+#### Use VecMap to align monolingual embeddings and then meemi
+
+```bash
+get_crossembs.sh EMBEDDING_FILE1 EMBEDDING_FILE2 DICTIONARY_FIL
+E -vecmap
+```
+
+#### Use MUSE to align monolingual embeddings and then meemi
+
+```bash
+get_crossembs.sh EMBEDDING_FILE1 EMBEDDING_FILE2 DICTIONARY_FILE -muse TRAIN_SIZE VALID_SIZE
+```
 
 ### Experiments
 
@@ -17,9 +33,11 @@ python get...
 
 #### Bilingual Dictionary Induction
 
+In order to test your embeddings on **bilingual dictionary induction** type the following:
 
-
-
+```bash
+python test.py EMBEDDING_FILE1 EMBEDDING_FILE2 < DICTIONARY_FILE
+```
 
 #### Word similarity
 
