@@ -7,9 +7,9 @@ The following repository includes the code and pre-trained cross-lingual embeddi
 
 We release the 300-dimension word embeddings used in our experiments as binary *bin* files:
 
-- **Monolingual FastText embeddings**: Available [here]()
-- **Baseline cross-lingual embeddings**: Available [here]()
-- **Cross-lingual embeddings post-processed with Meemi**: Available [here]()
+- **Monolingual FastText embeddings**: Available [here](https://drive.google.com/drive/folders/1sQNZN4_2GRkK0Pb1pRJaOpM6Nh8yHJpX?usp=sharing)
+- **Baseline cross-lingual embeddings**: Available [here](https://drive.google.com/drive/folders/1Qq5_fC9kqWUA_YwP3SLPpjCB_KMNvxlB?usp=sharing)
+- **Cross-lingual embeddings post-processed with Meemi**: Available [here](https://drive.google.com/drive/folders/1q0SijS7dcPqN0_N3Ct5_GTKDu3N-_5xB?usp=sharing)
 
 *Note 1:* All embeddings are uncased.
 *Note 2:* If you would like to convert the binary files to *txt*, you can use [convertvec](https://github.com/marekrei/convertvec).
@@ -47,7 +47,6 @@ get_crossembs.sh EMBEDDING_FILE1 EMBEDDING_FILE2 DICTIONARY_FILE -muse TRAIN_DIC
 ```
 
 ### Experiments
-
 
 
 #### Bilingual Dictionary Induction
