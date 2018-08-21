@@ -5,13 +5,15 @@ The following repository includes the code and pre-trained cross-lingual embeddi
 
 ### Pre-trained embeddings
 
-We release the 300-dimension word embeddings used in our experiments as binary *bin* files. If you would like to convert the binary files to *txt*, you can use [convertvec](https://github.com/marekrei/convertvec):
+We release the 300-dimension word embeddings used in our experiments as binary *bin* files:
 
 - **Monolingual FastText embeddings**: Available [here]()
 - **Baseline cross-lingual embeddings**: Available [here]()
 - **Cross-lingual embeddings post-processed with Meemi**: Available [here]()
 
-*Note:* All embeddings are uncased.
+*Note 1:* All embeddings are uncased.
+*Note 2:* If you would like to convert the binary files to *txt*, you can use [convertvec](https://github.com/marekrei/convertvec).
+
 
 **Requirements:**
 
@@ -23,7 +25,7 @@ We release the 300-dimension word embeddings used in our experiments as binary *
 ### Usage
 
 ```bash
-get_crossembs.sh EMBEDDING_FILE1 EMBEDDING_FILE2 DICTIONARY_FILE [-vecmap | -muse TRAIN_SIZE VALID_SIZE]
+get_crossembs.sh EMBEDDING_FILE1 EMBEDDING_FILE2 DICTIONARY_FILE [-vecmap | -muse TRAIN_DICT VALID_DICT]
 ```
 
 #### Apply meemi to your cross-lingual embeddings
@@ -41,7 +43,7 @@ get_crossembs.sh EMBEDDING_FILE1 EMBEDDING_FILE2 DICTIONARY_FILE -vecmap
 #### Use MUSE to align monolingual embeddings and then meemi
 
 ```bash
-get_crossembs.sh EMBEDDING_FILE1 EMBEDDING_FILE2 DICTIONARY_FILE -muse TRAIN_SIZE VALID_SIZE
+get_crossembs.sh EMBEDDING_FILE1 EMBEDDING_FILE2 DICTIONARY_FILE -muse TRAIN_DICT VALID_DICT
 ```
 
 ### Experiments
@@ -66,7 +68,7 @@ python test_similarity_monolingual.py EMBEDDINGS DATASET
 You can also test various datasets at the same time
 
 ```bash
-python test_similarity_monolingual.py EMBEDDINGS DATASET1 DATASET2 ... DATASETN
+python test_similarity_monolingual.py EMBEDDINGS DATASET1 [DATASET2] ... [DATASETN]
 ```
 Likewise, to test your cross-lingual embeddings on **cross-lingual word similarity** type the following:
 
