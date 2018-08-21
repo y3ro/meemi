@@ -44,7 +44,7 @@ get_crossembs.sh SOURCE_EMBEDDINGS TARGET_EMBEDDINGS DICTIONARY_FILE -vecmap
 #### Use MUSE to align monolingual embeddings and then meemi
 
 ```bash
-get_crossembs.sh SOURCE_EMBEDDINGS TARGET_EMBEDDINGS DICTIONARY_FILE -muse TRAIN_DICT VALID_DICT
+get_crossembs.sh SOURCE_EMBEDDINGS TARGET_EMBEDDINGS DICTIONARY_FILE -muse TRAIN_SIZE VALID_SIZE
 ```
 
 ### Experiments
