@@ -1,6 +1,6 @@
 ## Meemi
 
-The following repository includes the code and pre-trained cross-lingual embeddings from the paper *[Improving cross-lingual embeddings by meeting in the middle]()*  (EMNLP 2018).
+The following repository includes the code and pre-trained cross-lingual word embeddings from the paper *[Improving cross-lingual embeddings by meeting in the middle]()*  (EMNLP 2018).
 
 
 ### Pre-trained embeddings
@@ -91,9 +91,9 @@ Coming soon!
 
 If you use any of these resources, please cite the following [paper]():
 ```bash
-@InProceedings{camacho:preprocessing2018,
+@InProceedings{doval:meemiemnlp2018,
   author = 	"Doval, Yerai and Camacho-Collados, Jose and Espinosa-Anke, Luis and Schockaert, Steven",
-  title = 	"Improving cross-lingual embeddings by meeting in the middle",
+  title = 	"Improving cross-lingual word embeddings by meeting in the middle",
   booktitle = 	"Proceedings of EMNLP",
   year = 	"2018",
   publisher = 	"Association for Computational Linguistics",
