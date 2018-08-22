@@ -1,6 +1,6 @@
 ## Meemi
 
-The following repository includes the code and pre-trained cross-lingual word embeddings from the paper *[Improving cross-lingual embeddings by meeting in the middle]()*  (EMNLP 2018).
+The following repository includes the code and pre-trained cross-lingual word embeddings from the paper *[Improving cross-lingual word embeddings by meeting in the middle]()*  (EMNLP 2018).
 
 
 ### Pre-trained embeddings
@@ -78,11 +78,11 @@ python test_similarity_crosslingual.py SOURCE_EMBEDDINGS TARGET_EMBEDDINGS DATAS
 As with monolingual similarity, you can also test various datasets at the same time. Below is an example of how to test your English-Spanish cross-lingual embeddings on all the monolingual and cross-lingual word similarity datasets:
 
 ```bash
-python test_similarity_monolingual.py XXXXXXXXX XXXXXXXXX data/SimLex/simlex-999_english.txt data/SemEval2018-subtask1-monolingual/english.txt data/rg65-monolingual/rg65_english.txt data/WS353-monolingual/WS353-english-sim.txt
-python test_similarity_monolingual.py XXXXXXXXX XXXXXXXXX data/SemEval2018-subtask1-monolingual/spanish.txt data/rg65-monolingual/rg65_spanish.txt 
-python test_similarity_crosslingual.py XXXXXXXXX XXXXXXXXX data/SemEval2018-subtask2-crosslingual/en-es.txt data/rg65-crosslingual/rg65_EN-ES.txt
+python test_similarity_monolingual.py EN-ES.english.vecmap.meemi.bin data/SimLex/simlex-999_english.txt data/SemEval2018-subtask1-monolingual/english.txt data/rg65-monolingual/rg65_english.txt data/WS353-monolingual/WS353-english-sim.txt
+python test_similarity_monolingual.py EN-ES.english.vecmap.meemi.bin data/SemEval2018-subtask1-monolingual/spanish.txt data/rg65-monolingual/rg65_spanish.txt 
+python test_similarity_crosslingual.py EN-ES.english.vecmap.meemi.bin EN-ES.spanish.vecmap.meemi.bin data/SemEval2018-subtask2-crosslingual/en-es.txt data/rg65-crosslingual/rg65_EN-ES.txt
 ```
-*Note:* This code assumes that lowercased words are provided as input. If you would like to mantain the casing, simply remove the *.lower()* commands in the evaluation scripts.
+*Note:* This code assumes that lowercased word embeddings are provided as input. If you would like to mantain the casing, simply remove the *.lower()* commands in the evaluation scripts.
 
 #### Hypernym Discovery
 
