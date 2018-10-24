@@ -1,0 +1,15 @@
+clinical finding	inflammatory disorder	keratitis	vascular disease	degenerative disorder	disease	sickness	tumor	cranium	connective tissue	organ	closure	occlusion	attack	blockage
+craniofacial pain	pain	headache	vascular disease	degenerative disorder	disease	sickness	tumor	cranium	connective tissue	organ	closure	occlusion	attack	blockage
+clinical finding	inflammatory disorder	keratitis	vascular disease	degenerative disorder	disease	sickness	tumor	cranium	connective tissue	organ	closure	occlusion	attack	blockage
+clinical finding	inflammatory disorder	keratitis	vascular disease	degenerative disorder	disease	sickness	tumor	cranium	connective tissue	organ	closure	occlusion	attack	blockage
+craniofacial pain	pain	headache	vascular disease	degenerative disorder	disease	sickness	tumor	cranium	connective tissue	organ	closure	occlusion	attack	blockage
+clinical finding	inflammatory disorder	keratitis	vascular disease	degenerative disorder	disease	sickness	tumor	cranium	connective tissue	organ	closure	occlusion	attack	blockage
+clinical finding	inflammatory disorder	keratitis	vascular disease	degenerative disorder	disease	sickness	tumor	cranium	connective tissue	organ	closure	occlusion	attack	blockage
+craniofacial pain	pain	headache	vascular disease	degenerative disorder	disease	sickness	tumor	cranium	connective tissue	organ	closure	occlusion	attack	blockage
+clinical finding	inflammatory disorder	keratitis	vascular disease	degenerative disorder	disease	sickness	tumor	cranium	connective tissue	organ	closure	occlusion	attack	blockage
+craniofacial pain	pain	headache	vascular disease	degenerative disorder	disease	sickness	tumor	cranium	connective tissue	organ	closure	occlusion	attack	blockage
+clinical finding	inflammatory disorder	keratitis	vascular disease	degenerative disorder	disease	sickness	tumor	cranium	connective tissue	organ	closure	occlusion	attack	blockage
+clinical finding	inflammatory disorder	keratitis	vascular disease	degenerative disorder	disease	sickness	tumor	cranium	connective tissue	organ	closure	occlusion	attack	blockage
+clinical finding	inflammatory disorder	keratitis	vascular disease	degenerative disorder	disease	sickness	tumor	cranium	connective tissue	organ	closure	occlusion	attack	blockage
+clinical finding	inflammatory disorder	keratitis	vascular disease	degenerative disorder	disease	sickness	tumor	cranium	connective tissue	organ	closure	occlusion	attack	blockage
+craniofacial pain	pain	headache	vascular disease	degenerative disorder	disease	sickness	tumor	cranium	connective tissue	organ	closure	occlusion	attack	blockage

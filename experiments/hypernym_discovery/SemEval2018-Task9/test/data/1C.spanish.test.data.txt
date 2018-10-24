@@ -1,0 +1,1000 @@
+Los Cabos	Entity
+Ugarit	Entity
+gorrión	Concept
+caseta	Concept
+parque zoológico	Concept
+William Gates	Entity
+oseta	Concept
+Muskogee	Entity
+canotier	Concept
+Aristóteles	Entity
+quilate	Concept
+República de Kosovo	Entity
+catamarán	Concept
+Thomas Hobbes	Entity
+coulomb	Concept
+Almanzor	Entity
+Netscape	Entity
+zelote	Concept
+Thorstein Veblen	Entity
+Rasputín	Entity
+Rif	Entity
+colinabo	Concept
+Paul Ehrlich	Entity
+jinete	Concept
+Vrba	Entity
+asesor	Concept
+fibrosis	Concept
+sábana	Concept
+Leonhard Euler	Entity
+Leonardo Boff	Entity
+culombio	Concept
+pasta de dientes	Concept
+cañonero	Concept
+fuga	Concept
+altiplano	Concept
+apatita	Concept
+energía hidroeléctrica	Concept
+artropatía	Concept
+cisterna	Concept
+David Villa	Entity
+Aquaman	Entity
+punto y coma	Concept
+monocultivo	Concept
+prion	Concept
+latencia	Concept
+conejo	Concept
+Alfredo Kraus	Entity
+cheroqui	Concept
+incinerador	Concept
+diácono	Concept
+interfaz	Concept
+cláusula	Concept
+mens rea	Concept
+movimiento obrero	Concept
+Antártida	Entity
+semental	Concept
+adopción	Concept
+carámbano	Concept
+paella	Concept
+sierra eléctrica	Concept
+Filippino Lippi	Entity
+parto	Concept
+fandango	Concept
+viola	Concept
+cantimplora	Concept
+gardenia	Concept
+Mauna Loa	Entity
+busardo	Concept
+hidroavión	Concept
+Australia	Entity
+foso	Concept
+Sina Weibo	Entity
+Paseo de Gracia	Entity
+sonda	Concept
+Prithvi	Entity
+estrofa	Concept
+maní	Concept
+sapo	Concept
+Chris Evert	Entity
+acarreo	Concept
+Antrim	Entity
+huracán	Concept
+Palacio de Westminster	Entity
+autarquía	Concept
+mayonesa	Concept
+estambre	Concept
+Quepos	Entity
+vaca	Concept
+Ceuta	Entity
+cháchara	Concept
+Eli Lilly	Entity
+tetrodo	Concept
+La Pedrera	Entity
+ribosoma	Concept
+Keeler	Entity
+turbiedad	Concept
+puente peatonal	Concept
+Biasca	Entity
+autocar	Concept
+Plovdiv	Entity
+Kofi Annan	Entity
+Héctor Varela	Entity
+instituto politécnico	Concept
+Bildu	Entity
+caqui	Concept
+Samuel Goldwyn	Entity
+Nacho Canut	Entity
+Díaz Vélez	Entity
+darwinismo	Concept
+estufa	Concept
+panencefalitis	Concept
+Partido Popular	Entity
+secadora	Concept
+fortaleza	Concept
+chicharrón	Concept
+cuadrilla	Concept
+guante	Concept
+becerro	Concept
+sextante	Concept
+Shaftesbury	Entity
+Kilimanjaro	Entity
+dáctilo	Concept
+Delilah	Entity
+tormenta de polvo	Concept
+albañil	Concept
+espelta	Concept
+Georges Simenon	Entity
+albatros	Concept
+Junípero Serra	Entity
+tamiz	Concept
+Mauricio Funes	Entity
+Saladillo	Entity
+Boston Celtics	Entity
+dashiki	Concept
+filatelia	Concept
+nectario	Concept
+Helmut Schmidt	Entity
+rompeolas	Concept
+vértigo	Concept
+Universidad de Cambridge	Entity
+afelio	Concept
+Centaurus	Entity
+atmósfera	Concept
+poliomielitis	Concept
+hipérbaton	Concept
+gasoil	Concept
+Bob's Burgers	Entity
+sociometría	Concept
+firmware	Concept
+John Gielgud	Entity
+pizarrón	Concept
+Islas de Sotavento	Entity
+SNCF	Entity
+Chauliodus	Concept
+Cadbury Schweppes	Entity
+puente móvil	Concept
+vena cava inferior	Concept
+Arquelao	Entity
+epígrafe	Concept
+Francesco Petrarca	Entity
+carmesí	Concept
+mancuerna	Concept
+tetralogía	Concept
+Hayti	Entity
+vapor	Concept
+nepalés	Concept
+péptido	Concept
+Licinio	Entity
+asfalto	Concept
+pupila	Concept
+moscardón	Concept
+Atlántico	Entity
+José Luis Uribarri	Entity
+maquinista	Concept
+babor	Concept
+filibustero	Concept
+Wyatt Earp	Entity
+herido	Concept
+Vikram	Entity
+Arizona	Entity
+Joseph John Thomson	Entity
+Neil Armstrong	Entity
+Domingo de Ramos	Entity
+Ercilla	Entity
+historiador	Concept
+Martorell	Entity
+sibarita	Concept
+monarquía	Concept
+osario	Concept
+cinta azul	Concept
+Wolfgang Pauli	Entity
+insecticida	Concept
+ventrículo	Concept
+Ures	Entity
+Melipilla	Entity
+Rhamnaceae	Concept
+infusión	Concept
+sepia	Concept
+planta química	Concept
+embudo	Concept
+polvareda	Concept
+Victoria Ocampo	Entity
+fiscal general	Concept
+lingote	Concept
+tabula rasa	Concept
+opio	Concept
+hernia discal	Concept
+José Revueltas	Entity
+Changzhou	Entity
+Mandala Airlines	Entity
+Ubisoft	Entity
+nevada	Concept
+autoestopista	Concept
+Ramón Tamames	Entity
+Pichilemu	Entity
+estrato	Concept
+Steve Jobs	Entity
+clástico	Concept
+lentisco	Concept
+Izamal	Entity
+convoy	Concept
+admirador	Concept
+coima	Concept
+mochila	Concept
+brida	Concept
+fructosa	Concept
+Hollis	Entity
+bobina	Concept
+soprano	Concept
+chador	Concept
+convenio colectivo	Concept
+Athlone	Entity
+vizcondesa	Concept
+Cornelius Vanderbilt	Entity
+progenitor	Concept
+vía férrea	Concept
+fariseo	Concept
+Darfur	Entity
+Kinnikuman	Entity
+ferromagnetismo	Concept
+muro	Concept
+Sarah Vaughan	Entity
+cementerio	Concept
+canciller	Concept
+ojeador	Concept
+hemorragia cerebral	Concept
+Tucídides	Entity
+aerosol	Concept
+panto	Concept
+ronquera	Concept
+Brigham	Entity
+relato	Concept
+parabrisas	Concept
+sifón	Concept
+terracota	Concept
+autopista	Concept
+adulterante	Concept
+freno de mano	Concept
+martinete	Concept
+regocijo	Concept
+quiosco	Concept
+Isla de Man	Entity
+Bill Russell	Entity
+metilación	Concept
+espectro	Concept
+Batalla de Trafalgar	Entity
+asesinato	Concept
+Ramsés II	Entity
+herrador	Concept
+Paul Dirac	Entity
+piedra	Concept
+VIH	Concept
+Valparaíso	Entity
+Uriangato	Entity
+Microsoft Office	Entity
+Slipknot	Entity
+Bertram	Entity
+sexología	Concept
+Jean Giraudoux	Entity
+letra de cambio	Concept
+Xbox 360	Entity
+hipervelocidad	Concept
+tifón	Concept
+asesino en serie	Concept
+Birkenau	Entity
+Alan Shepard	Entity
+Backstreet Boys	Entity
+quinasa	Concept
+gobierno	Concept
+Vilfredo Pareto	Entity
+Fausto Pocar	Entity
+acuerdo	Concept
+acidez	Concept
+néctar	Concept
+zapato	Concept
+Shivá	Entity
+Canon	Entity
+Pierrot	Entity
+estaca	Concept
+Dinamarca	Entity
+Tetra Pak	Entity
+lavaplatos	Concept
+excavación	Concept
+bulldozer	Concept
+faja	Concept
+leche en polvo	Concept
+cancha de tenis	Concept
+neurocirujano	Concept
+caoba	Concept
+geómetra	Concept
+elocución	Concept
+erudito	Concept
+demonio	Concept
+bronce	Concept
+teofanía	Concept
+zoofilia	Concept
+Pol	Entity
+curativo	Concept
+Throbbing Gristle	Entity
+microeconomía	Concept
+aceite de palma	Concept
+blasón	Concept
+Megumi	Entity
+mofa	Concept
+arenisca	Concept
+zeolita	Concept
+orgasmo	Concept
+vía peatonal	Concept
+mangonel	Concept
+calicó	Concept
+pampa	Concept
+cocaína	Concept
+paso subterráneo	Concept
+baldosa	Concept
+cocina	Concept
+Gascuña	Entity
+bajel	Concept
+Cayo César	Entity
+mitocondria	Concept
+clavel	Concept
+búfalo	Concept
+Eugene O'Neill	Entity
+Vanua Levu	Entity
+Benigno Aquino III	Entity
+Gannicus	Entity
+anillo	Concept
+ácido fólico	Concept
+Gubbio	Entity
+Chengdu	Entity
+cebada	Concept
+teléfono	Concept
+sintoísmo	Concept
+grapadora	Concept
+Jerry Lynn	Entity
+ofimática	Concept
+perla	Concept
+Delos	Entity
+sémola	Concept
+medalla de bronce	Concept
+naipe	Concept
+pesca	Concept
+fisura	Concept
+Panzer	Entity
+Isamu Noguchi	Entity
+Mariano Moreno	Entity
+protuberancia	Concept
+Diego de Siloé	Entity
+complemento	Concept
+democracia liberal	Concept
+lancha	Concept
+Alexis de Tocqueville	Entity
+Capilla Sixtina	Entity
+Canfield	Entity
+Pablo de Tarso	Entity
+Donghae	Entity
+mimo	Concept
+arquitecto	Concept
+tobillo	Concept
+Lasalle	Entity
+aparejo	Concept
+dedo	Concept
+epidermis	Concept
+fenol	Concept
+Gluck	Entity
+acantilado	Concept
+crítico literario	Concept
+nefrectomía	Concept
+generador eléctrico	Concept
+Chevrolet	Entity
+minería	Concept
+Ramsés	Entity
+Castril	Entity
+pauperismo	Concept
+brazalete	Concept
+Mickie James	Entity
+paisa	Concept
+narcosis	Concept
+Apus	Entity
+Conrado del Campo	Entity
+esperanza	Concept
+rompope	Concept
+baloncesto	Concept
+hornero	Concept
+Madrid	Entity
+paseante	Concept
+Shah Jahan	Entity
+Luzia	Entity
+Universidad Cornell	Entity
+Richard Trevithick	Entity
+ciruela	Concept
+arado	Concept
+José Montilla	Entity
+San Ginés	Entity
+Alfonso XIII	Entity
+imprenta	Concept
+uniforme	Concept
+Quilpué	Entity
+Montagu	Entity
+fosa	Concept
+Leonardo DiCaprio	Entity
+húsar	Concept
+Golden State Warriors	Entity
+Deep Purple	Entity
+amoxicilina	Concept
+anomalía	Concept
+serpentina	Concept
+aldaba	Concept
+sensor	Concept
+Burke	Entity
+Mondoñedo	Entity
+Huamanga	Entity
+recursos humanos	Concept
+calesa	Concept
+comedor	Concept
+Zacarías	Entity
+esquirol	Concept
+castor	Concept
+escarapela	Concept
+estado de guerra	Concept
+rock	Concept
+cajero automático	Concept
+Rómulo Betancourt	Entity
+malla	Concept
+rompecabezas	Concept
+uva	Concept
+audiofrecuencia	Concept
+Jack Lemmon	Entity
+toldo	Concept
+Glee	Entity
+picómetro	Concept
+Woodstock	Entity
+gusano informático	Concept
+Polaroid	Entity
+menta	Concept
+bomba	Concept
+mercado de valores	Concept
+antílope	Concept
+bautizo	Concept
+Somport	Entity
+permeabilidad	Concept
+falsificación	Concept
+jeroglífico	Concept
+feticidio	Concept
+artífice	Concept
+El Hierro	Entity
+semanal	Concept
+Las Delicias	Entity
+mate	Concept
+Eddy Merckx	Entity
+costura	Concept
+radián	Concept
+pectoral	Concept
+sedimento	Concept
+geoquímica	Concept
+chinook	Concept
+megalitismo	Concept
+fraternidad	Concept
+barco	Concept
+cerio	Concept
+vendaval	Concept
+citrulina	Concept
+Van Helsing	Entity
+capitalista	Concept
+cienasta	Concept
+cosecha	Concept
+Eduardo el Confesor	Entity
+Zeballos	Entity
+Keanu Reeves	Entity
+vulnerabilidad	Concept
+Arbeca	Entity
+Benjamín Vicuña	Entity
+ampolleta	Concept
+pecera	Concept
+Nostradamus	Entity
+zanahoria	Concept
+imperio	Concept
+leucemia	Concept
+magistrado	Concept
+arenero	Concept
+Tim Robbins	Entity
+sarta	Concept
+Illuminati	Entity
+Narvik	Entity
+Fitz Roy	Entity
+Cólquide	Entity
+holograma	Concept
+polifonía	Concept
+trióxido	Concept
+redondel	Concept
+cinismo	Concept
+discernimiento	Concept
+camarero	Concept
+protista	Concept
+Francesc Macià	Entity
+jerbo	Concept
+siluro	Concept
+limonada	Concept
+Stomiidae	Concept
+grosella	Concept
+primavera	Concept
+ánodo	Concept
+Disraeli	Entity
+cappuccino	Concept
+albergue juvenil	Concept
+Guadalajara	Entity
+Banshee	Entity
+nabo	Concept
+Adelbert von Chamisso	Entity
+Viladecans	Entity
+mapache	Concept
+bombardino	Concept
+turbohélice	Concept
+albura	Concept
+Venus Williams	Entity
+Jacques Maritain	Entity
+Shinkansen	Entity
+Rocketeer	Entity
+Harriet Tubman	Entity
+mesa	Concept
+número atómico	Concept
+mihrab	Concept
+Konrad Adenauer	Entity
+Sarasvati	Entity
+niobio	Concept
+Alberto Contador	Entity
+efusión	Concept
+cigüeñal	Concept
+acuñación	Concept
+Van Horn	Entity
+Mayapán	Entity
+jerga	Concept
+chismorreo	Concept
+campanario	Concept
+moho	Concept
+cacique	Concept
+mansarda	Concept
+Mickey Mouse	Entity
+árbol	Concept
+jansenista	Concept
+barrera de hielo	Concept
+birimbao	Concept
+guardafrenos	Concept
+vate	Concept
+peso muerto	Concept
+pulla	Concept
+hielo seco	Concept
+lago Lemán	Entity
+metilo	Concept
+hemiciclo	Concept
+James Stewart	Entity
+prostatectomía	Concept
+carga explosiva	Concept
+Svanetia	Entity
+cocodrilo	Concept
+vengador	Concept
+culebrón	Concept
+saquinavir	Concept
+Kirkland	Entity
+dama de honor	Concept
+editor de textos	Concept
+graznido	Concept
+ciberespacio	Concept
+American Idol	Entity
+procurador general	Concept
+percentil	Concept
+piscicultura	Concept
+Strobel	Entity
+vado	Concept
+espacio euclídeo	Concept
+editorial	Concept
+hurto	Concept
+escudero	Concept
+fumigación	Concept
+parchís	Concept
+neuropsicología	Concept
+Weld	Entity
+delineador	Concept
+Caloocan	Entity
+Franz Lehár	Entity
+Parnell	Entity
+Fernando de Magallanes	Entity
+lapidación	Concept
+Elvis Costello	Entity
+diéresis	Concept
+Francesc Layret	Entity
+suero	Concept
+Henrique Capriles	Entity
+crepe	Concept
+escanda	Concept
+terrateniente	Concept
+Vladimir Lenin	Entity
+Hopkinson	Entity
+plagio	Concept
+Magón Barca	Entity
+sello	Concept
+Hilliard	Entity
+boliche	Concept
+estación de ferrocarril	Concept
+embarazo	Concept
+confit	Concept
+vasallaje	Concept
+Sotavento	Entity
+PSV Eindhoven	Entity
+reloj	Concept
+Theodore Roosevelt	Entity
+resonancia	Concept
+cingalés	Concept
+rascacielos	Concept
+Juggernaut	Entity
+hiyab	Concept
+Guitar Hero	Entity
+lobato	Concept
+Melanie Klein	Entity
+Aquisgrán	Entity
+ópera	Concept
+Universidad de Oxford	Entity
+Francisco de Ulloa	Entity
+ósmosis	Concept
+consonante	Concept
+Castellar	Entity
+videocámara	Concept
+sarong	Concept
+cráter	Concept
+tolueno	Concept
+Del Close	Entity
+agronomía	Concept
+Zurbano	Entity
+hetaira	Concept
+piñón	Concept
+balanza comercial	Concept
+claqueta	Concept
+galardón	Concept
+anticonceptivo	Concept
+piridina	Concept
+Bhaskar	Entity
+parafina	Concept
+cisne	Concept
+campo de concentración	Concept
+Opel	Entity
+espalda	Concept
+Zaragoza	Entity
+McGuffey	Entity
+Cleopatra VII	Entity
+sismología	Concept
+policromía	Concept
+hucha	Concept
+alhaja	Concept
+cortisona	Concept
+huella dactilar	Concept
+órgano	Concept
+tren	Concept
+Gil González Dávila	Entity
+lira italiana	Concept
+cemento armado	Concept
+presidiario	Concept
+drupa	Concept
+armada	Concept
+Antillas Mayores	Entity
+Albus Dumbledore	Entity
+ventana	Concept
+patinaje artístico	Concept
+lilium	Concept
+librería	Concept
+besugo	Concept
+raquetbol	Concept
+compilador	Concept
+franco suizo	Concept
+aerogenerador	Concept
+Brubaker	Entity
+Federico Fellini	Entity
+canje	Concept
+PlayStation 2	Entity
+guarnición	Concept
+furgón de cola	Concept
+Irak	Entity
+PeopleSoft	Entity
+Bill Clinton	Entity
+Alcanó	Entity
+Lambayeque	Entity
+bilabial	Concept
+contratenor	Concept
+bronquitis	Concept
+Hangzhou	Entity
+Claypool	Entity
+cereza	Concept
+Wang Yingfan	Entity
+Myriam de Urquijo	Entity
+bache	Concept
+Frank Zappa	Entity
+Dobruja	Entity
+rombo	Concept
+Julius Erving	Entity
+Mamá Oca	Entity
+Maung Maung	Entity
+hipnotismo	Concept
+Lance Armstrong	Entity
+ópalo	Concept
+Luis Eduardo Aute	Entity
+Juan Caboto	Entity
+emboscada	Concept
+Sambre	Entity
+melancolía	Concept
+Gavarres	Entity
+Universidad de Cornell	Entity
+manos muertas	Concept
+cable coaxial	Concept
+Masato	Entity
+Jan Hus	Entity
+angostura	Concept
+audífono	Concept
+astronave	Concept
+gastrónomo	Concept
+bismuto	Concept
+honorario	Concept
+hidrófugo	Concept
+Stuttgart	Entity
+teriyaki	Concept
+restaurador	Concept
+pachinko	Concept
+Los Ángeles	Entity
+gazebo	Concept
+orden de arresto	Concept
+majadero	Concept
+escuadrón	Concept
+interferómetro	Concept
+sulfato	Concept
+tarjeta bancaria	Concept
+Clelia	Entity
+Matt Groening	Entity
+burguesía	Concept
+Cotacachi	Entity
+Gengis Khan	Entity
+Federico Madrazo	Entity
+trovador	Concept
+nitrógeno	Concept
+Laos	Entity
+biberón	Concept
+tauromaquia	Concept
+lava	Concept
+Manolete	Entity
+trenza	Concept
+torsión	Concept
+cresol	Concept
+banco de nieve	Concept
+Héctor Olivera	Entity
+Hermann Minkowski	Entity
+sistema operativo	Concept
+John Maynard Keynes	Entity
+Gesneriaceae	Concept
+nitrato	Concept
+jácena	Concept
+James Cook	Entity
+prismáticos	Concept
+San Justo	Entity
+Connecticut	Entity
+acreedor	Concept
+jazmín	Concept
+Singapur	Entity
+ninjutsu	Concept
+Ausiàs March	Entity
+monarquía parlamentaria	Concept
+granate	Concept
+macizo	Concept
+Mensa	Entity
+colonialismo	Concept
+cesto	Concept
+Camp Nou	Entity
+Termópilas	Entity
+barro	Concept
+Robinson Crusoe	Entity
+aurora boreal	Concept
+cetosis	Concept
+confinamiento	Concept
+sobrealimentación	Concept
+verja	Concept
+apicultor	Concept
+lustre	Concept
+esteticista	Concept
+Martín Vázquez	Entity
+úlcera	Concept
+camarote	Concept
+pantano	Concept
+argén	Concept
+Francisco de Ibarra	Entity
+Artajerjes II	Entity
+Netto	Entity
+algarada	Concept
+Alí Chumacero	Entity
+flautista	Concept
+Wentworth	Entity
+quesera	Concept
+Badr	Entity
+teoría de Galois	Concept
+pirofosfato	Concept
+Josep Guinovart	Entity
+Falstaff	Entity
+desierto del Sinaí	Entity
+monolito	Concept
+pulpa de celulosa	Concept
+Lindstrom	Entity
+Colima	Entity
+Cancún	Entity
+bencilo	Concept
+vigilante	Concept
+Abbey Road	Entity
+aviación	Concept
+Urbain Le Verrier	Entity
+cimera	Concept
+torturador	Concept
+tormenta ígnea	Concept
+Christopher Lee	Entity
+lanzallamas	Concept
+Nicolás I	Entity
+Principado de Mónaco	Entity
+Manlio Fabio Beltrones	Entity
+Theia	Entity
+Madame Bovary	Entity
+Jessye Norman	Entity
+Catalina Parr	Entity
+Elizabethtown	Entity
+Brewster	Entity
+citrato	Concept
+pandereta	Concept
+cosechador	Concept
+llanero	Concept
+abrecartas	Concept
+panfleto	Concept
+Holloway	Entity
+San Simón	Entity
+Zachary Taylor	Entity
+Sumter	Entity
+GIMP	Entity
+Ávila Camacho	Entity
+La Alpujarra	Entity
+sorgo	Concept
+velcro	Concept
+geodésica	Concept
+John Gilbert	Entity
+tubería	Concept
+catolicismo	Concept
+minifalda	Concept
+agricultor	Concept
+trópico	Concept
+tetraedro	Concept
+deformación	Concept
+pilotaje	Concept
+facultad	Concept
+Océano Índico	Entity
+cristalógrafo	Concept
+Doncaster	Entity
+Vasco da Gama	Entity
+Union Square	Entity
+Wharton	Entity
+taller	Concept
+salina	Concept
+ábaco	Concept
+káiser	Concept
+garrucha	Concept
+buffer	Concept
+harina de soja	Concept
+Zapopan	Entity
+detonador	Concept
+Alfredo Stroessner	Entity
+lienzo	Concept
+mimetismo	Concept
+Frank Lloyd Wright	Entity
+Oliver Cromwell	Entity
+Walt Whitman	Entity
+alfiletero	Concept
+beduino	Concept
+Isabelle Huppert	Entity
+piano de cola	Concept
+coca	Concept
+Asiria	Entity
+yogur	Concept
+cebolleta	Concept
+monograma	Concept
+sulfonato	Concept
+William Wordsworth	Entity
+Santorini	Entity
+política exterior	Concept
+baluarte	Concept
+sospechoso	Concept
+Irlanda del Norte	Entity
+catabolismo	Concept
+candil	Concept
+fibra de vidrio	Concept
+liquidámbar	Concept
+Imperio otomano	Entity
+RPC	Entity
+Julio Iglesias	Entity
+sartén	Concept
+Eurydice	Entity
+seda dental	Concept
+John Sawers	Entity
+vellocino de oro	Concept
+Horemheb	Entity
+Camaná	Entity
+kayak	Concept
+cogote	Concept
+Lles	Entity
+conservatorio	Concept
+La 2	Entity
+tonelada	Concept
+Garden State	Entity
+sable	Concept
+Sleepy Hollow	Entity
+Hendrik Verwoerd	Entity
+tesorero	Concept
+crisálida	Concept
+Ahuachapán	Entity
+Elias Canetti	Entity
+página web	Concept
+bastión	Concept
+circuitería	Concept
+raíz cuadrada	Concept
+Rajiv	Entity
+émbolo	Concept
+Apolonia	Entity
+Pedro Salinas	Entity
+legumbre	Concept
+Beatrice Lillie	Entity
+embalaje	Concept
+peseta	Concept
+RDX	Entity
+biblioteca	Concept
+dormitorio	Concept
+flagelación	Concept
+vulcanología	Concept
+Deutsche Bank	Entity
+Miguel Ángel Aguilar	Entity
+fabricante	Concept
+resistencia eléctrica	Concept
+oleaje	Concept
+guion	Concept
+John Bolton	Entity
+Yoda	Entity
+Gaylord	Entity
+sombrero hongo	Concept
+Úbeda	Entity
+chovinismo	Concept
+bola de nieve	Concept
+Aldred	Entity
+homofobia	Concept
+teniente general	Concept
+Katiusha	Entity
+minibar	Concept
+sarampión	Concept
+historial clínico	Concept
+buspirona	Concept
+pimentón	Concept
+Harry Truman	Entity
+Genghis Khan	Entity
+mitosis	Concept
+Canopus	Entity
+tallista	Concept
+cedente	Concept
+TRAC	Entity
+zozobra	Concept
+pan de jengibre	Concept
+quitaesmalte	Concept
+Castillo de Windsor	Entity
+Maccabi Tel Aviv	Entity
+rosetón	Concept
+herbicida	Concept
+transliteración	Concept
+Alan García	Entity
+Marie Curie	Entity
+Mortadelo y Filemón	Entity
+Carlos Manuel	Entity
+Renault	Entity
+Santiago Bernabéu	Entity
+obsidiana	Concept
+opulencia	Concept
+camaleón	Concept
+nailon	Concept
+Indiana Pacers	Entity
+cladograma	Concept
+Panamá	Entity
+hipotálamo	Concept

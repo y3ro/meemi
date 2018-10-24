@@ -1,0 +1,50 @@
+dirham	Concept
+sociology department	Concept
+Burger King	Entity
+fertility rate	Concept
+drug of abuse	Concept
+Griselda	Entity
+Tim Tebow	Entity
+sedative	Concept
+RELCOM	Entity
+lemongrass	Concept
+honorable discharge	Concept
+tussle	Concept
+in-joke	Concept
+shambles	Concept
+Bierstadt	Entity
+gamesmanship	Concept
+calmodulin	Concept
+shellac	Concept
+Pinot blanc	Concept
+Emmeline Pankhurst	Entity
+pinny	Concept
+polysemy	Concept
+Neon Genesis Evangelion	Entity
+StarCraft	Entity
+Konstantin Tsiolkovsky	Entity
+catechumen	Concept
+bloodguilt	Concept
+Hurricane Iniki	Entity
+cloister	Concept
+Don McKellar	Entity
+Funen	Entity
+Showroom	Concept
+Kralendijk	Entity
+burgh	Concept
+palisade	Concept
+Cromford Canal	Entity
+Minnamurra	Entity
+cingulate gyrus	Concept
+Nsanje	Entity
+Quebec	Entity
+marquee	Concept
+Heming	Entity
+timepiece	Concept
+roundhouse	Concept
+tahini	Concept
+entente	Concept
+Jurmo	Entity
+boatlift	Concept
+dragonfly	Concept
+Matthew Murphy	Entity

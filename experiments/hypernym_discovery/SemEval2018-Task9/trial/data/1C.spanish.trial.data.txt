@@ -1,0 +1,25 @@
+fábrica	Concept
+poeta	Concept
+cerbatana	Concept
+Picasso	Entity
+desfiladero	Concept
+camión	Concept
+ornitorrinco	Concept
+cuentagotas	Concept
+panera	Concept
+diciembre	Concept
+Lisandro	Entity
+tsunami	Concept
+Awake	Entity
+Eduardo Chillida	Entity
+aditivo alimentario	Concept
+Ginkgo	Concept
+naranja	Concept
+espironolactona	Concept
+calderilla	Concept
+carraca	Concept
+Ley de Grimm	Concept
+nube de polvo	Concept
+psicopatología	Concept
+leche	Concept
+rambla	Concept

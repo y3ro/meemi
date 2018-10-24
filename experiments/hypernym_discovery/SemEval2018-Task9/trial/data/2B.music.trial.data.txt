@@ -1,0 +1,15 @@
+alto clarinet	Concept
+suite	Concept
+ostinato	Concept
+baritone saxophone	Concept
+indie rock	Concept
+rocksteady	Concept
+motif	Concept
+cantus firmus	Concept
+bagatelle	Concept	
+Radiohead	Entity
+Planet Earth	Entity
+Kaleidoscope	Entity
+Loaded	Entity
+Sister Ray	Entity
+Tom Waits	Entity

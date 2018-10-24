@@ -1,0 +1,1000 @@
+municipio	pueblo	entidad territorial
+ciudad	comunidad	entidad territorial	urbe
+ave	pájaro	animal	vertebrado
+mueble	tenderete	barraca
+servicio	instalación	local	atracción turística
+persona	deportista	informático	filántropo
+lenguaje	lengua	familia de lenguas
+ciudad	entidad territorial
+trabajador	sombrero	persona
+cráter de impacto	astroblema	polímata	filósofo	cráter	intelectual	hombre de letras	erudito	sabio	docto	estudioso	persona	depresión natural	formación geológica	accidente geográfico
+unidad de masa	unidad de medida	cantidad definida
+estado federado	país
+barco	bote	embarcación	velero	embarcación de vela	embarcación a vela	balandra	barco de vela	vehículo	transporte naval	transporte fluvial	marina mercante	medio de transporte
+filósofo	docto	sabio	erudito	estudioso	persona	intelectual
+sistema métrico	sistema de unidades	unidad de medida
+militar	político	persona	pico	montaña
+compañía	firma	navegador web	browser	navegador	explorador	aplicación informática	aplicación
+pueblo judío	judío	grupo étnico	etnia	persona
+economista	sociólogo	persona
+canción	político	persona
+cordillera	sierra	elevación	accidente geográfico	formación geológica	escena	vecindad
+raíz	legumbre	verdura	hortaliza	vegetal	nabo	hierba	herbácea	planta	producto agrícola	tubérculo
+bacteriólogo	quimioterapia	facultativo	doctor	microbiólogo	biólogo	persona	naturalista
+soldado	estatua	militar	persona	escultura	guerrero
+pueblo	caserío	aldea	aldehuela	comunidad	villa	entidad territorial	aglomeración urbana	zona metropolitana	área metropolitana	vecindad	hábitat	municipio	área urbana	población urbana	centro urbano
+consejero	persona
+patología	enfermedad	diagnóstico médico	condición
+ropa de cama	tela
+matemático	físico	persona
+persona	teólogo	sacerdote	filósofo	escritor	profesor	ecologista
+unidad de medida	cantidad definida
+dentífrico	compuesto químico	compuesto
+militar	guerrero	persona
+hoyo	agujero	cavidad	hueco	escape	huida	contrapunto
+accidente geográfico	elevación	formación geológica	vecindad	hábitat
+mineral	facies	compuesto químico	compuesto	roca	piedra
+fenómeno	energía
+patología	enfermedad	diagnóstico médico
+receptáculo	estanque	tanque	embalaje	recinto	recipiente	tallo	barril	cuba	tonel
+futbolista	deportista	persona
+personaje	superhéroe	persona
+puntuación	signo de puntuación	signo	símbolo escrito	grafema
+cultivo	cría	cultivación	labor	producción	proceso de negocio
+biota	partícula subatómica	partícula	patógeno	agente biológico patógeno	microorganismo
+lapso	tiempo
+presa	caza	mamífero	vertebrado	producto animal	animal
+tenor	voz	persona	cantante	cantor
+nativo	indígena	sistema de escritura	lenguaje	lengua	lengua iroquesa	grupo étnico	etnia
+horno	electrodoméstico	máquina
+sacerdote	ministro	clérigo	pastor	sacerdote católico	reverendo
+interacción	circuito	circuito eléctrico	circuito electrónico	circuitería	código informático
+constituyente sintáctico	condición	sintagma	premisa	supuesto	postulado
+mente	persona
+movimiento social	movimiento	acción social
+película	producción	filme	ecozona	región polar	hábitat	zona intertropical	trópico	extensión	superficie
+caballo	mamífero
+trámite	trámite legal	diligencia
+hielo	h2o	agua	compuesto	cristal	líquido	fluido
+plato	receta de cocina	receta	producto alimenticio
+sierra	serrucho	herramienta de mano	herramienta manual	máquina
+maestro	pintor	persona
+nacimiento	alumbramiento
+danza	baile	baile social
+instrumento de cuerda	cordófono	instrumento musical	instrumento
+frasco	botella	embalaje	recipiente
+arbusto	árbol	planta leñosa	planta	planta vascular	planta perenne
+montaña	monte	volcán	volcán activo	volcán durmiente	elevación	accidente geográfico	fractura	formación geológica
+halcón	ave rapaz	ave de presa	rapaz	ave	animal	vertebrado
+aeroplano	avión	lancha motora	motonave	lancha de motor	barco	bote	embarcación	aeronave	vehículo	nave	transporte naval	transporte fluvial	máquina	medio de transporte	transporte	transporte de pasajeros
+película	producción	filme	estado federado	país	canción
+hueco	obstáculo	estanque	zanja	trinchera	depresión natural	depresión	excavación	formación geológica	accidente geográfico
+página web	sitio web	website	medio de comunicación	canal	canal de comunicación
+calle	nombre de calle	vía pública	vía de comunicación	camino	infraestructura	infraestructura urbana
+máquina	instrumento de medida	instrumento de medición
+persona	actor	actor dramático	comediante	histrión	arma	proyectil	misil	bomba inteligente	bomba guiada	cohete	munición	arma a distancia	armamento	máquina
+texto	lectura
+legumbre	planta	fruto	semilla
+anfibio	vertebrado	animal
+tenista	deportista
+recurso	transferencia	nemotecnia	mnemotecnia
+pueblo	ciudad	población urbana	entidad territorial
+ciclón	tormenta violenta	borrasca	temporal	tormenta	tempestad	vendaval	condición atmosférica	fenómeno
+edificación	edificio	palacio	estructura arquitectónica	mansión	palacete
+sistema político	forma de gobierno
+aderezo	salsa	condimento	aliño	especia	receta de cocina	receta	aromatizante
+órgano	parte corporal	parte del cuerpo
+ciudad	pueblo	comunidad	entidad territorial	aglomeración urbana	zona metropolitana	área metropolitana	urbe
+ganado bovino	bos primigenius taurus	bovino	bos taurus	ungulata	bóvido	mamífero	rumiante	vertebrado	artiodáctilo	animal
+ciudad	ciudad autónoma	ciudad portuaria	exclave	montaña	monte	pueblo	entidad territorial	aglomeración urbana	zona metropolitana	área metropolitana	urbe
+charla	conversación	lenguaje verbal	lenguaje	lengua	lenguaje oral	habla	comunicación oral	comunicación verbal	comunicación auditiva
+potentado	magnate	persona	soldado	emprendedor	militar	guerrero
+componente electrónico	máquina	válvula
+corregimiento departamental	villa	pueblo	urbe	ciudad	municipio	estado unitario	comunidad	área urbana	población urbana	centro urbano	entidad territorial	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana
+organela	organelo	orgánulo	proteína	órgano	compuesto químico	compuesto	biomolécula	polímero
+despoblado	pueblo fantasma	pueblo	caserío	aldea	aldehuela	villa	suburbio	vecindad
+opacidad
+puente	estructura arquitectónica	pasarela	acervo
+comuna	entidad territorial
+vehículo	transporte público	máquina	medio de transporte	transporte	transporte de pasajeros
+provincia	ciudad	aglomeración urbana	zona metropolitana	área metropolitana	urbe	municipio	área urbana	población urbana	centro urbano	comunidad	entidad territorial
+diplomático	persona	premio nobel
+director de banda	compositor	director de orquesta	director	músico	persona	director musical	militar
+escuela técnica	universidad	academia	escuela	instituto	colegio	edificación	edificio	institución educacional	estructura arquitectónica
+coalición política	partido político	partido político español	partido	organización política	coalición
+árbol frutal	frutal	fruto	fruta	árbol	angiosperma	planta perenne	planta leñosa	spermatophyta	planta	tracheobionta	planta vascular
+persona	productor de cine	producción audiovisual	cienasta	productor
+compositor	compositora	músico	instrumentista	persona
+estación	estación de tren	estación de ferrocarril	estación ferroviaria	estación de trenes	cochera	terminal	parada	parada de autobús	apeadero	edificación	edificio	servicio	instalación artística	instalación	local	detención	paradero	estructura arquitectónica	obra de arte	comunidad
+evolucionismo	teoría científica
+calefactor	electrodoméstico	máquina
+encefalitis	inflamación	mal	dolencia	patología	enfermedad	afección	morbilidad	condición psicológica	signo clínico
+partido político	partido político español	partido	organización política
+electrodoméstico	soplador	ventilador	máquina
+defensa	fortificación	edificación	obra de construcción	edificio	estructura arquitectónica
+tentempié	plato
+unidad militar	equipo
+prenda	vestimenta	ropa	complemento
+bos primigenius taurus	bos taurus	ganado bovino	toro	ganado	bovino	cría	vástago	ungulata	animal	mamífero	bóvido	vertebrado	rumiante
+instrumento de medida	instrumento de medición
+villa	pueblo	urbe	extensión	superficie	área urbana	población urbana	centro urbano	entidad territorial	aglomeración urbana	zona metropolitana	área metropolitana
+volcán apagado	volcán extinto	volcán	volcán durmiente	cumbre	montaña	monte	formación geológica	accidente geográfico	cima	elevación
+pie	métrica
+canción	single	sencillo	composición musical	pieza	obra musical
+vendaval	borrasca	tormenta	tempestad	tiempo atmosférico	condición atmosférica	fenómeno
+artesano	abolicionista	persona
+trigo	triticum	cereal	planta	hierba	herbácea
+escritor	autor	persona
+ave marina	ave acuática	ave	pájaro	animal	vertebrado
+misionero	fraile	beato	persona
+filtro	máquina	instrumento
+persona	político	periodista
+municipio	aldea	pueblo	área urbana	población urbana	centro urbano	ciudad	comunidad	villa	entidad territorial	aglomeración urbana	zona metropolitana	área metropolitana	urbe
+equipo	escuadra	equipo de baloncesto	club deportivo	organización deportiva	club
+prenda	vestimenta	vestuario	ropa	indumentaria	camisa	top	prenda de vestir
+coleccionismo	afición
+órgano	glándula
+político	estadista	persona	futbolista	deportista
+barrera	obstáculo	protección del litoral	obra hidráulica	dique	dique natural	malecón	terraplén
+síntoma	fobia	miedo	terror	temor	espanto	mal	dolencia	patología	enfermedad	afección	morbilidad	evidencia	fundamento	condición psicológica	signo clínico	signo	trastorno de ansiedad	enfermedad mental	locura	trastorno	perturbación	desorden
+universidad pública	universidad	institución educacional
+localización
+constelación	objeto astronómico
+presión	medio ambiente	entorno	gas	condición	condición atmosférica
+enfermedad infecciosa	mal	dolencia	patología	enfermedad	afección	morbilidad
+figura retórica	recurso	técnica literaria
+compuesto químico	compuesto	combustible
+serie de televisión	programa de televisión	serie	producción	espectáculo	show
+investigación cuantitativa	sociología	experimentación	investigación	indagatoria	indagación
+código informático	programa informático
+director cinematográfico	director de cine	director de teatro	productor de cine	actor
+instrumento de escritura	lámina	chapa	plancha
+archipiélago	cadena de islas	atolón	accidente geográfico
+transporte ferroviario	ferrocarril	compañía	firma
+pez	animal
+compañía	firma	corporación	persona jurídica	persona
+puente	estructura arquitectónica	pasarela
+vena	vaso sanguíneo	vaso	sistema circulatorio	sistema cardiovascular	estructura anatómica
+general	persona	filósofo
+inscripción	resumen	cita	rótulo
+escritor	autor	docto	sabio	erudito	estudioso	poeta	persona	intelectual
+rojo
+alhaja	joya	pasador	cierre	ligadura
+serie	obra de arte
+ciudad	pueblo	entidad territorial	aglomeración urbana	zona metropolitana	área metropolitana	urbe
+condensación	proceso físico	h2o	agua	barco	bote	embarcación	buque	bajel	nave	electrodoméstico	contaminación atmosférica	contaminación ambiente	contaminante atmosférico	nube	transformación	líquido	compuesto químico	compuesto	máquina	contaminación	contaminación ambiental	polución	biomolécula	fluido	transporte naval	transporte fluvial	marina mercante	impureza	medio de transporte	transporte	transporte de pasajeros	medio
+asiático	lengua indo-aria	lenguaje	lengua	persona
+amida	polímero	compuesto químico	compuesto
+emperador romano	emperador	monarca	soberano	rey	persona	gobernador	gobernante	jefe de estado	mandatario
+pavimento	firme	material compuesto	mineral	compuesto químico	compuesto	superficie
+estudiante	hoyo	agujero	cavidad	hueco	orificio	persona
+abeja	anthophila	insecto	artrópodo	arthropoda	animal	invertebrado
+departamento	océano	extensión de agua	mar	álbum
+persona	director cinematográfico	director de cine	presentador	productor	productor de cine	cine	filmación	cinematografía	productor de televisión
+operadora	operador	operario	técnico	persona
+lado	superficie	extensión	cara	faz
+pirata	corsario	bucanero	personaje	ladrón	persona	criminal	bandolerismo	malhechor	transgresor	delincuente
+marshal	persona	película	producción	filme
+víctima	persona
+persona	actor	actor dramático	comediante	histrión
+estado federado	municipio	pueblo	entidad territorial
+físico	premio nobel	laureado	persona
+árbitro	persona	astronauta	viajero
+película	producción	filme	evento social
+comuna	pueblo	entidad territorial	revista
+docto	persona
+villa	pueblo	urbe	ciudad	municipio	comunidad	área urbana	población urbana	centro urbano	entidad territorial	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana
+doctrina	filosofía	haute cuisine	persona
+organización política	control social	sistema político	forma de gobierno	sistema social	estructura social
+bóveda	cripta	recipiente	sepulcro	tumba	sepultura	cámara
+alegoría	emblema	complemento	prenda	vestimenta
+físico	persona	intelectual
+pesticida	plaguicida	biocida
+encéfalo	cavidad	cámara	estructura neurológica	estructura anatómica	parte corporal	parte del cuerpo
+ciudad	municipio	pueblo	estado federado	comunidad	área urbana	población urbana	centro urbano	entidad territorial	suburbio	vecindad	hábitat	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe
+provincia	ciudad	entidad territorial
+arbusto	árbol	angiosperma	planta leñosa	tracheobionta	planta vascular	planta
+trago	bebida	hierba	té	líquido	condimento	aromatizante	fluido
+pigmento	marrón	castaño	rojo	colorante	cephalopoda	cefalópodo	animal	molusco	invertebrado
+fábrica	planta	edificación	edificio	factoría	estructura arquitectónica	complejo
+tubería	conducto de agua	conducto	ducto	tubo	caño	cilindro	canal
+vendaval	viento	aire
+persona	intelectual	escritora	autora	erudita
+fiscal	defensor	persona
+bloque	metal precioso	elemento químico	metal
+hipótesis	método
+narcótico	planta	amapola	fármaco	droga	psicotrópico	flor	mezcla	substancia
+mal	dolencia	patología	enfermedad	afección	fractura	lesión	daño	traumatismo	contusión	trauma	herida
+escritor	autor	persona
+ciudad-prefectura
+aerolínea	vía aérea	línea aérea	compañía	firma	persona jurídica	empresa de transportes	compañía de transportes
+desarrollador de videojuegos	compañía	firma	desarrollador de software	desarrollador	persona jurídica
+tormenta de nieve	tormenta violenta	borrasca	temporal	tormenta	tempestad	precipitación atmosférica	precipitación	fenómeno
+pasajero	viajero
+persona	economista	político	intelectual
+periódico	vespertino	diario	ciudad	publicación	publicación periódica	municipio	aglomeración urbana	medio de comunicación	comunidad	sistema social	estructura social	área urbana	centro urbano	entidad territorial
+nube	fenómeno	capa	clase social
+persona	magnate	informático	presidente
+piedra	grava	peña	roca	roca sedimentaria	mineral	árido	compuesto químico	compuesto
+arbusto	árbol	planta leñosa	planta perenne	planta	tracheobionta	planta vascular	angiosperma	spermatophyta
+ciudad	municipio	municipios de méxico	pueblo	estado federado	comunidad	área urbana	población urbana	centro urbano	entidad territorial	suburbio	vecindad	hábitat	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe
+vehículo	máquina	medio de transporte	transporte	transporte de pasajeros
+seguidor	aficionado	persona
+soborno	pago	sueldo	acto ilegal	persona
+bolsa	bolso	bagaje	maleta	equipaje	equipamiento
+cierre	ligadura
+monosacárido	compuesto químico	compuesto	glúcido	azúcar	hidrato de carbono	carbohidrato	sacarosa	hexosa	cetosa
+nombre de pila	ciudad	ayuntamiento	consistorio	municipalidad	pueblo	capital	centro administrativo	suburbio	vecindad	hábitat	comunidad	centro	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe	chef-lieu	administración pública	autoridad	entidad territorial	área urbana	población urbana	centro urbano	villa
+máquina	cilindro
+cantora	cantante	voz	tono	altura	altura tonal	músico	fonación	persona	vocalista
+velo	mantón	manto	capa	prenda	vestimenta	ropa	indumentaria	prenda de vestir	tocado	capote	ropa exterior	prenda exterior
+contrato	pacto	compromiso	acuerdo
+villa	pueblo	comunidad	entidad territorial
+esposa	cónyuge	noble	aristócrata	persona	autoridad	dirigente
+filántropo	financiero	persona	donador	dador	bienhechor	benefactor
+ascendente	ancestro	antepasado	pariente	persona
+vía del ferrocarril	medio de transporte	transporte	transporte de pasajeros	vía expresa	camino	carretera	infraestructura	infraestructura urbana
+pueblo judío	judío	grupo étnico	etnia	persona
+ciudad	vecindad	entidad territorial	área metropolitana	urbe
+manga	videojuego	anime	comic
+magnetismo	atracción	magnitud física	propiedad física	magnitud	fenómeno
+obstáculo	infraestructura	infraestructura urbana	pared
+cantora	cantante	persona
+lugar de culto	parcela	extensión	estructura arquitectónica	superficie	infraestructura
+jefe de estado	mandatario	ministro	jefe de gobierno	político	estadista	ejecutivo	director ejecutivo	administrador	líder	autoridad	dirigente	responsable	persona
+ayudante	asistente	soldado	trabajador	militar	ejército	persona
+hemorragia	hemorragia intracraneal	lesión	daño	traumatismo	contusión	trauma	herida	mal	dolencia	patología	enfermedad	afección	morbilidad	accidente	desventura	percance	desgracia	infortunio
+político	persona	historiógrafo	historiador	escritor	autor	autoridad	sabio	erudito	estudioso	intelectual	docto
+nube	vertido	inscripción	pintura	recipiente
+pantomima	dramatización	representación	interpretación
+dureza	trastorno	afonía
+villa	pueblo	urbe	ciudad	municipio	área urbana	centro urbano	entidad territorial	aglomeración urbana
+informe	referencia	ficción	noticia	género literario	composición literaria	obra literaria	estilo literario
+ventana	armazón	superficie
+tubo	caño	tubería	conducto de agua	conducto	estructura anatómica	canal	pasaje	paso
+arcilla	loza	cerámica
+camino	carretera	infraestructura
+substancia	compuesto químico	compuesto
+freno	máquina
+maza	máquina	cante	martillo	garza	ave	pájaro	ave acuática	animal	vertebrado
+satisfacción	estímulo positivo	celebración	festejo	estímulo	estado de ánimo
+tenderete	stand	barraca	aplicación informática	aplicación	pabellón	parada	programa de computación	programa de ordenador	software	programa informático	almacén	tienda	código informático
+isla	accidente geográfico	territorio dependiente	dependencia	comunidad
+entrenador de tiro	entrenador de béisbol	manager de béisbol	manager	instructor de bateo	compositor	historiógrafo	historiador	persona	entrenador	instructor	docto	erudito	estudioso	atleta	deportista	intelectual	contendiente	competidor
+alquilación	reacción química	proceso químico	cambio químico	adición
+aparición	ser espiritual	espíritu
+combate	batalla	guerra	disputa	desacuerdo
+delito	crimen	muerte	matanza	muerte no natural	acción voluntaria	comportamiento antisocial	acto ilegal	terminación	finalización	maldad
+faraón	gobernador	gobernante	persona
+herrero	artesano	persona
+físico	persona
+compuesto químico	compuesto	precipitación atmosférica	precipitación	mineral	cristal	material de construcción
+retroviridae	retrovirus	lentivirus	enfermedad viral	virus	mal	dolencia	patología	enfermedad	afección	enfermedad infecciosa	microorganismo	patógeno	agente biológico patógeno
+ciudad	municipio	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe	puerto	villa	pueblo	cine	película	producción	filme	río	parcela	extensión	área urbana	población urbana	centro urbano	costa	ribera	orilla	obra de arte	teatro	espectáculo	show	capital	centro administrativo	arroyo	corriente	curso de agua	comunidad	superficie	infraestructura	infraestructura urbana	formación geológica	punto de encuentro	evento social	masa de agua	cuerpo de agua	agua	extensión de agua	entidad territorial	reserva	acervo	suburbio	vecindad	hábitat	administración pública	espacio	espacio topológico	magnitud física
+pueblo	comunidad	entidad territorial	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe	ciudad	suburbio	escena	vecindad	hábitat	municipio	área urbana	población urbana	centro urbano
+software	programa informático	programa de ordenador	programa de computación	programación modular	aplicación informática	aplicación
+álbum	álbum de estudio	banda de música	banda de rock	grupo de rock	agrupación musical	banda	obra musical
+ciudad	entidad territorial
+investigación científica	método científico	metodología	método	know-how	know how
+dramaturgo	escritor	autor	novelista	persona
+deuda	título de crédito	obligación	instrumento de deuda	compromiso	documentación	documento de texto	posesión	acuerdo
+videoconsola	consola	consola de videojuegos	máquina
+velocidad	ritmo	rapidez	magnitud física
+remolino	vorágine	vórtice	tornado	ciclón tropical	huracán	masa de agua	extensión de agua	corriente	desastre natural	vendaval	ciclón	tormenta violenta	borrasca	temporal	tormenta	tempestad
+asesino	homicida	criminal	malhechor	delincuente	persona	infractor
+municipio	comunidad
+astronauta	piloto de pruebas	viajero	oficial naval	persona	piloto de aviación	aviador	piloto	oficial	oficial comisionado	aeronauta
+álbum	álbum de estudio	banda de música	agrupación musical	banda	obra de arte
+enzima	biomolécula	catalizador	proteína	transferasa	compuesto químico	compuesto	polímero
+organización política	sistema social	estructura social	autoridad
+economista	sociólogo	persona	profesionista
+experto legal	jurista	persona
+decisión	resolución	trato	negociación
+síntoma	mal	dolencia	patología	enfermedad	afección	morbilidad	signo clínico	ácido carboxílico	grupo carboxilo	fluido
+trago	bebida	refresco	zumo de fruta	jugo de fruta	zumo	líquido
+calzado	prenda de vestir
+deidad hindú	diosa	deidad	persona
+ciudad	pueblo	entidad territorial	aglomeración urbana
+productor discográfico	persona	músico	compañía	firma	estudio de animación	personaje	cantante
+poste	alfiler	palo	tallo
+estado federado	país	entidad territorial
+corporación	compañía	firma	embalaje	multinacional	empresa multinacional
+pila	fregadero	lavabo	lavamanos	pileta	palangana	máquina	electrodoméstico
+extracción	tarea	trabajo	superficie
+topadora	tractor	vehículo	automóvil	máquina
+complemento	accesorio	prenda	ropa	prenda de vestir
+leche deshidratada	leche	producto lácteo	lácteo	trago	bebida	líquido	producto alimenticio	fluido
+cancha	pista	edificación	edificio
+cirujano	médico especialista	facultativo	doctor	dm	médico	persona
+pigmento	marrón	castaño	árbol	colorante	planta perenne	planta leñosa	planta	tracheobionta	planta vascular	angiosperma	spermatophyta
+matemático	persona	estudioso
+expresión
+intelectual	persona
+sobrenatural	programa de computación	programa de ordenador	programa informático	exclamación	ser espiritual	espíritu	software
+aleación	escultura	marrón	castaño	mezcla
+manifestación	aparición
+sexo	comportamiento sexual humano	parafilia	perversión	filia
+municipio	pueblo	área urbana	población urbana	centro urbano	comunidad	entidad territorial	aglomeración urbana	zona metropolitana	urbe	ciudad
+fármaco	medicamento	medicina
+banda de música	banda de rock	grupo de rock	agrupación musical	banda
+economía política	economía
+aceite de cocina	aceite comestible	compuesto químico	compuesto	óleo	aceite	aceite vegetal
+ilustración	imagen	dibujo
+persona	tarento	actriz	cantante
+juicio	consideración	observación	comentario	burla
+roca sedimentaria	clástico	roca	piedra	grava
+ablandador de agua	mineral	compuesto químico	compuesto	roca	piedra
+placer	conclusión	terminación	finalización
+paseo	camino	pasarela	calle
+máquina	arma a distancia	arma	proyectil	misil
+trapo	paño	tela	textil
+pradera	prado	bioma	extensión	superficie	microhábitat	microambiente	hábitat	habitat	espacio
+alcaloide	compuesto químico	compuesto	narcótico	fármaco	droga	psicotrópico	substancia
+túnel	galería	pasillo	corredor	estructura arquitectónica
+piedra	losa	material de construcción	techumbre	tejado
+electrodoméstico	máquina	equipamiento	espacio
+región histórica	estado federado	entidad territorial
+embarcación	vehículo	nave	transporte naval	transporte fluvial	máquina	medio de transporte	transporte	barco
+emperador romano	monarca	soberano	rey	emperador	gobernador	mandatario	persona
+organela	organelo	orgánulo	órgano	parte corporal	parte del cuerpo
+dianthus	flor	angiosperma	planta	planta vascular
+bóvido	rumiante	artiodáctilo	artiodactyla	mamífero	ungulata	vertebrado	animal
+escritor	autor	premio nobel	dramaturgo	persona	laureado
+isla	suburbio	escena	vecindad	hábitat	accidente geográfico	fabricación	elaboración	confección	producción
+político	persona	líder	autoridad
+persona	gladiador
+alhaja	joya	toroide	postre	dulce
+ácido	compuesto químico	compuesto	vitamina
+comuna	villa	pueblo	urbe	ciudad	municipio	área urbana	población urbana	centro urbano	comunidad	entidad territorial	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana
+ciudad	ciudad-prefectura	capital	pueblo	gran ciudad	municipio	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe	comunidad	área urbana	población urbana	centro urbano	entidad territorial	magnitud física
+grano	cereal	producto alimenticio	semilla	planta	hierba	herbácea
+medio de comunicación	medio	telecomunicación	canal	canal de comunicación	máquina	computadora de mano	ordenador de mano	dispositivo móvil	equipamiento	equipo	transmisión	ordenador	computador	computadora	ordenador personal	microcomputadora	computadora personal	microordenador	electrodoméstico
+culto	devoción	adoración	veneración
+máquina
+beligerante	guerrero	persona
+mecanización	automación	automatización	automatización industrial	ingeniería
+gema	piedra preciosa	joya	piedra	alhaja	bola	matiz	colorante	colorido	tono	tinte	blanco	cristal	mineral	elipsoide
+isla	suburbio	escena	vecindad	hábitat	accidente geográfico	parcela	extensión	superficie
+harina	producto alimenticio	polvo
+medalla	trofeo
+papel	carta
+deporte	captura	extracción
+lesión	hendidura	fractura
+vehículo	banda
+escultor	entallador	tallista	tallador	persona
+letrado	abogado	político	periodista	municipio	experto legal	líder	autoridad	escritor	autor	persona	área urbana	centro urbano	entidad territorial
+convexidad	conformación	concavidad
+persona	arquitecto	escultor
+prenda	vestimenta	ropa	indumentaria	constituyente sintáctico	sintagma
+gobierno	democracia representativa	democracia	sistema político	forma de gobierno
+motonave	embarcación	vehículo	transporte naval	transporte fluvial
+escritor	autor	filósofo	historiógrafo	historiador	persona	docto	sabio	erudito	estudioso	intelectual
+capilla	edificación	edificio	templo	iglesia	estructura arquitectónica	lugar de culto
+ciudad	pueblo	comunidad	entidad territorial	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe
+líder	santo	apóstol	misionero	persona	cristiano
+provincia	ciudad	aglomeración urbana	zona metropolitana	área metropolitana	urbe	municipio	área urbana	población urbana	centro urbano	comunidad	entidad territorial
+actor	comediante	imitador	persona
+persona	trabajador	profesionista
+articulación	articulación sinovial	parte corporal	parte del cuerpo
+comuna	municipio	pueblo	área urbana	población urbana	centro urbano	comunidad	entidad territorial
+chisme	equipamiento	equipo
+extremidad	miembro	parte corporal	parte del cuerpo	unidad de longitud	apéndice
+célula	estrato	capa
+ácido	compuesto químico	compuesto	disolvente	disolvente orgánico
+pintor	compositor	músico	persona
+formación geológica	accidente geográfico
+crítico	persona
+ablación	exéresis	operación	intervención	cirugía	procedimiento médico
+máquina eléctrica	máquina
+cine	película	producción	filme	compañía	firma	marca	coche	automóvil	auto
+producción	proceso de negocio	tarea
+príncipe	conde	monarca	rey	aristócrata	persona	soberano	líder	autoridad	dirigente	gobernador	gobernante	jefe de estado	mandatario
+municipio	cráter de impacto	astroblema	pueblo	área urbana	población urbana	centro urbano	cráter	comunidad	depresión natural	entidad territorial	formación geológica	accidente geográfico	aglomeración urbana
+condición	pobreza
+complemento	banda	prenda
+persona	cantante	atleta	deportista	contendiente	competidor
+divisa	moneda	unidad monetaria
+inconsciencia	mal	dolencia	patología	enfermedad	afección	estado mental
+configuración	constelación	objeto astronómico
+compositor	músico	director de orquesta	director	persona
+posibilidad	hipótesis	expectativa	expectación	ideal	oración
+trago	bebida	ponche	líquido	fluido	bebida alcohólica	alcohol
+deporte de equipo	juego de pelota	deporte de pelota	deporte	juego deportivo
+passeri	pájaro cantor	ave	pájaro	animal	vertebrado
+urbe	ciudad	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	área urbana	población urbana	entidad territorial
+peatón	caminante	viandante	persona
+monarca	soberano	rey	emperador	gobernador	gobernante	jefe de estado	mandatario	persona
+esqueleto	persona
+universidad	universidad privada	institución educacional
+persona	ingeniero	inventor
+fruta
+maquinaria agrícola	máquina
+presidente	político	mandatario	persona	líder	autoridad	dirigente
+santo	persona	pedanía	entidad territorial
+buque	bajel	nave	barco	embarcación	vehículo	transporte naval	transporte fluvial	medio de transporte
+prensa	baldón	mancha	manchón	tizne	churrete	sello	máquina	compañía	firma	operación	máquina herramienta
+prenda	vestimenta	ropa	indumentaria	prenda de vestir
+ciudad	pueblo	municipio	aglomeración urbana	zona metropolitana	urbe	comunidad	área urbana	centro urbano	entidad territorial
+villa	pueblo	urbe	ciudad	municipio	comunidad	área urbana	población urbana	centro urbano	entidad territorial	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana
+hueco	trinchera	abertura	apertura	depresión natural	depresión	espacio	formación geológica	accidente geográfico	excavación	conformación
+persona	productor de cine	actor
+caballería ligera	jinete	soldado de caballería	caballería	soldado	unidad militar	guerrero	militar	ejército	fuerzas armadas	personal
+equipo	equipo de baloncesto	escuadra	escuadrón
+banda de música	banda de rock	grupo de rock	agrupación musical	banda	álbum	álbum de estudio	obra musical	obra de arte
+compuesto químico	compuesto	penicilina	antibiótico	bactericida	desinfectante	antimicrobiano	biocida	fármaco	medicamento	medicina	droga	substancia
+comportamiento antisocial	especificación técnica	especificación	circunstancia	rareza
+mineral	bandera	emblema	ilustración	imagen	dibujo
+pieza
+máquina	componente electrónico
+escritor	político	autor	villa	pueblo	urbe	ciudad	entidad territorial	persona
+municipio	pueblo	entidad territorial
+provincia	área urbana	población urbana	centro urbano	ciudad	entidad territorial	aglomeración urbana	zona metropolitana	área metropolitana	urbe
+plantilla	personal	departamento	agencia	división
+carruaje	vagón	coche	coche de caballos	vehículo ferroviario	transporte público	transporte	carro	carreta	vehículo	medio de transporte
+restorán	restaurante	consumidor	edificación	edificio	servicio	persona
+líder	autoridad	dirigente	papa	pontífice	libro	santo	libro sagrado	persona	obispo católico	obispo	católico	obra literaria	sacerdote	cura	capellán	párroco	clérigo	sacerdote católico	reverendo
+trabajador	persona
+roedor	mamífero	vertebrado	animal
+insignia	distintivo	alegoría	emblema	vestuario
+hostilidad	condición
+música popular	género musical
+dispositivo periférico	máquina
+presidente	jefe de estado	mandatario	político	persona	líder	dirigente
+trapo	paño	tela	textil	armadura	blindaje	prenda	vestimenta	ropa	indumentaria	prenda de vestir
+frase	averiguación	pregunta	encabezado
+baya	vitis vinifera	enredadera	trepadora	escandente	fruta	fruto	vitis	vitaceae	tracheobionta	producto agrícola
+frecuencia	magnitud física	ritmo	velocidad	propiedad física	magnitud	razón aritmética	razón	proporción
+persona	músico	actor	actor dramático
+baldaquino	baldaquín	dosel	lienzo	lona	amparo	cobijo	techo	trapo	tela	textil
+serie de televisión	serie	producción
+unidad de longitud	unidad de medida	cantidad definida
+villa	aldea	pueblo	urbe	ciudad	personaje	película	producción	filme	documental	película documental	reportaje	caserío	comunidad	municipio	aglomeración urbana	zona metropolitana	área metropolitana	municipalidad	espectáculo	show	área urbana	población urbana	centro urbano	evento social	entidad territorial
+programa de computación	programa de ordenador	programa informático	malware	código informático
+compañía	firma	persona jurídica	máquina
+hierba	herbácea	condimento	aromatizante	planta	tracheobionta	planta vascular	angiosperma	spermatophyta
+explosivo	máquina
+lonja	bolsa	mercado	tajo	lugar de trabajo	punto de encuentro
+bóvido	rumiante	artiodáctilo	mamífero	vertebrado	animal
+sacramento	usanza	rito	ceremonia religiosa	rito religioso	ceremonia	acto social	función	ocasión	evento social
+paso	pasaje	puerto	puerto de montaña	vecindad
+propiedad física	porosidad	especificación técnica	especificación
+copia	réplica	imitación
+ortografía	sistema de escritura	grafía	grafema	acertijo	lenguaje escrito	imagen
+aborto inducido	aborto	conclusión	terminación	finalización
+responsable	persona
+isla	vino
+fascículo	novela por entregas	periódico	publicación periódica	publicación	medios de comunicación	medio de comunicación	canal de comunicación	producción
+estación	pueblo	entidad territorial
+ilex	acebo	movimiento	trago	bebida	infusión	jugada	planta
+ciclista	persona
+labor	juntura	conjunción	conexión	unión
+unidad angular	fracción	quebrado	cantidad definida
+músculo
+suciedad	depósito
+química	ciencia natural	asignatura
+lenguaje	lengua	familia de lenguas	lengua natural	tribu	viento
+arquitectura
+sociedad secreta	comunidad	asociación
+embarcación	vehículo	nave	transporte naval	transporte fluvial	máquina	medio de transporte	transporte
+elemento metálico	metal	elemento químico	lantánido	tierra rara	compuesto químico	compuesto	aleación	mezcla
+tormenta violenta	borrasca	temporal	tormenta	tempestad	fenómeno
+compuesto químico	compuesto	aminoácido
+película	producción	filme	personaje
+persona	rico
+director cinematográfico	director de cine	persona
+producción	rendimiento	período	etapa	tarea
+rey de inglaterra	san	santo	monarca	soberano	rey	persona	gobernador	gobernante	jefe de estado	mandatario
+río	curso de agua	masa de agua	cuerpo de agua	extensión de agua
+persona	actor	actor dramático	comediante
+debilidad	mal	dolencia	patología	enfermedad	afección	agujero
+municipio	pueblo	entidad territorial
+persona	actor	actor dramático	comediante	histrión
+vidrio	botella	lámpara	lámpara eléctrica	fuente luminosa	receptáculo	vaso	vasija	recipiente
+vivarium	bioterio	cisterna	receptáculo	vaso	vasija	recipiente
+álbum	álbum de estudio	boticario	farmacéutico	farmaceuta	profetisa	profeta	persona	película	producción	filme	película biográfica
+verdura	hortaliza	vegetal	planta	tracheobionta	planta vascular	producto agrícola	angiosperma
+autoridad	régimen político	gobierno	régimen	sistema político	forma de gobierno
+cáncer	neoplasia	neoplasma	tumor	mal	patología	enfermedad	afección	morbilidad
+experto legal	jurista	persona
+juguete
+director cinematográfico	director de cine	guionista	escritor de cine	productor de cine	persona	actor	actor dramático	comediante
+hilera	serie
+personaje	superhéroe	juego de tablero	juego de mesa	juego de naipes	persona	concurso	campeonato	prueba	competencia
+ciudad	municipio	pueblo	área urbana	población urbana	centro urbano	comunidad	entidad territorial	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe
+cerro	montaña	pueblo	municipio	entidad territorial
+monarquía	vecindad
+foto	fotografía	ilustración	imagen	dibujo
+textura	composición musical
+óxido metálico	óxido	compuesto químico	compuesto
+confluencia	cruce	bifurcación	encrucijada	intersección	parcela	extensión	estructura arquitectónica	camino	carretera	calle	superficie	autovía	autopista	infraestructura	infraestructura urbana
+doctrina filosófica	descaro
+determinación	juicio	condición
+empleado	trabajador	persona
+microorganismo
+presidente	político	jefe de estado	mandatario	líder	autoridad	dirigente	cabeza	jefe	persona
+roedor	rodentia	mamífero	vertebrado	animal
+pez	teleósteo	pez teleósteo	parafilético
+trago	bebida	líquido	fluido	refresco	refrigerio
+teleósteo	actinopterygii	pez teleósteo	pez	vertebrado
+uva	corinto	arbusto	árbol	planta leñosa	planta perenne	planta
+estación	estación del año	herbácea	período	etapa	intervalo de tiempo	planta
+polo	borne	electrodo	contacto	conductor eléctrico	pin	conductor	conector
+película	producción	filme	primer ministro	premier	político	ministro	ministra	jefe de gobierno	estadista	persona	ciudad	entidad territorial
+trago	bebida	café	líquido
+vivienda	edificio
+ciudad	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe	municipio	pueblo	área urbana	población urbana	centro urbano	comunidad	entidad territorial
+serie de televisión	programa de televisión	serie	cine	película	producción	filme	video	vídeo	emisión	representación	espectáculo	show	ingeniería	ingeniería física	máquina
+planta	tubérculo	legumbre	verdura	hortaliza	vegetal	producto agrícola	planta vascular
+escritor	autor	poeta	persona
+villa	pueblo	urbe	ciudad	municipio	área urbana	población urbana	entidad territorial	zona metropolitana	área metropolitana
+nativo	especie nativa	indígena	especie indígena	aborigen	carnívoro	mamífero	animal
+sousafón	tuba	instrumentos de metal	instrumento de viento-metal	instrumento de viento	instrumento musical	instrumento
+turbina de gas	motor	turbina	máquina	motor térmico	motor rotativo	sistema termodinámico
+recurso renovable	recurso natural	recurso
+persona	deportista	tenista
+filósofo	docto	sabio	erudito	estudioso	persona	intelectual
+unidad de tren	tren	transporte público	vehículo	transporte	transporte de pasajeros	medio de transporte	máquina
+personaje	single	sencillo	representación	persona	composición musical	pieza	canción	obra musical
+reformista	persona
+mueble	accidente geográfico	formación geológica	hábitat
+cantidad definida
+hornacina	elemento arquitectónico	obra de arte	zona	infraestructura
+político	perito judicial	jefe de gobierno	estadista	líder	autoridad	persona
+deidad hindú	deidad	diosa	río
+elemento químico	elemento metálico	metal	metal de transición	elemento de transición	átomo	compuesto químico	compuesto	aleación	mezcla	sistema termodinámico
+persona	ciclista	deportista
+proceso químico
+motor	barra	máquina	eje
+fabricación	impresión
+villa	pueblo	entidad territorial	boxeador	deportista	persona
+sitio arqueológico	municipio	parcela	extensión	estado federado	superficie	pueblo	entidad territorial
+lenguaje	sociolecto	acento	variedad lingüística
+crítica	cotilleo	murmuración
+torre	elemento arquitectónico	estructura arquitectónica	obra de arte
+corrosión	erosión	corrosivo	oxidación	proceso químico	cambio químico	reacción química
+ave	pájaro	tratamiento	honorífico	icterus	gobernante	líder	autoridad	dirigente	cabeza	jefe	animal	vertebrado
+ventana
+personaje	serie de televisión	animal	programa de televisión	película	producción	filme
+estructura de datos	planta perenne	planta leñosa	configuración	conformación	ordenación	planta
+portavoz	vocero	defensor	partidario	persona
+plataforma	barrera	hielo
+instrumento musical	instrumento	instrumento de viento-metal	instrumento de cuerda	cordófono	instrumento de viento	aerófono
+ferroviario	empleado del ferrocarril	empleado	trabajador	persona
+cantautor	poeta	compositor	cantor	cantante	músico	escritor	autor	letrista	vocalista	persona
+carga	peso	estímulo negativo	estímulo
+dicho	expresión	locución	consideración	observación	comentario	lenguaje	lenguaje oral	habla	comunicación oral	comunicación verbal	comunicación auditiva	frase	humor
+dióxido de carbono	anhídrido carbónico	bióxido de carbono	compuesto químico	compuesto	dióxido	gas de invernadero	óxido
+masa de agua	cuerpo de agua	extensión de agua	lago	curso de agua
+compuesto químico	compuesto	grupo alquilo	alquilo	radical	grupo funcional	ión	ion	enlace químico
+configuración	conformación
+político	autoridad	dirigente	actor	futbolista	deportista	persona
+ablación	exéresis	operación	intervención	procedimiento médico
+explosivo
+extensión	vecindad
+reptil	vertebrado	animal
+asaltante	atacante	persona
+melodrama	serie	género cinematográfico	serie de televisión	programa de televisión	espectáculo	show	producción
+compuesto químico	compuesto	antiviral	fármaco	medicamento	medicina
+ciudad	villa	pueblo	urbe	municipio local	caserío	aldea	aldehuela	municipio	comunidad	área urbana	población urbana	centro urbano	suburbio	vecindad	hábitat	entidad territorial	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana
+asistente personal	dama	señora	ayudante	asistente	persona
+editor	aplicación informática	aplicación	programa de computación	software	programa informático
+emisión	ruido	sonido	canto	grito
+servicio	red de computadoras	red	red informática	red de información	red de ordenadores
+concurso	concurso de televisión	programa de televisión	certamen
+fiscal	jurisconsulto	letrado	abogado	jurista	picapleitos
+calificación
+acuicultura	lugar de trabajo	cultivación	explotación	agricultura	producción
+masa de agua	cuerpo de agua	extensión de agua	lago
+camino	acera	sendero
+espacio métrico	espacio de hilbert	espacio	espacio topológico	espacio de banach	espacio normal	estructura matemática	espacio de fréchet	espacio vectorial	sistema formal	sistema axiomático
+compañía	firma	artículo de opinión	persona jurídica	artículo periodístico	relato	publicación	texto	documentación	comunicación escrita
+delito	crimen	felonía	acción voluntaria	comportamiento antisocial	acto ilegal	maldad
+ayudante	sirviente	encargado	asistente	trabajador	persona
+exterminación	labor	trabajo	faena
+juego de tablero	juego de mesa	concurso	competición
+neurología	psicología	especialidad médica	carrera	biociencia	ciencia natural	asignatura
+álbum	álbum de estudio	arquitecto	diseñador	persona	emancipador	abolicionista	reformista	pueblo	entidad territorial
+cosmético	maquillaje	sustancia química
+municipio	área urbana	centro urbano	entidad territorial	aglomeración urbana	zona metropolitana	área metropolitana	urbe	ciudad
+compositor	músico	persona
+ciudad	terrateniente	propietario	político	pueblo	líder	autoridad	dirigente	cabeza	jefe	persona	comunidad	dueño	amo	portavoz	vocero	defensor	partidario	entidad territorial	aglomeración urbana	zona metropolitana	área metropolitana	urbe
+ordenador	computador	computadora	persona	viajante	descubridor	navegante	viajero
+ejecución	castigo capital	pena de muerte	pena capital	castigo físico	castigo corporal	pena	castigo	veredicto condenatorio	sentencia judicial	punición	condena	sentencia	homicidio	asesinato
+cantautor	persona	compositor	cantor	cantante	músico	letrista	vocalista	escritor	autor	poeta
+signo diacrítico	diacrítico	signo	grafía	grafema	símbolo escrito
+político	persona	abogado
+fluido corporal	flujo	fluido	líquido
+letrado	abogado	jurista	notario	picapleitos	político	persona
+pastel	torta	postre	dulce	producto alimenticio
+trigo	triticum	cereal
+propietario	dueño	amo	persona
+bolchevique	comunista	persona	socialista	político	líder
+juez	magistrado	togado	jueza	experto legal	jurista	persona	líder	autoridad	escritor	autor
+delito	crimen	acción voluntaria	acto ilegal	copia
+persona	general	militar
+insignia	distintivo	divisa	emblema
+ciudad	pueblo	comunidad	entidad territorial	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe
+pelota	bola	balón	juguete
+estación de trenes	cochera	terminal	estación	edificación	edificio	servicio	estructura arquitectónica
+angustia	trastorno de ansiedad	ansiedad	vergüenza	tiempo	condición
+plato
+tributo	pago	dependencia	subordinación
+isla	archipiélago	cadena de islas	entidad territorial
+club deportivo	club de fútbol	club	asociación	clube	organización deportiva	equipo de fútbol	equipo	escuadra
+máquina	instrumento de medida	instrumento de medición	complemento
+presidente	político	persona	jefe de estado	mandatario	jefe de gobierno	estadista	líder	autoridad	dirigente
+oscilación	timbre	fenómeno	pico
+lenguaje	lengua	lengua oficial	idioma oficial	etnia	grupo étnico
+edificación	edificio	estructura arquitectónica
+personaje	avatar	encarnación	deidad	representación	persona	deidad hindú
+velo	prenda	vestimenta	indumentaria	prenda de vestir	bufanda	complemento
+franquicia	videojuego
+lobo	cánido	animal	carnívoro
+analista	psicoanalista	siquiatra	psiquiatra	persona
+ciudad	balneario	entidad territorial
+música culta	música clásica	obra musical	obra de teatro	obra teatral	género musical	obra de arte	representación
+universidad	edificio	academia	institución educacional
+persona	navegante
+difusión	fenómeno
+sonido	fono	letra	grafema	signo	símbolo escrito
+municipio	comuna	pueblo	área urbana	población urbana	entidad territorial	ciudad
+grabador	cámara
+falda	prenda	vestimenta	vestuario	ropa	indumentaria	indumento	prenda de vestir
+depresión natural	depresión	formación geológica	accidente geográfico
+compuesto químico	compuesto	líquido	disolvente	disolvente orgánico	aromaticidad	compuesto aromático	alquilbenceno	hidrocarburo
+escritor	autor	maestro	profesor	persona	actor
+ingeniería	ingeniería física	asignatura
+caserío	aldea	pueblo	aldehuela	ciudad	comunidad	villa	aglomeración urbana	zona metropolitana	entidad territorial	municipio	área urbana	población urbana	centro urbano
+prostitución	pendona	prostituta	pendón	persona
+diente	semilla	pepita	planta	fruto	fruta	angiosperma	spermatophyta	tracheobionta	planta vascular
+resto	diferencia	cantidad definida
+equipamiento	equipo
+rito	ceremonia	acto social	función	ocasión	evento social
+método	instrumento
+compuesto químico	compuesto	alcali	base	álcali	líquido
+persona	director cinematográfico	director de cine	producción audiovisual	cienasta	productor	productor de cine
+compuesto químico	compuesto	cera	lípido
+ave acuática	ave	animal	vertebrado
+prisión	cárcel
+álbum	álbum de estudio	productor de automóviles	compañía	firma	obra musical	persona jurídica
+parte corporal	parte del cuerpo	movimiento	estructura anatómica
+municipio	ciudad	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe	estación	estación de metro
+profesor	persona	villa	académico	instructor	docente	pueblo	entidad territorial
+egipcia	monarca	reina	reina madre	gobernadora	gobernante	jefe de estado	persona	aristócrata
+investigación científica	método científico	geofísica	metodología	física	filosofía natural	geología	método	ciencia natural	know-how	know how
+trabajo	producción
+receptáculo	recipiente
+joyería	alhajas
+esteroide sexual	esteroide	hormona esteroide	compuesto químico	compuesto	corticosteroide	hormona
+marca	baldón	mancha	manchón	tizne	churrete
+agencia	organismo autónomo	autoridad	departamento	parte corporal	parte del cuerpo	instrumento de teclado	teclado	instrumento musical	instrumento	instrumento de viento
+transporte público	transporte	transporte de pasajeros	medio de transporte
+conquistador	persona	capitán	explorador
+divisa	moneda	unidad monetaria
+material compuesto	hormigón	concreto	pavimento	material de construcción
+prisionero	preso	persona
+fruto	fruta
+servicio militar obligatorio	servicio militar	mili	conscripción	ejército	unidad militar
+isla	archipiélago	cadena de islas	suburbio	escena	vecindad	hábitat	accidente geográfico
+personaje	personaje literario
+abertura	visualizador	infraestructura	dispositivo de salida	vidrio	lámina	chapa	cristal
+patinaje sobre hielo	patinaje	deporte de invierno	deporte	atletismo	concurso	competición	evento social
+flor	hierba	herbácea	monocotiledónea	planta	tracheobionta	planta vascular
+almacén	tienda	edificio	estructura arquitectónica
+comida marina	pez	teleósteo	actinopterygii	pez teleósteo	animal	pescado	insulto	persona
+juego deportivo	deporte
+programa de computación	programa de ordenador	programa informático	software	aplicación informática	aplicación
+divisa	moneda
+turbina	máquina	motor
+cine	película	producción	filme	obra de arte	espectáculo	show
+persona	director	director de cine	guionista
+derivado	instrumento financiero	ventaja
+videoconsola	consola	consola de videojuegos
+base militar	instalación militar	acompañante	tropa
+vehículo	vagón de ferrocarril	vagón	coche	automotor	vehículo ferroviario	máquina	medio de transporte	transporte	medio	material rodante
+estado federado	país
+compañía	firma	persona jurídica
+presidenta	jefe de estado	mandatario	político	jefe de gobierno	estadista	persona	autoridad	dirigente
+caserío	aldea	pueblo	aldehuela	ciudad	comunidad	villa	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe	entidad territorial	municipio	área urbana	población urbana	centro urbano
+comunidad	entidad territorial	aglomeración urbana	zona metropolitana	área metropolitana	urbe	ciudad	área urbana	población urbana	centro urbano
+consonante	sonido	fono
+voz	cantante	persona
+enfermedad pulmonar	enfermedad respiratoria	inflamación	mal	dolencia	patología	enfermedad	afección
+ciudad	ciudad-prefectura	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe	entidad territorial
+pueblo	entidad territorial
+drupa	árbol frutal	frutal	fruto	fruta	prunus	rojo	rojez	árbol	angiosperma	arbusto	color primario	planta perenne	planta leñosa	sistema formal	spermatophyta	planta	tracheobionta	planta vascular
+diplomático	persona	político
+persona	actriz	comediante	histrión
+extrusión	hueco	depresión natural	depresión	convexidad	accidente geográfico	conformación
+productor discográfico	director cinematográfico	director de cine	compositor	cantautor	guitarrero	guitarrista	director	productor	músico	instrumentista	cantor	cantante	instrumentalista	persona	letrista	vocalista	escritor	autor
+región histórica	entidad territorial	vecindad
+paralelogramo	cuadrilátero	deltoide	polígono equilátero	polígono	músculo esquelético	músculo	músculo estriado	curvatura	variedad topológica	tejido muscular	fibra mineral	fibra textil	fibra	cicloide	epicicloide	órgano	tejido conjuntivo	polígono simple
+persona	atleta	deportista
+personaje	representación
+presidente	escritor	autor	jefe de estado	mandatario	político	persona	líder	autoridad
+influencia	método
+ciclista	persona	contendiente	competidor	atleta	deportista
+sílice	óxido de silicio	mineral	gema	piedra preciosa	joya	piedra	compuesto químico	compuesto	óxido metálico	óxido	cristal	roca
+director cinematográfico	director de cine	cantautor	poeta	músico	persona	compositor	cantor	cantante	escritor	autor
+persona	navegante	comerciante	explorador
+táctica militar	estrategia	ataque furioso	acometimiento	asalto	agresión	ataque	operación	operación militar	maniobra
+río	arroyo	curso de agua	masa de agua	cuerpo de agua	extensión de agua
+depresión	anhelo	añoranza	humor	estado de ánimo	deseo
+montaña	monte	macizo	elevación	accidente geográfico	formación geológica	suburbio	escena	vecindad	hábitat
+universidad	universidad privada	academia	institución educacional	sistema social	estructura social
+bien inmueble	hacienda	propiedad física	vecindad
+línea de transmisión	cable	conductor	hilo
+púgil	pugilista	boxeador	persona
+reformista	filósofo	persona	clérigo	sacerdote católico	predicador	teólogo
+paso	pasaje	estrechez	tristeza	angustia	fatiga
+altavoz	bafle	transductor	máquina	componente electrónico
+satélite	orbiter	satélite artificial	máquina voladora	vehículo	nave
+restaurador	persona
+elemento metálico	metal	elemento químico	compuesto químico	compuesto	aleación	mezcla
+canon	precio	precio unitario	gasto	importe	coste	costo
+compuesto químico	compuesto
+ciudad	entidad territorial
+plato	adobo
+persona
+pinball	arcade	juego electrónico	juego de video	videojuego	juego de computadora	juego de ordenador
+condado	municipio	caserío	barrio	pueblo	aldehuela	banda de música	banda de rock	grupo de rock	agrupación musical	banda	ciudad	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe	entidad territorial
+edificación	edificio	pabellón	tienda
+orden policial	mandato	requisitoria	orden judicial	auto judicial
+estúpido	idiota	simplón	panoli	tonto	persona
+unidad militar	caballería	infantería
+instrumento de medida	instrumento de medición	instrumento	equipamiento
+compuesto químico	compuesto	oxoanión	sal química	sal	cristal
+tarjeta de crédito	identificación	firma	tarjeta
+heroína	persona
+guionista	productor de televisión	dibujante	humorista gráfico	animador	persona	escritor	autor	delineante
+clase social	estrato social
+ciudad	entidad territorial
+monarca	soberano	rey	emperador	gobernador	gobernante	jefe de estado	mandatario	persona
+pintor	persona
+cantautor	poetisa	poeta	compositor	cantor	cantante	instrumentista	músico	escritor	autor	vocalista	letrista	persona
+gas	elemento químico	fluido	átomo
+estado sin litoral	estado federado	enclave	parcela	extensión	zona metropolitana	metrópoli	metrópolis	área metropolitana	espacio	país
+vaso	vasija	recipiente	botella
+concurso	competición	prueba	contienda
+roca	piedra	roca ígnea	mineral	facies	compuesto químico	compuesto
+diestro	torero	matador	maestro	toreador	cine	película	producción	filme	película biográfica	persona	bailaor
+estilo de pelo	corte de pelo	corte	peinado	pasamanería	cable	cordel	cuerda	cordón	hilo	tendencia	gusto
+configuración	conformación	giro
+compuesto químico	compuesto	tanino	fenol
+túmulo	montículo
+director cinematográfico	director de cine	guionista	escritor de cine	productor de cine	persona	productor	deportista
+matemático	persona
+programa de computación	programación modular	programa de ordenador	software	programa informático	programa del sistema	software de sistema
+economista	filósofo	sabio	erudito	persona	intelectual
+angiosperma	spermatophyta	planta	tracheobionta	planta vascular
+compuesto químico	compuesto	oxoanión	sal química	sal	cristal
+viga	elemento estructural	apoyo	soporte	elemento arquitectónico
+persona	navegante	explorador	cartógrafo
+instrumento óptico	telescopio óptico	telescopio	amplificador	magnificador
+ciudad	municipio	pueblo	área urbana	población urbana	centro urbano	comunidad	entidad territorial	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe
+estado federado	entidad territorial
+parte contratante	segunda parte	persona
+arbusto	enredadera	trepadora	árbol	planta vascular	planta perenne	planta
+estado federado	ciudad-estado	ciudad estado	ciudad portuaria	ciudad	entidad territorial	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe
+arte marcial	autodefensa	defensa personal	deporte	deporte de combate
+escritor	autor	autora	caballero	poeta	persona
+gobierno	monarquía	parlamentarismo	organización política	sistema social	estructura social	sistema político	forma de gobierno
+rojo	silicato	mineral	nesosilicato	gema	piedra preciosa	joya	piedra	púrpura	cristal	roca
+formación geológica	jardín	plano	lote	espacio
+constelación	cuerpo celeste	objeto astronómico
+explotación	explotación social
+embalaje	recipiente
+estadio de fútbol	arena	estadio
+batalla campal	combate	batalla	disputa	guerra
+suciedad	arcilla	compuesto químico	compuesto
+cine	película	producción	filme	personaje	libro	novela	persona
+fuente luminosa	luz	fenómeno
+síntoma	mal	dolencia	patología	enfermedad	signo clínico
+limitación	control
+pecado capital	pecado mortal	pecado	compresor
+estructura arquitectónica	barrera	obstáculo
+campesino	agricultor	ranchero	granjero	persona
+luminosidad	claridad	iluminación	textura
+artesano	persona
+persona	futbolista
+lesión	mal	dolencia	patología	enfermedad	afección
+cama	lecho	compartimiento
+humedal	masa de agua	extensión de agua	lago	accidente geográfico	medio ambiente
+esmalte	metal
+persona	explorador	conquistador	militar	escritor	sacerdote
+monarca	soberano	rey	gobernador	gobernante	jefe de estado	mandatario	persona
+supermercado	compañía	firma	película	producción	filme	almacén	tienda	persona jurídica	botánico	persona
+pelea	combate	batalla
+poeta	persona	escritor	autor
+instrumentista	instrumentalista	músico	persona
+villa	pueblo	urbe	ayuntamiento	municipalidad	suburbio	vecindad	municipio	área urbana	población urbana	centro urbano	entidad territorial	zona metropolitana	área metropolitana
+tajo	trabajo	curro	labor	persona
+satélite de comunicaciones	satélite	orbiter	satélite artificial	nave espacial	máquina
+teoría de grupos	teoría de conjuntos	teoría de cuerpos	asignatura
+nucleótido	éster	ester	heterociclo	compuesto químico	compuesto
+persona	pintor	dibujante	grabador
+personaje	ópera	representación	persona	música culta	música clásica	teatro musical	obra musical	obra de teatro	obra teatral	drama	género musical	teatro	dramaturgia	obra de arte	obra dramática	composición dramática	estilo literario	beaux arts
+desierto	bioma	parcela	extensión	superficie
+monumento conmemorativo	monumento	estructura arquitectónica
+celulosa	materia prima	compuesto químico	compuesto	polisacárido	glúcido	azúcar	hidrato de carbono	carbohidrato	sacarosa
+ciudad	entidad territorial
+municipio	montaña	monte	ciudad	entidad territorial
+ciudad	entidad territorial
+grupo funcional	radical	enlace químico
+ayudante	ajudant	sirviente	encargado	asistente	supervisor	portero	persona	defensor	protector	trabajador
+álbum	álbum de estudio	calle	obra musical	vía pública	vía de comunicación	obra de arte	infraestructura	infraestructura urbana
+navegación aérea	navegación
+matemático	persona	estudioso
+emblema	ilustración	imagen	dibujo
+persona
+incendio	conflagración	tormenta violenta	borrasca	tormenta	fenómeno
+escritor	autor	historiógrafo	historiador	persona	actor
+arma	bomba incendiaria	explosivo	bomba	armamento	arma explosiva	máquina
+líder	autoridad	dirigente	papa	zar	santo
+estado federado	ciudad-estado	ciudad estado	principado	país	estado unitario	ciudad	entidad territorial
+economista	gobernador	gobernadora	profesionista	político	persona	líder	autoridad	dirigente	cabeza	jefe
+planeta	protoplaneta	cuerpo celeste	objeto astronómico	planemo
+película	producción	filme	novela	libro	obra de arte	obra literaria	relato	narración	ficción	publicación	composición literaria
+soprano	cantora	cantante	voz	persona	vocalista
+reina	monarca	gobernante	persona	aristócrata	autoridad
+villa	pueblo	urbe	ciudad	borough	cine	película	producción	filme	comedia dramática	tragicomedia	caserío	aldea	aldehuela	municipio	obra de arte	teatro	espectáculo	show	comedia cinematográfica	comedia	drama	película dramática	comunidad	capital	centro administrativo	área urbana	población urbana	centro urbano	evento social	género literario	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	entidad territorial	ayuntamiento	consistorio	municipalidad	administración pública
+villa	ciudad	pueblo	entidad territorial	área urbana	naturalista	inventor	escritor	persona
+éster	ester	compuesto químico	compuesto	sal química	sal	cristal
+tambor	membranófono	instrumento musical	instrumento	instrumento de percusión
+persona
+ranchero	vaquero	pastor	persona
+cuchillo	herramienta de corte	arma
+documentación	anuncio publicitario	aviso publicitario	spot	aviso	divulgación	anuncio	publicidad	promoción	volante	circular	texto	prosa	documento de texto	propaganda	lectura	estilo literario	fichero	archivo	publicación	medio de comunicación	medio	prensa escrita	canal	canal de comunicación	medios de comunicación	prensa	transmisión	papel	folleto
+ciudad	villa	pueblo	caserío	aldea	comunidad	municipio	municipalidad	entidad territorial	área urbana	población urbana	centro urbano	aglomeración urbana
+pueblo	municipio	suburbio	vecindad	área urbana	población urbana	centro urbano	entidad territorial	aglomeración urbana	zona metropolitana	área metropolitana
+presidente	poder legislativo	legislador	persona	parlamentario	jefe de estado	mandatario	jefe de gobierno	político	oficial de cubierta	líder	autoridad	dirigente	cabeza	jefe
+ciudad	centro administrativo	municipio	aglomeración urbana	zona metropolitana	área metropolitana	urbe	entidad territorial	área urbana	centro urbano
+software libre	contenido libre	programa de computación	programación modular	programa de ordenador	software	programa informático	código informático
+estación	estación de tren	estación de ferrocarril	estación ferroviaria	estación de trenes	instalación	local	estación de metro
+cordillera	sierra	región histórica	formación geológica	accidente geográfico	entidad territorial	comarca
+planta	edulcorante	sustituto del azúcar	condimento	aromatizante	aditivo alimentario	aditivo
+textil
+recta
+persona	ilustrador	actor	comediante	criminal	transgresor	delincuente	dibujante	celebridad
+tubo	caño	cilindro	canal
+cristianismo	religión abrahámica
+falda	prenda	vestimenta	vestuario	indumento	prenda de vestir
+obrero	trabajador	operario	mano de obra	persona	hombre contratado
+paralelo	latitud	franja
+poliedro
+desfiguración	deterioro
+conducción	control	manejo
+ingenio	comunidad	asociación	institución educacional
+océano	ambiente marino	masa de agua	cuerpo de agua	extensión de agua
+especialista	persona
+ciudad	área urbana	población urbana	entidad territorial
+club de fútbol	club	asociación	clube	navegante	equipo de fútbol	persona	entidad territorial	club deportivo	equipo	escuadra	organización deportiva	área urbana	centro urbano
+complejo	edificación	infraestructura	infraestructura urbana
+villa	ciudad	escritora	autora	pueblo	caserío	aldea	aldehuela	persona	comunidad	municipio	ayuntamiento	consistorio	municipalidad	entidad territorial	área urbana	población urbana	centro urbano	gobierno local	estado federado	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe	administración pública	autoridad	régimen político	gobierno	régimen
+dependencia	edificación	tajo	lugar de trabajo
+ciénaga	marisma	entorno	vecindad
+calculadora	calculador	máquina	lámina	plancha	bloque
+tratamiento	honorífico	emperador	soberano
+tortura	maltrato	abuso
+dispositivo de memoria	máquina	amortiguador
+harina	producto alimenticio	polvo
+ciudad	entidad territorial
+máquina
+presidente	jefe de estado	mandatario	político	persona
+trapo	paño	tela	textil
+dramatización	representación	interpretación
+arquitecto	diseñador	persona
+general	político	jefe de gobierno	líder	autoridad	dirigente	jefe	persona	militar	oficial	oficial militar	oficial comisionado	soldado
+poeta	escritor	autor	persona
+almohadón	cojín	almohadilla	canuto
+árabe	nómada	persona	viajero
+persona	actriz
+fortepiano	pianoforte	piano	instrumento de cuerda	cordófono	instrumento de teclado	instrumento musical	instrumento	máquina
+alcaloide	compuesto químico	compuesto	planta	arbusto	postre	dulce	pan	repostería	narcótico	angiosperma	planta leñosa	plato	fármaco	droga	psicotrópico	spermatophyta	planta perenne	tracheobionta	planta vascular	producto alimenticio	mezcla	substancia
+monarquía	estado federado	entidad territorial	imperio	provincia
+producto lácteo	lácteo	producto alimenticio
+legumbre	verdura	hortaliza	vegetal	cebolla	allium cepa	planta	producto agrícola	planta vascular
+grafía	grafema	signo	símbolo escrito	representación
+ion	éster	ester	compuesto químico	compuesto
+compositor	escritor	autor	poeta	músico	persona
+isla	archipiélago
+política	decisión
+defensa	terraplén	barrera	malecón	estructura arquitectónica	infraestructura
+parte contratante	persona
+estado federado	nación constitutiva	comunidad
+ruta metabólica	reacción química	proceso químico	cambio químico
+lámpara	máquina	luz
+fibra mineral	fibra textil	fibra	aislador	aislante	dieléctrico	material de construcción
+goma	angiosperma	exudación	exudado	emisión	planta	tracheobionta	planta vascular
+estado federado	imperio
+estado federado	país	protocolo
+cantor	cantante	cantautor	músico	persona	compositor	vocalista
+cacerola	olla	cazuela
+princesa	infanta	persona	aristócrata	ninfa
+hilo	hilado	cable	cordel	cuerda	cordón
+diplomático	político	persona
+zalea	piel	vellón	lana	cuero	marroquinería	hilo	hilado	mohair	trapo	paño	tela	textil	fibra mineral	fibra textil	fibra	material textil
+faraón	gobernador	gobernante	persona
+ciudad	provincia	entidad territorial
+bote	embarcación	canoa	barca	vehículo	nave	transporte naval	transporte fluvial	medio de transporte
+parte del cuerpo	penacho	superficie
+aldea	pueblo	aldehuela	ciudad	comunidad	villa	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe	entidad territorial	municipio	área urbana	población urbana	centro urbano
+escuela	colegio	edificación	edificio	estructura arquitectónica
+canal de televisión	canal	canal de tv	cadena de televisión	canal de comunicación	televisión	tele	compañía	firma	medio de comunicación	medio	persona jurídica	servicio
+unidad de energía	unidad de masa
+película	producción	filme
+espada	arma	arma blanca
+pueblo	villa	película	producción	filme	película de terror	serie de televisión	ciudad	entidad territorial
+político	sociólogo	jefe de gobierno	estadista	líder	autoridad	dirigente	persona
+persona
+condición
+departamento	pueblo	municipio	ciudad	comunidad	área urbana	población urbana	centro urbano	entidad territorial	aglomeración urbana	zona metropolitana	metrópoli	metrópolis	área metropolitana	urbe	suburbio	vecindad	hábitat
+escritor	autor	dramaturgo	persona	filósofo	erudito	estudioso	intelectual
+documento de texto	archivo de texto	fichero de texto	multimedia interactiva	fichero	archivo	archivo informático	medio de comunicación	canal de comunicación
+fortificación	terraplén	barrera	obra hidráulica	dique	edificación	obra de construcción	edificio	estructura arquitectónica	defensa	infraestructura
+equipamiento	equipo
+raíz	radicación
+ciudad	pueblo	comunidad	entidad territorial	vecindad	aglomeración urbana	urbe
+oclusión	disco	coágulo	burbuja
+villa	pueblo	urbe	ciudad	centro urbano	entidad territorial
+persona	poeta	escritor	autor
+semilla	fruto
+actriz	comediante	histrión	persona
+caja	recipiente
+divisa	moneda	unidad monetaria
+compuesto químico	compuesto
+depósito	repositorio	almacén	edificio
+edificación	edificio	vivienda
+castigo físico	castigo corporal	pena	castigo	control social	imposición
+geofísica	física	geología	ciencia natural	asignatura
+compañía	firma	banco	persona jurídica	institución financiera
+persona	periodista
+compañía	firma	marca	persona jurídica	persona
+especificación técnica	especificación	magnitud física	propiedad física	magnitud
+onda	ola	ondulación	movimiento
+puntuación	signo de puntuación	representación	signo	comunicación escrita	símbolo escrito
+diplomático	ilustrador	persona	actor
+personaje	maestro
+ciudad	entidad territorial	aglomeración urbana
+sombrero	chapó	tocado	prenda	vestimenta
+pueblo	urbe	ciudad	extensión	municipio	área urbana	población urbana	centro urbano	entidad territorial	aglomeración urbana
+sexismo	discriminación
+pelota	juguete	bola
+líder	persona	clérigo	obispo	arzobispo
+inclinación	predisposición	parcialidad	tendencia	propensión	proclividad	fobia
+grado militar	rango	general	estatus	jerarquía	militar	oficial	oficial militar	guerrero	oficial comisionado	persona
+canción	composición musical	pieza	obra musical
+aparador	mueble	mobiliario	frigorífico	refrigerador
+enfermedad transmisible	contagio	contagiosidad	infección	enfermedad contagiosa	enfermedad infecciosa	mal	dolencia	patología	enfermedad	afección	morbilidad	condición
+crónica	índice
+psicotrópico	ansiolítico	compuesto químico	compuesto	fármaco	droga	calmante	sedante	tranquilizante	medicamento	medicina	substancia	depresor
+capsicum	especia	condimento	aromatizante	capsicum annuum	pimienta roja	piper longum	arbusto	fruto	fruta	legumbre	vegetal	raíz	semilla	pepita	angiosperma	planta	producto agrícola	vitaceae	tracheobionta	planta vascular	planta perenne	spermatophyta
+presidente	jefe de estado	mandatario	jefe de gobierno	político	estadista	persona	autoridad	dirigente
+película	príncipe	conquistador	guerrero	persona
+división celular	división
+supergigante	estrella	astro	cuerpo celeste	objeto astronómico
+artesano	persona	trabajador
+parte contratante	persona
+lenguaje de programación	lenguaje informático	programa informático	software
+ansia	angustia	trastorno de ansiedad	ansiedad	reflexión	meditación
+pastel	coca	torta	tarta	postre	dulce	pan	repostería	plato	producto alimenticio	mezcla
+barniz	laca	cosmético	capa	mano	recubrimiento	revestimiento
+castillo	estructura arquitectónica
+club deportivo	equipo	escuadra	organización deportiva	club
+ventana	armazón	armadura	infraestructura	carcasa
+pesticida	plaguicida	biocida	microorganismo
+transcripción	inclusión
+presidente	jefe de estado	mandatario	político	persona
+física	química	persona
+comic	serie
+seleccionador	entrenador	míster	entrenador de fútbol	instructor	técnico	director	persona
+industria automovilística	industria automotriz	compañía	firma	manufactura	fabricante	persona jurídica	fábrica
+presidente	persona	político	estadio de fútbol	estadio
+compuesto químico	compuesto	roca ígnea	piedra	roca	mineral
+condición	riqueza
+lagartija	lagarto	lacertilia	reptil	vertebrado	diapsida	animal
+material sintético	poliamida	textil	tela	trapo	compuesto químico	compuesto	fibra	fibra textil	fibra mineral	polímero
+escuadra	equipo de baloncesto	equipo
+árbol	conformación	configuración	batería
+estado federado	capital	ciudad	metrópoli	metrópolis	entidad territorial
+estructura neurológica	estructura anatómica	parte corporal	parte del cuerpo

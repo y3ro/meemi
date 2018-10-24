@@ -1,0 +1,1000 @@
+tecnologia	Concept
+schermata	Concept
+balia	Concept
+corridoio	Concept
+Saeco	Entity
+sito	Concept
+decoro	Concept
+quindicinale	Concept
+sagacia	Concept
+programma	Concept
+esercizio	Concept
+Epson	Entity
+passato prossimo	Concept
+word processor	Concept
+cornuto	Concept
+Guerra fredda	Entity
+casa a schiera	Concept
+acquisto	Concept
+sassolino	Concept
+satira	Concept
+ingresso	Concept
+Lamezia Terme	Entity
+spugna	Concept
+orticello	Concept
+Alfredo il Grande	Entity
+Cleopatra	Entity
+Martin Scorsese	Entity
+rettifica	Concept
+ometto	Concept
+Cecoslovacchia	Entity
+istituto di emissione	Concept
+famigliare	Concept
+provino	Concept
+Adriano Olivetti	Entity
+acrobazia	Concept
+antica Grecia	Entity
+Genova	Entity
+Prodotto interno lordo	Concept
+scellerato	Concept
+comparsa	Concept
+emblema	Concept
+fisica	Concept
+norvegese	Concept
+sigaro	Concept
+razionalizzazione	Concept
+Il vento	Entity
+sciagurato	Concept
+musa	Concept
+Santa Sede	Entity
+condanna	Concept
+coniglio	Concept
+magistratura	Concept
+acqua marina	Concept
+genere	Concept
+appunto	Concept
+Shining	Entity
+principio	Concept
+rilegatura	Concept
+Agrigento	Entity
+risistemazione	Concept
+villano	Concept
+Santa Rita	Entity
+Norvegia	Entity
+moto	Concept
+contributo	Concept
+orecchioni	Concept
+Tolomeo	Entity
+legno	Concept
+don	Concept
+ministro	Concept
+Efeso	Entity
+ritorno	Concept
+smistamento	Concept
+rivelatore	Concept
+biomassa	Concept
+paletta	Concept
+dittatura	Concept
+Torino	Entity
+dollaro americano	Concept
+Davide	Entity
+Burano	Entity
+morbo di Parkinson	Concept
+caricatore	Concept
+colpa	Concept
+equivalente	Concept
+morso	Concept
+esclusione	Concept
+centrale nucleare	Concept
+viticultura	Concept
+corona svedese	Concept
+lux	Concept
+rialzo	Concept
+influenza	Concept
+suicida	Concept
+pelo	Concept
+assunzione	Concept
+protocollo	Concept
+dominatore	Concept
+concentrato	Concept
+brodo	Concept
+pensione di invalidità	Concept
+fesso	Concept
+reddito	Concept
+brezza	Concept
+spazzolino	Concept
+ciclicità	Concept
+geopolitica	Concept
+amperometro	Concept
+stricnina	Concept
+Peter Pan	Entity
+causa	Concept
+collisione	Concept
+ayatollah	Concept
+area	Concept
+Mar Mediterraneo	Entity
+ciarpame	Concept
+telefono cellulare	Concept
+stagione	Concept
+guerra totale	Concept
+Isole Aleutine	Entity
+turno	Concept
+anta	Concept
+biotecnologia	Concept
+costume da bagno	Concept
+maledizione	Concept
+copricapo	Concept
+sole	Concept
+Montecristo	Entity
+sollievo	Concept
+mercato dei titoli	Concept
+diluvio	Concept
+eufemismo	Concept
+centrista	Concept
+prezzemolo	Concept
+guardalinee	Concept
+Cittadella	Entity
+melanzana	Concept
+salsiccia	Concept
+Giacomo Puccini	Entity
+brasiliano	Concept
+Moira Shearer	Entity
+The Simpsons	Entity
+rio	Concept
+maggioranza	Concept
+massima	Concept
+istrione	Concept
+veneziano	Concept
+intervento	Concept
+cooperazione	Concept
+fermo	Concept
+Marines	Entity
+turbamento	Concept
+chimera	Concept
+Google Maps	Entity
+mostarda	Concept
+rimbambimento	Concept
+trasferimento	Concept
+Gibilterra	Entity
+aorta	Concept
+Re Sole	Entity
+binocolo	Concept
+abbonamento	Concept
+realtà virtuale	Concept
+capostipite	Concept
+segretario	Concept
+fascio	Concept
+gondola	Concept
+dannazione	Concept
+Red Hat	Entity
+vantaggio	Concept
+ascensore	Concept
+William Shakespeare	Entity
+federazione	Concept
+orda	Concept
+infrarosso	Concept
+Unipol	Entity
+cerimoniale	Concept
+piota	Concept
+minusvalenza	Concept
+genialità	Concept
+fatalismo	Concept
+encefalopatia	Concept
+addebito	Concept
+bucato	Concept
+indennità	Concept
+fiorino	Concept
+Don Chisciotte	Entity
+Pax Christi	Entity
+Dakar	Entity
+cognato	Concept
+precipitazione	Concept
+barcone	Concept
+Molteni	Concept
+affondamento	Concept
+ventisette	Concept
+amico	Concept
+bellezza	Concept
+otto	Concept
+assenteismo	Concept
+ministro degli interni	Concept
+Modugno	Entity
+zebra	Concept
+Lo specchio	Entity
+confederazione	Concept
+Finlandia	Entity
+poliomielite	Concept
+Ugo La Malfa	Entity
+inglese	Concept
+distanza	Concept
+Bari	Entity
+confidente	Concept
+requiem	Concept
+imposizione	Concept
+assegnazione	Concept
+tangente	Concept
+Bloomberg	Entity
+mongolfiera	Concept
+Tiger	Entity
+diagonale	Concept
+ambito	Concept
+specializzazione	Concept
+consiglio	Concept
+vapore acqueo	Concept
+hurling	Concept
+impressionismo	Concept
+frame	Concept
+testardaggine	Concept
+Routledge	Entity
+Marciana Marina	Entity
+sorbetto	Concept
+lettore	Concept
+pena	Concept
+adeguatezza	Concept
+pelle	Concept
+cane	Concept
+nemico	Concept
+seggiovia	Concept
+blocco	Concept
+interramento	Concept
+quadratino	Concept
+magnitudine	Concept
+pivello	Concept
+zitella	Concept
+carica	Concept
+pedina	Concept
+aneddoto	Concept
+equità	Concept
+Ponte Vecchio	Entity
+Gran Bretagna	Entity
+mandolino	Concept
+simbologia	Concept
+tour de force	Concept
+carrozza	Concept
+maestro	Concept
+legittimità	Concept
+soggetto	Concept
+cromo	Concept
+Montana	Entity
+grafologia	Concept
+Paolo Costa	Entity
+parchimetro	Concept
+Robert Bruce	Entity
+Pink	Entity
+acconciatura	Concept
+servo	Concept
+roccia	Concept
+tachimetro	Concept
+tovaglia	Concept
+Aprilia	Entity
+fabbrica	Concept
+Tropico del Capricorno	Entity
+Times New Roman	Entity
+Palazzo di Giustizia	Entity
+scaglia	Concept
+molo	Concept
+Università del Wisconsin-Madison	Entity
+castagno	Concept
+acropoli	Concept
+viaggio	Concept
+PlayStation	Entity
+ulivo	Concept
+morte	Concept
+radiazione solare	Concept
+licenza	Concept
+vincita	Concept
+musicalità	Concept
+Britney Spears	Entity
+spazio vitale	Concept
+caso	Concept
+predicazione	Concept
+cambiavalute	Concept
+Serie B	Entity
+intervista	Concept
+profilo	Concept
+ubbidienza	Concept
+occhio	Concept
+Carlo Giovanardi	Entity
+plotone	Concept
+goffo	Concept
+cranio umano	Concept
+folgore	Concept
+Parigi	Entity
+intellighenzia	Concept
+Cristo	Entity
+naturalizzazione	Concept
+controllo	Concept
+atto costitutivo	Concept
+pallacorda	Concept
+agenzia di viaggi	Concept
+Bill Gates	Entity
+Lancia Y	Entity
+zio	Concept
+recupero	Concept
+acetone	Concept
+Barbados	Entity
+TIM	Entity
+Porto Cervo	Entity
+versione	Concept
+Sin City	Entity
+lira	Concept
+spegnimento	Concept
+neofita	Concept
+scogliera	Concept
+inganno	Concept
+tenuta	Concept
+mare	Concept
+povertà	Concept
+trasmissione	Concept
+campo sportivo	Concept
+mostra	Concept
+attraversamento	Concept
+patatine	Concept
+fotocopia	Concept
+condotto	Concept
+truffa	Concept
+Palermo	Entity
+apparecchio ortodontico	Concept
+arroganza	Concept
+Gengis Khan	Entity
+James Stewart	Entity
+Vandana Shiva	Entity
+origine	Concept
+Melbourne	Entity
+reticolato	Concept
+client di posta	Concept
+ambra	Concept
+rete elettrica	Concept
+Un uomo	Entity
+autobus	Concept
+Pomezia	Entity
+Riccardo Magherini	Entity
+Cesare Pavese	Entity
+complesso	Concept
+autore	Concept
+intesa	Concept
+scuola di specializzazione	Concept
+potere	Concept
+Carloforte	Entity
+quadrilatero	Concept
+Kurt Vonnegut	Entity
+ripercussione	Concept
+calcio	Concept
+pestilenza	Concept
+negativo	Concept
+scemenza	Concept
+documento	Concept
+male	Concept
+credo	Concept
+sega	Concept
+tifoso	Concept
+Warlock	Entity
+manifesto	Concept
+Greenwich	Entity
+contatto	Concept
+fideiussione	Concept
+bruciatore	Concept
+Lance Armstrong	Entity
+saracinesca	Concept
+buco	Concept
+Mar del Nord	Entity
+taglio	Concept
+omnibus	Concept
+rublo russo	Concept
+ottica	Concept
+crepe	Concept
+laurea	Concept
+spargimento di sangue	Concept
+ingombro	Concept
+anniversario di matrimonio	Concept
+revisione	Concept
+Etty Hillesum	Entity
+collante	Concept
+Il giocatore	Entity
+giurisdizione	Concept
+salario	Concept
+terapia	Concept
+raccapriccio	Concept
+inserimento	Concept
+compianto	Concept
+malavita	Concept
+fotoreporter	Concept
+apprendista	Concept
+collega	Concept
+televisione via cavo	Concept
+giudizio	Concept
+router	Concept
+ceralacca	Concept
+rasoio	Concept
+intruglio	Concept
+vallata	Concept
+pilota	Concept
+finale	Concept
+vinicoltura	Concept
+Malaguti	Entity
+Leonardo Domenici	Entity
+autolesionismo	Concept
+ostello	Concept
+seminatore	Concept
+La cosa	Entity
+Florida	Entity
+prodotto	Concept
+analisi	Concept
+circuito stampato	Concept
+Oliver Stone	Entity
+fulmine	Concept
+titolare	Concept
+limousine	Concept
+San Severo	Entity
+vescicola seminale	Concept
+Babilonia	Entity
+elezione diretta	Concept
+granata	Concept
+masochismo	Concept
+controluce	Concept
+aristocrazia	Concept
+assistente sociale	Concept
+Como	Entity
+rock	Concept
+focolaio	Concept
+onorificenza	Concept
+autodidatta	Concept
+acclamazione	Concept
+creazione	Concept
+esborso	Concept
+golf	Concept
+Paolo Bonolis	Entity
+raccoglitore	Concept
+Oracle	Entity
+voglia	Concept
+toccata	Concept
+carneficina	Concept
+calvizie	Concept
+Galileo Ferraris	Entity
+mercato del lavoro	Concept
+industria petrolifera	Concept
+Julia Roberts	Entity
+Lincoln Memorial	Entity
+debolezza	Concept
+serrata	Concept
+ione	Concept
+accisa	Concept
+Mandel	Entity
+fisica moderna	Concept
+Friburgo	Entity
+croato	Concept
+Pittsburgh	Entity
+sequestro di persona	Concept
+scomparso	Concept
+curiosità	Concept
+treppiede	Concept
+canaglia	Concept
+serpe	Concept
+stabilizzazione	Concept
+giocatore	Concept
+Aulla	Entity
+pozione	Concept
+valigetta	Concept
+moro	Concept
+grandiosità	Concept
+forchetta	Concept
+reversibilità	Concept
+E.T.	Entity
+caffè	Concept
+Puglia	Entity
+premio	Concept
+bilanciere	Concept
+Abruzzo	Entity
+traspirazione	Concept
+Gianni Letta	Entity
+balaustrata	Concept
+Margherita Hack	Entity
+piano	Concept
+cloridrato	Concept
+elenco	Concept
+sovranità	Concept
+albero a camme	Concept
+Nebbiolo	Entity
+Eracle	Entity
+Il lupo	Entity
+cozza	Concept
+autosufficienza	Concept
+professore	Concept
+sventura	Concept
+apoptosi	Concept
+dispaccio	Concept
+tivvù	Concept
+ospite	Concept
+argentino	Concept
+paesaggista	Concept
+pagamento	Concept
+sovrapprezzo	Concept
+toro	Concept
+fatica	Concept
+Rai 1	Entity
+boschetto	Concept
+finestra	Concept
+divieto	Concept
+tresca	Concept
+ingegnere	Concept
+schianto	Concept
+Egidio Banti	Entity
+Giancarlo Galan	Entity
+Asia Minore	Entity
+Santa Maria	Entity
+esposto	Concept
+Fassa Bortolo	Entity
+cinque	Concept
+Tolosa	Entity
+Canale di Panamá	Entity
+Vergine	Entity
+punto di vista	Concept
+ipocrisia	Concept
+Margherita	Entity
+gobba	Concept
+sanscrito	Concept
+corrente	Concept
+qualità	Concept
+torre Eiffel	Entity
+PHP	Entity
+suburbio	Concept
+immunoglobulina	Concept
+Ariel Sharon	Entity
+paragrafo	Concept
+Seedorf	Entity
+Federazione Russa	Entity
+nubifragio	Concept
+Mare del Nord	Entity
+resistenza	Concept
+Itaca	Entity
+valutazione	Concept
+Ismaele	Entity
+utilità	Concept
+Persia	Entity
+croce di Malta	Concept
+conferma	Concept
+lana di vetro	Concept
+manipolazione	Concept
+giocata	Concept
+Chicago Bulls	Entity
+Il giudizio	Entity
+stemma	Concept
+tofu	Concept
+impalcatura	Concept
+vendicatore	Concept
+sala	Concept
+madre	Concept
+opera	Concept
+picchio	Concept
+François Truffaut	Entity
+sintesi	Concept
+Michelle Pfeiffer	Entity
+Cesare Battisti	Entity
+maschera	Concept
+Stelvio	Entity
+Franco Angeli	Entity
+duce	Concept
+previdenza	Concept
+Novi	Entity
+orefice	Concept
+Duma	Entity
+incarico	Concept
+diligenza	Concept
+Carlo Maria Martini	Entity
+civile	Concept
+Martin Mystère	Entity
+portico	Concept
+cesto	Concept
+caccia	Concept
+Honda	Entity
+ponderazione	Concept
+fanciulla	Concept
+giovedì	Concept
+attualità	Concept
+John Ford	Entity
+aereo	Concept
+diritto di passaggio	Concept
+combustione	Concept
+banda	Concept
+abbaglio	Concept
+Nutella	Entity
+tiro a segno	Concept
+pilastro	Concept
+giocherellone	Concept
+inaugurazione	Concept
+Barbagia	Entity
+motivo	Concept
+grappolo	Concept
+mostruosità	Concept
+lettera di cambio	Concept
+cavallina	Concept
+uscita	Concept
+turbina	Concept
+pula	Concept
+orinazione	Concept
+intendente	Concept
+equipollenza	Concept
+Alto Commissario	Entity
+tramontana	Concept
+polimero	Concept
+calciatore	Concept
+bandolo	Concept
+golfo	Concept
+impermeabile	Concept
+principessa	Concept
+asterisco	Concept
+Lamberto Dini	Entity
+Hero	Entity
+Venezia	Entity
+sorso	Concept
+camioncino	Concept
+thriller	Concept
+insidia	Concept
+Verdi	Entity
+trombone	Concept
+accesso	Concept
+disadattato	Concept
+attestazione	Concept
+direttore	Concept
+Serchio	Entity
+pianta	Concept
+collocazione	Concept
+incombenza	Concept
+portapacchi	Concept
+sabbia	Concept
+encomio	Concept
+straripamento	Concept
+palla da rugby	Concept
+anno	Concept
+commento	Concept
+contrattempo	Concept
+mar Egeo	Entity
+WC	Concept
+bollo	Concept
+formazione	Concept
+tagliatelle	Concept
+fossa	Concept
+neurone	Concept
+insalatiera	Concept
+Forlì	Entity
+obolo	Concept
+prevenzione	Concept
+salamoia	Concept
+secolo	Concept
+associazione	Concept
+pupazzo	Concept
+cumulo	Concept
+Casola Valsenio	Entity
+travetto	Concept
+tricolore	Concept
+Niente paura	Entity
+discarico	Concept
+Namibia	Entity
+dichiarazione	Concept
+base	Concept
+cataclisma	Concept
+Islanda	Entity
+falco di palude	Concept
+energia	Concept
+scuola elementare	Concept
+sforzo	Concept
+politica	Concept
+evento	Concept
+smania	Concept
+lucernario	Concept
+Apollonio	Entity
+obiettivo	Concept
+dilatazione	Concept
+la minore	Concept
+Saul	Entity
+atrocità	Concept
+papillomavirus umano	Concept
+Lonate Pozzolo	Entity
+pasticcio	Concept
+risultato	Concept
+applicazione	Concept
+montepremi	Concept
+Emily Dickinson	Entity
+tartufo	Concept
+passera scopaiola	Concept
+Yemen	Entity
+Il muro	Entity
+cancelliere	Concept
+chiave musicale	Concept
+best-seller	Concept
+lingua parlata	Concept
+Bardolino	Entity
+partito	Concept
+Il sogno	Entity
+immissario	Concept
+resoconto	Concept
+San Vitale	Entity
+pericolo	Concept
+Zurigo	Entity
+Emma Bonino	Entity
+amniocentesi	Concept
+acquazzone	Concept
+classico	Concept
+notula	Concept
+ciottolo	Concept
+rosolia	Concept
+emiro	Concept
+commissione	Concept
+zanzara	Concept
+cervo	Concept
+riassunto	Concept
+digitalizzazione	Concept
+lavabo	Concept
+appropriazione	Concept
+settore	Concept
+dominanza	Concept
+Paolo Conte	Entity
+delegato	Concept
+Partito Comunista Italiano	Entity
+convegno	Concept
+cavaliere	Concept
+salamandra pezzata	Concept
+senato	Concept
+Max Biaggi	Entity
+colf	Concept
+ambiente	Concept
+fiala	Concept
+Montebelluna	Entity
+bici	Concept
+lezione	Concept
+provvisorietà	Concept
+Bradbury	Entity
+introito	Concept
+tutore	Concept
+canovaccio	Concept
+omissione	Concept
+serie	Concept
+Aida	Entity
+bastone	Concept
+lingua	Concept
+autorità	Concept
+industria	Concept
+autorizzazione	Concept
+ActiveX	Entity
+anticoncezionale	Concept
+subappalto	Concept
+barra	Concept
+farina	Concept
+borgo	Concept
+Borgia	Entity
+British Medical Journal	Entity
+nafta	Concept
+contraccezione	Concept
+Cervantes	Entity
+esame del DNA	Concept
+razza	Concept
+peccato	Concept
+Giovanni della Croce	Entity
+ricatto	Concept
+alfiere	Concept
+foresta pluviale	Concept
+Piazza Umberto I	Entity
+urto	Concept
+motosega	Concept
+diploma	Concept
+lotta	Concept
+metropoli	Concept
+cacciatorpediniere	Concept
+diapason	Concept
+aborto	Concept
+Agenzia delle Entrate	Entity
+vaschetta	Concept
+facsimile	Concept
+tour operator	Concept
+plebe	Concept
+Oceano Pacifico	Entity
+istanza	Concept
+formato	Concept
+cronista	Concept
+accessibilità	Concept
+Genesi	Entity
+Emanuele Filiberto	Entity
+ufficio di collocamento	Concept
+carovana	Concept
+Monopoli	Entity
+Piazza di Spagna	Entity
+Locri	Entity
+traforo	Concept
+votazione	Concept
+clacson	Concept
+barchetta	Concept
+raffinazione	Concept
+seppia	Concept
+gara di velocità	Concept
+pasticca	Concept
+pubblicazione	Concept
+energia potenziale	Concept
+età moderna	Concept
+avversario	Concept
+Quarto	Entity
+Zagabria	Entity
+Marco Travaglio	Entity
+assiolo	Concept
+vigili del fuoco	Concept
+Libro dei Giudici	Entity
+Cascate del Niagara	Entity
+argomento	Concept
+aeromobile	Concept
+traffico	Concept
+archetto	Concept
+opposizione	Concept
+Castelvecchio	Entity
+Monti	Entity
+strada maestra	Concept
+disprezzo	Concept
+capo	Concept
+asilo	Concept
+ermellino	Concept
+inquadratura	Concept
+sicario	Concept
+cuccia	Concept
+progetto	Concept
+Marassi	Entity
+elogio	Concept
+tribù	Concept
+portaborse	Concept
+Iraq	Entity
+Lufthansa	Entity
+pianerottolo	Concept
+campionato mondiale	Concept
+briscola	Concept
+Pietro Nenni	Entity
+consapevolezza	Concept
+Mark Twain	Entity
+Oliviero Toscani	Entity
+carcassa	Concept
+interpretazione	Concept
+atomica	Concept
+taschino	Concept
+cugino	Concept
+attuario	Concept
+Sussex	Entity
+assegno a vuoto	Concept
+rosso	Concept
+giorno lavorativo	Concept
+Giotto	Entity
+Pietro	Entity
+liuto	Concept
+carillon	Concept
+definizione	Concept
+enfasi	Concept
+Europa	Entity
+stoltezza	Concept
+studio legale	Concept
+mascheramento	Concept
+attimo	Concept
+unità	Concept
+infedeltà	Concept
+guaio	Concept
+server	Concept
+violazione	Concept
+abbrutimento	Concept
+carattere	Concept
+bersaglio	Concept
+palazzo	Concept
+getto	Concept
+evacuazione	Concept
+mercato borsistico	Concept
+spuma	Concept
+scaldabagno	Concept
+abate	Concept
+cappuccino	Concept
+ginnasio	Concept
+orbita	Concept
+Il Messaggero	Entity
+difesa	Concept
+scomunica	Concept
+arboricoltura	Concept
+gestore	Concept
+rinnovamento	Concept
+volto	Concept
+impero	Concept
+montone	Concept
+odontoiatra	Concept
+fuga di notizie	Concept
+immagine	Concept
+star del cinema	Concept
+balestra	Concept
+motilità	Concept
+mortaio	Concept
+unità di tempo	Concept
+spettatore	Concept
+Damocle	Entity
+Ernest Rutherford	Entity
+avventuriero	Concept
+caditoia	Concept
+elaborazione	Concept
+contraffazione	Concept
+manometro	Concept
+tortora	Concept
+cartismo	Concept
+lime	Concept
+comune	Concept
+pensione	Concept
+Led Zeppelin	Entity
+indaco	Concept
+asfalto	Concept
+ventuno	Concept
+proprietario	Concept
+garanzia	Concept
+letto matrimoniale	Concept
+azienda pubblica	Concept
+imperizia	Concept
+legalizzazione	Concept
+aquila	Concept
+Missouri	Entity
+sede	Concept
+Assiria	Entity
+osservazione	Concept
+Adriano	Entity
+variazione	Concept
+Alex Zanotelli	Entity
+singolo	Concept
+San Biagio	Entity
+spedizione	Concept
+capoverso	Concept
+cupola	Concept
+Santo Stefano	Entity
+imbuto	Concept
+pompa da bicicletta	Concept
+tasso	Concept
+gossip	Concept
+Mario Lavezzi	Entity
+andamento	Concept
+lingua friulana	Concept
+distinzione	Concept
+juke-box	Concept
+composizione	Concept
+calandra	Concept
+nerbo	Concept
+tradimento	Concept
+progetto pilota	Concept
+contrasto	Concept
+giudice	Concept
+intaglio	Concept
+Elettra Deiana	Entity
+danno	Concept
+cagione	Concept
+braccialetto	Concept
+furbizia	Concept
+equilibrio	Concept
+lumen	Concept
+rilevamento	Concept
+New Jersey	Entity
+rombo	Concept
+Amleto	Entity
+deriva	Concept
+comandante in capo	Concept
+occhiello	Concept
+Geppetto	Entity
+intermezzo	Concept
+Gauguin	Entity
+San Vito	Entity
+neuropsichiatra	Concept
+Il fiume	Entity
+Tivoli	Entity
+casellario	Concept
+lago Trasimeno	Entity
+consorte	Concept
+squadra volante	Concept
+parlamentare	Concept
+Partito Liberale	Entity
+Anatolia	Entity
+Francesco Totti	Entity
+imponenza	Concept
+adorazione	Concept
+soprattassa	Concept
+argento	Concept
+Belgio	Entity
+cucina	Concept
+finanziamento	Concept
+scansione	Concept
+travaglio	Concept
+pakistano	Concept
+museo scientifico	Concept
+previsione	Concept

@@ -1,0 +1,25 @@
+onda	Concept
+palestra	Concept
+Germania	Entity
+treccia	Concept
+studio	Concept
+biro	Concept
+litio	Concept
+scanner	Concept
+sedia	Concept
+strada pubblica	Concept
+ripieno	Concept
+Petronio	Entity
+elementari	Concept
+Robert De Niro	Entity
+Minneapolis	Entity
+colonialismo	Concept
+espediente	Concept
+cactus	Concept
+imposta sulle successioni	Concept
+serigrafia	Concept
+parallelogramma	Concept
+Minosse	Entity
+Billy Graham	Entity
+atmosfera	Concept
+latte	Concept
