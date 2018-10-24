@@ -1,0 +1,15 @@
+clinical finding	inflammatory disorder	keratitis	degenerative disorder	disease
+procedure	removal	draw
+clinical finding	spirochetal infection	infectious disease	disease	borreliosis	infection
+curette	surgical instrument	instrument
+respiratory disorder	vascular disease	disease	embolism	closure	occlusion	attack	blockage
+proliferation	clinical finding	disease	lump	body structure	malignant tumor	neoplasm	tumor
+cardiac finding	renal impairment	cardiopathy	clinical finding	heart failure	disease	kidney disease
+headache disorder	clinical finding	disease	headache
+proliferation	clinical finding	disease	lump	body structure	nerve sheath tumor	neoplasm	malady	illness	growth	sickness	tumor	disorder	pathology	anatomical pathology
+healthcare professional	psychologist	social scientist	worker	occupational group	degree	career	advanced degree	calling	person	qualification	honor
+appliance
+disease	malady	illness	sickness	disorder
+clinical finding	craniofacial pain	pain	headache
+chamber	container
+body region	body structure	anatomical structure	human skeleton	animal tissue	frame	cranium	connective tissue	tissue	morphology	skeleton	skeletal system	skull	organ	body part	conjunctive tissue	os	bone

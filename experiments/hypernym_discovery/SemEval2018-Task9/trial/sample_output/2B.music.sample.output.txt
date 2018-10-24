@@ -1,0 +1,15 @@
+wood	woodwind instrument	woodwind	instrument	musical instrument	wind	wind instrument	aerophone	artifact	melodic theme	musical theme	musical composition	rock group	rock band	vocal
+album	record album	studio album	single	vocal	song	track	human voice	musical work	audio signal	release	musical composition	piece of music	opus	composition
+wood	woodwind instrument	woodwind	instrument	musical instrument	wind	wind instrument	aerophone	artifact	melodic theme	musical theme	musical composition	rock group	rock band	vocal
+wood	woodwind instrument	woodwind	instrument	musical instrument	wind	wind instrument	aerophone	artifact	melodic theme	musical theme	musical composition	rock group	rock band	vocal
+album	record album	studio album	single	vocal	song	track	human voice	musical work	audio signal	release	musical composition	piece of music	opus	composition
+wood	woodwind instrument	woodwind	instrument	musical instrument	wind	wind instrument	aerophone	artifact	melodic theme	musical theme	musical composition	rock group	rock band	vocal
+album	record album	studio album	single	vocal	song	track	human voice	musical work	audio signal	release	musical composition	piece of music	opus	composition
+wood	woodwind instrument	woodwind	instrument	musical instrument	wind	wind instrument	aerophone	artifact	melodic theme	musical theme	musical composition	rock group	rock band	vocal
+album	record album	studio album	single	vocal	song	track	human voice	musical work	audio signal	release	musical composition	piece of music	opus	composition
+wood	woodwind instrument	woodwind	instrument	musical instrument	wind	wind instrument	aerophone	artifact	melodic theme	musical theme	musical composition	rock group	rock band	vocal
+album	record album	studio album	single	vocal	song	track	human voice	musical work	audio signal	release	musical composition	piece of music	opus	composition
+wood	woodwind instrument	woodwind	instrument	musical instrument	wind	wind instrument	aerophone	artifact	melodic theme	musical theme	musical composition	rock group	rock band	vocal
+wood	woodwind instrument	woodwind	instrument	musical instrument	wind	wind instrument	aerophone	artifact	melodic theme	musical theme	musical composition	rock group	rock band	vocal
+album	record album	studio album	single	vocal	song	track	human voice	musical work	audio signal	release	musical composition	piece of music	opus	composition
+album	record album	studio album	single	vocal	song	track	human voice	musical work	audio signal	release	musical composition	piece of music	opus	composition

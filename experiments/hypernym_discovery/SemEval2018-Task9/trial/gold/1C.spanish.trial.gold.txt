@@ -1,0 +1,25 @@
+edificio	edificación	complejo	estructura arquitectónica
+autor	escritora	escritor	autora	cantautor	persona	compositor	cantor	cantante	instrumentista	músico	letrista	compositora	vocalista
+caño	tubo	arma	arma blanca	santateresa	mantodea	mantis religiosa	mantis	mantodeo	cilindro	insecto	animal
+entallador	tallista	tallador	escultor	pintor	persona	artesano
+pasaje	puerto	paso	puerto de montaña	valle	dolina	barranco	cañada	torrente	vecindad	hábitat	escena	accidente geográfico	depresión natural	depresión	formación geológica
+máquina	vehículo	medio de transporte	transporte	transporte de pasajeros	medio
+monotremata	mamífero	vertebrado	animal
+material de vidrio	pipeta	instrumento de medición	instrumento de medida
+mobiliario
+mes de calendario	mes	unidad de tiempo	etapa	período	tiempo
+general	político	persona	oficial	oficial militar	militar	oficial comisionado	guerrero
+desastre natural	cataclismo	desastre	catástrofe	tragedia	calamidad	ola	onda	ola marina	desgracia	infortunio	riesgo	peligro	ondulación	oscilación	vibración
+filme	película	producción	álbum	álbum de estudio	serie de televisión	historia heroica	espectáculo	show	obra musical	programa de televisión	serie	drama
+escultor	persona
+aditivo	sustancia química
+árbol	planta	planta leñosa	planta perenne	angiosperma	planta vascular	tracheobionta	spermatophyta
+cítrico	fruto	fruta	pigmento	colorante	producto agrícola
+compuesto	compuesto químico	corticosteroide	estrógeno	medicamento antihipertensivo	antihipertensivo	fármaco	droga	esteroide	esteroide sexual	esteroidogénesis	hormona esteroide	medicina	medicamento	hormona	substancia	secreción	fluido corporal	humor
+efectivo	dinero en efectivo	moneda	dinero	plata	pisto	divisa
+ave	pájaro	embarcación	barco	navío	navío de línea	animal	vertebrado
+cambio fonético	ley natural
+nube	fenómeno
+psicología	especialidad médica	medicina	medicina familiar	carrera	biociencia	asignatura	ciencia natural
+fluido	fluido corporal	humor	golpe	choque	topetazo	toque	producto alimenticio	trago	bebida	producto lácteo	impacto	líquido	roce	contacto
+calle	carretera	camino	vía expresa	infraestructura urbana	infraestructura	torrente	arroyo	curso de agua

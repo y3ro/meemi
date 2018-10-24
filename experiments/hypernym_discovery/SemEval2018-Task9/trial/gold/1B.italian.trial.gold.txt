@@ -1,0 +1,25 @@
+oscillazione	vibrazione	moto	mossa	movimento	grande caloria	chilocaloria	caloria
+installazione	impianto	istallazione
+landa	nazione	paese	repubblica	stato sociale	pellicola	film	cinema	regione	stato federato	governo	amministrazione	governance	stato membro	spettacolo	collettività	comunità	organizzazione politica	sistema sociale	edificio
+guarnizione	filetto	bordino	pettinatura	acconciatura	capigliatura	taglio	addobbo	moda	tendenza	voga	finezza
+illustrazione	design	riproduzione	disegno	abbozzo	quadro	immagine	pittura	verniciatura	dipinto	raffigurazione	opera musicale	composizione	composizione musicale	componimento	brano	scrittura	carta	documento	testo	posto di lavoro	luogo di lavoro	ispezione	apprendimento	arti visive	rappresentazione	grafica	materiale illustrativo	produzione artistica	punto geografico	indagazione	investigazione	rilevazione	rilevamento	indagine	inchiesta	comunicazione visiva
+penna	articoli di cancelleria	formato carta	articoli di cartoleria	cancelleria	cartoleria	carta	carta da lettere	arnese
+elemento chimico	metallo	metalli alcalini	alcalini	metallo alcalino	atomo	composto	composto chimico	lega	soluzione	miscela	misto	mescolanza	mistura	sistema termodinamico
+radio	ricevitore	detector	apparecchio radiotelevisivo	apparecchio elettrico	armamentario	dotazione	equipaggiamento
+sedile	assito	seduta	pilastro	rincalzo	sopporto	appoggio	mobile	arredamento	arnese	apparecchiamento	arredo	suppellettile
+via di comunicazione	strada	autostrada	superstrada	via maestra	strada principale	strada maestra	infrastruttura
+composto	miscuglio	misto	miscela	derrata alimentare	prodotto alimentare	cibarie	genere alimentare
+santo	san	persona	buono	mammifero	vertebrato	animale	cordato
+accademia	università	istituto	scuola	istruzione elementare	edificio	edificio pubblico	palazzo	struttura architettonica
+persona	regista cinematografico	produttore cinematografico	attore	istrione	artista	produttore televisivo	mammifero	vertebrato	animale	cordato
+metropoli	città	comune	municipalità	capitale	sede	centro amministrativo	villaggio	paese	cittadina	borgo	centro	capoluogo	quartiere	collettività	comunità	zona	regione	superficie	località	amministrazione pubblica	autorità	governo	regime
+vessazione	maltrattamento
+inconveniente	svantaggio	manovra	giocata	partita	mezzo	trovata	strategia	scheme	disfavore	mossa	passo	concorrente	concorso	contendente	rivale	gara	competizione	avversario	competitore	gioco da tavolo	decisione	determinazione	scelta	opzione	scrematura	adozione	cernita	selezione	utilità
+piante succulente	tracheobionta	pianta	specie vegetale	vegetale	vita vegetale	pianta da fiore	magnoliophyta	angiosperme	fanerogame	spermatophyta
+imposta	tributo	imposizione	tassa	tassazione	retribuzione	compenso	pagamento	corresponsione	versamento	costo	spesa	sborso	esborso	possesso
+produzione di stampe
+tetragono	quadrilatero	quadrangolo	poligono	configurazione	curva	politopo	funzione continua	curvatura	teoria degli insiemi	insiemistica	funzione matematica	spazio	derivata	scrittura	carta	documento	matematica pura	ramo della matematica
+personaggio immaginario	personaggio	dialogo	monarca	sovrano	re	regnante	rappresentazione	raffigurazione	capo di stato	reggitore	governante	dio	iddio	divinità	deità	primati	primates	primate	titolo	mammifero	prefisso	vertebrato	affisso	animale	cordato
+lottatore	evangelista	cultivar	pugilatore	pugile	boxeur	persona	primati	primate	guerriero	combattente	pastore	predicatore	mammifero	ecclesiastico	sacerdote	chierico	prete	vertebrato	animale	cordato
+pressione	tempo	meteo	gas	hip hop	gruppo musicale	banda	gruppo rock	fenomeno fisico	grandezza fisica scalare	scalare	fenomeno atmosferico	fluido	popular music	musica popolare	genere musicale	orchestrina	orchestra da ballo	fenomeno naturale	parametro	variabile	grandezza fisica	fenomeno	algebra	grandezza	proprietà fisica	matematica pura	ramo della matematica
+bevanda	beveraggio	bibita	latticino	liquido corporeo	umore	fluido corporeo	liquido	liquidità	stato liquido	derrata alimentare	prodotto alimentare	cibarie	genere alimentare	fluido	stato della materia

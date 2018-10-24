@@ -1,0 +1,1000 @@
+grado	numero ordinale	frazione	carica
+comune	municipalità	comune italiano	frazione	paese	quartiere	comunità	borgo
+comune	mantella	indumento	vestito	mantello	veste	abito	costume
+accademico	persona	professore	biochimico	scienziato	chimico	scopritore	docente
+panorama	grande quantità	rilievo
+pittore	persona	artista	politico
+pianta	aroma	tracheobionta	vegetale	pianta da fiore	magnoliophyta
+rappresentazione	spettacolo	spettacolo teatrale	show
+persona
+sostituzione	prosieguo	proroga	proseguimento	replica	continuamento	prosecuzione
+parente	congiunto	persona	famigliare
+uccello	animale	volatile	vertebrato
+comune
+dischetto	moneta	compenso	disco	cerchio
+isola
+zona	barriera	estremità	gara	limite	competizione	località	sport olimpico	sportivo
+nome in codice	denominazione	antroponimo	nominativo	nome di battesimo
+viaggiatore	equus
+concorso	documento
+periodo	mese civile	tempo	mese	periodo di tempo
+comune	municipalità	comune italiano
+cattolico	persona	monsignore	religioso	educatore	presbitero
+indoeuropeo	idioma	lingua	persona
+persona	patrocinante	politico	avvocato	soldato	funzionario	statista
+nome di battesimo	antroponimo	pellicola	film	cinema	produzione	spettacolo	rassegna	manifestazione
+comune	municipalità	comune italiano	paese
+coltello	arnese	arma
+insalata	cibo	piatto
+capostipite	parente	congiunto	famigliare	antenato	genitore	ascendente	persona	progenitore	avo	avolo
+organo	autorità	direttore	reparto	dipartimento	guru	principale	ministero	capo	capintesta	leader	branca
+personaggio immaginario	editore	raffigurazione	personaggio
+organo	associazione	organizzazione politica	fazione	estremità	direzione	partito politico	tradizionalista	conservatore
+struttura architettonica	edificio	stazione	installazione
+album	brano	persona	singolo	artista	compagnia	società	canzone	azienda
+muso	carrozzeria	châssis	scocca
+mitologia	disciplina
+lampo di genio	colpo di fortuna	identificazione	esplorazione
+discorso	arringa	sessione	trattazione	radunata	discussione	seduta	assemblea	orazione
+mammifero	animale	felino	animale selvatico	carnivoro	vertebrato
+studioso	dotto	letterato	intellettuale
+mammifero	roditore	animale	topo domestico	vertebrato
+prova	comunicazione visiva	azione sociale	multimedialità	indicazione	evidenza	argomentazione	ragionamento
+politico	segretario	comunista
+pellicola	film	cinema	produzione	spettacolo
+stazione	politico	governante	persona	statista	capo di stato	stazione metropolitana	leader	presidente
+germanico	etnia	lingua
+arena	palazzetto dello sport	stadio	impianto	impianto sportivo	struttura architettonica	edificio	edificio pubblico
+scarpa	calzare	calzatura	indumento	ciabatta	flip-flop	bene di consumo	copertura
+legge	cominciamento	incominciamento	integrazione	scrittura	avviamento	carta	atto pubblico	regola	documento
+moneta	valuta	moneta circolante	unità monetaria	denaro	danaro
+miglioramento	ripristino	riattamento	riparazione	aggiustatura	aggiustamento
+antischiavista	scrittore	persona	autore
+cortometraggio	canale di trasmissione	pubblicazione	trasmissione	mass media
+persona
+opera letteraria	racconto	romanzo
+miglioramento	correzione	compenso	sborso	rifusione	corresponsione	pagamento	compensazione	versamento	risarcimento pecuniario	compensazione finanziaria	ricompensa	rettificazione	spesa
+illecito	colpa	reità	misfatto
+grado	notazione musicale	norma	calibrazione	taratura	calibratura	livello	norma tecnica
+scrittore	produttore cinematografico	autore	sceneggiatore	regista cinematografico
+comune	municipalità	paese	città	comune francese
+concessione	grazia	possesso
+trasformazione	fenomeno
+trasmissione	canale	azienda	radio
+girata	credibilità	aspetto	sentimento	sintomo	validità	rotazione	sembianza	fenomeno	attendibilità
+mammifero	erbivoro	animale	animale selvatico	vertebrato
+folclore	studio	conoscenza indigena	folklore
+calcolatore	dispositivo	macchina
+suonatore	verseggiatore	artista	chitarrista	paroliere	musicista	compositore di canzoni	scrittore	cantante	orchestrale	poeta	sonatore	compositore	opera musicale	rimatore	musico	autore	cantore	strumentista
+comune	municipalità	comune italiano	suddivisione amministrativa	paese	comunità	distretto
+disciplina	linearità	ordinamento	ragionamento	filosofia
+umanista	intellettuale
+portiere	giocatore di calcio	calciatore	sportivo
+animale	vertebrato	maiale
+sentimento
+aeronautica militare	produzione cinematografica	aeronautica	aviazione	regista cinematografico	falange	milizia	filmologia
+laureato	mestiere	persona	dottore
+rio	rivo	fiume
+numero intero	numero abbondante	numero naturale
+configurazione	oggetto celeste	costellazione
+musicista	persona	artista	orchestrale	compositore
+disastro	fatalità	calamità	cataclisma	pericolo	disgrazia	avversità
+miglioramento	ripristino	riattamento	riparazione	aggiustatura	aggiustamento
+sfortuna	fatalità	sventura	dramma	contrarietà	pericolo	rischio	disgrazia	tormento	avversità
+automatismo	apparecchio elettrico	dispositivo periferico	comando	meccanismo	dispositivo
+istrione	persona	artista	cantante	celebrità
+supercriminale	personaggio	personaggio immaginario	cattivo
+ammalato	diligente	mal capitato	malato	meticoloso
+tesoro	mistero	coppa	calice
+stato federato	regione	nazione	paese	comunità
+scrittore	artista	sceneggiatore	attore	regista	autore
+mollusco	nome di battesimo	antroponimo	animale	crostaceo	onomastica	invertebrato
+parente	discendenza	famigliare	progenie
+direttiva	istruzione	codifica	punto geografico	tendenza	etichetta	direzione	rotta
+nodo	meccanismo	macchina	compagnia	cinghia
+scrittore	autore	sceneggiatore	nome di battesimo
+filtro	passino	dispositivo
+possibilità
+rappresentazione	raffigurazione	drammaturgia	testo
+conca	depressione	vallata
+pellicola	film	persona	politico
+montagna	regione
+femmina	signora
+cambiavalute	cambista	manovratore	operatore
+ricerca scientifica	disciplina	metodica
+opera letteraria	racconto	testo	documento
+persona	rappresentante	redentore	salvatore
+sentimento	ideale
+composto	minerale	composto chimico
+deposito	edificio	azienda	istituto
+indirizzo	arringa	predicazione	orazione
+vetrata	pianta legnosa	elemento architettonico	pianta	lucernario	vegetale	finestra
+impurità
+cittadino	indoeuropeo	gruppo etnico	lingua	slavo	etnia	idioma
+libertà	indipendenza	autonomia
+attore	cantatore
+lavoro manuale	cruccio	inquietudine	imballaggio	movimentazione	affanno	peso	fastello	sollecitazione	fastidio	afflizione
+guerriero	militare	nobile	classe sociale	combattimento	persona	soldato	aristocratico	élite	aristocrazia
+rappresentazione	raffigurazione	comunicazione scritta	fotografia	riproduzione
+scrittore	dotto	studioso	verseggiatore	poeta	letterato	intellettuale	autore
+senza senso	stupidaggine	nonsenso	caratteristica	discorso	ridicolaggine	tratto distintivo	errore
+giurista	scrittore	patrocinante	avvocato	giurisperito	giureconsulto	verseggiatore	poeta	ecclesiastico	prete	rimatore	autore	cantore
+rivo	fiume	acqua
+regista	attore	persona	doppiatore	cantante
+raffigurazione	disegno	riproduzione	immagine
+scrittore	fiume	rivo	persona	acqua	linguaggio di programmazione	quartiere	township	comunità
+film drammatico	pellicola	lungometraggio	film
+agraria	acculturazione	coltura	inculturazione	edificio	struttura architettonica	punto geografico	posto di lavoro	luogo di lavoro
+reazione chimica	reazione	processo chimico	processo naturale	degradazione
+istrione	artista	musicista	organizzatore	orchestrale	produttore cinematografico	showman	attore	sonatore	regista cinematografico	musico	suonatore	strumentista
+classificazione stellare	oggetto celeste	astro	stella	corpo celeste
+delinquente	killer	fuorilegge	reo	omicida	criminale	malvivente
+sistema sociale	ateneo	università	accademia
+trapano	lama	efflorescenza	ferro	durlindana	arma bianca	fiore	spada	arma
+persona	comandante	amministratore	capo	responsabile	dirigente	titolo
+elemento architettonico	barriera	elemento strutturale	sbarramento	struttura architettonica
+gioiello	bigiotteria
+metropoli	comune	zona	municipalità	regione	amministrazione cittadina	centro amministrativo	autorità	centro	comunità	sede	amministrazione pubblica	paese	località	città	quartiere	township	governo	capitale	borgo
+automatismo	macchina	meccanismo	dispositivo
+sport olimpico	sport
+suddivisione amministrativa	provincia	regione
+striscia	indumento	accessorio	cerotto	lembo	cerotto adesivo	copertura	medicazione
+comune	frazione	borgo
+brano	opera musicale	composizione musicale	canale di trasmissione	canzonetta	trasmissione	traccia	musica da ballo
+insegnante	giornalino	pedagogista	fumetto	persona religiosa	anime	giornaletto
+azienda privata	compagnia	ditta	azienda multinazionale	azienda	multinazionale	impresa multinazionale
+decisione	scelta	proclamazione	designazione
+opera letteraria	resoconto	evidenza	cronistoria	storie	annali	registrazione	cronaca	autobiografia
+grado	carica	punto
+zona	località
+persona	sanguemisto
+ripresa	aggravamento	peggioramento	scoppio	inasprimento
+miglioramento	aggiornamento	adattamento	arrangiamento	progresso
+mobile	arredamento	mobilio	suppellettile
+accordo	patto	conciliazione	arrangiamento	locazione	collocazione	disposizione	accomodamento
+documento
+array	matrice	vettore	struttura dati	disposizione
+persona	filantropo	buono	benefattore
+voto	votazione	consultazione
+stato federato	regione	nazione	paese	comunità
+giorno feriale	giorno	tempo	periodo di tempo	periodo
+città	paese	comunità	regione	borgo
+dispositivo mobile	automatismo	apparecchio telefonico	telefono mobile	pc	apparecchio elettrico	canale di trasmissione	canale	trasmissione	computer	calcolatore elettronico	elaboratore	cellulare	portatile	cervello elettronico	carico	dispositivo
+istrione	persona	artista	cantante	attrice	celebrità
+cittadino	indoeuropeo	lingua	tedesco	dialetto	europeo	idioma
+persona	parroco	prete	dignitario	curato
+persona	oppositore
+evidenza	documento
+operazione militare	dissimulazione	nascondimento	protezione	fuoco	assalto	occultamento	ricopertura	attacco	gestione del rischio	estensione	operazione	ricoprimento
+trattato internazionale	accordo	patto	compromesso	contratto	concordanza
+posseditore	capo dello stato	titolare	presidente della repubblica	capo di stato	funzionario	possessore	presidente	statista
+autore	scrittore	persona	scrittrice	giornalista
+previsione	pronostico	anticipazione
+roccia sedimentaria	lastricato	minerale	sasso	roccia	selciatura	composto chimico	composto	pietra
+condizione fisiologica	curvatura	male	sintomo	problema di salute
+percezione	senso	sensibilità
+direttore	capo	leader	principale
+comune	municipalità	comune italiano	borgo
+scrittore	persona	autore	drammaturgo
+comune	municipalità	lungometraggio	ditta	società	suddivisione amministrativa	pellicola	frazione	fiume	azienda	emittente televisiva	società per azioni	distretto	film	comune francese
+porpora	tonalità	viola
+sborso	quota	corresponsione	retta	pagamento	emolumento	importo	tassa	tariffa	spesa
+sportiva	persona	ciclista	golfista
+dinastia	discendenza	casata	comunità
+notazione musicale	linea
+grado	guerriero	militare	armato	milite	carica	soldato	titolo	persona
+anfibio	animale	vertebrato
+traduttore	scrittore	autore
+remunerazione	compenso	compensazione	salario	pagamento	stipendio	rendiconto	paga	documento
+telefono	dispositivo mobile	dispositivo	apparecchio elettrico
+comune	municipalità	comune italiano	suddivisione amministrativa	paese	quartiere	comunità	borgo
+tela	tessuto	pezza	stoffa	prodotto tessile
+monarca	municipalità	comune italiano	regione	imperatore romano	imperatore	capo di stato	regnante	antroponimo	paese	casato	comune	città	santo	re	governante	borgo	nome di battesimo
+pregio	caratteristica	virtù	eroismo	patrimonio netto	coraggio
+rete di calcolatori	rete	rete informatica	host	calcolatore elettronico	sistema software	rete di computer
+imbarcazione	bastimento	notificazione	messaggio	avvertenza	veicolo
+cestista	competitore	agonista	calciatore	tennista	corridore	soldato	contendente	sottoinsieme	sportivo	combattente
+organo	lampada	sorgente luminosa	parte del corpo	dispositivo	germoglio
+regista	produttore	cinematografo	persona
+potere legislativo	cavità	zona	radunata	spazio	assemblea	corpo legislativo	organo legislativo
+scemenza	sciocchezza	coglioneria	cretineria	stupidaggine	malattia	disturbo	malattia mentale	imbecillaggine	turba	encefalopatia	psicopatia	coglionaggine	stupidezza	affezione	male	morbo	problema di salute
+persona	lavoratore
+giorno
+titolo	dotto	dottore	universitario
+metropoli	comune	municipalità	grande città	principato	carattere	stato federato	tipo di carattere	città	città-stato	font	gruppo musicale	capitale
+cerna	opzione	decisione	scrematura	scelta	selezione
+battaglia	acquisizione	guerra	scontro	combattimento	aggressione	violenza
+libro	nome di battesimo	romanzo
+americano	latino	sudamericano
+ossatura	elemento architettonico
+mimica	comunicazione visiva	comunicazione non verbale	versaccio	faccia	gestaccio	gestualità	volto	viso	boccaccia
+disegnatore	artista
+persona	colore primario	ambientalista	caratteristica	proprietà fisica
+opera letteraria	racconto	romanzo
+eroe	personaggio immaginario	antagonista
+brano	opera musicale	passaggio	composizione musicale	passo	porzione	testo
+rivo	fiume	acqua
+grado	notazione musicale	standard	grandezza	pietra di paragone	campione	livello	norma tecnica
+riferimento	ideale	norma	criterio	genere musicale	documento
+sito web	pagina web
+fenomeno fisico	movimento	precipitazione atmosferica	tempo	fenomeno	fenomeno atmosferico	precipitazione	meteo	colpo	acqua	cucito	lato	fenomeno naturale
+fondo	ricchezza	lucro	censo	possesso	introito	guadagno	capitalizzazione	profitto
+database	catalogo	lista	elenco	documento
+nave	imbarcazione	arma bianca	mezzo di trasporto	natante	veicolo	arma
+composto	liquido	condimento
+tiranno	vessatore	soverchiatore	despota	persona non grata	governante	oppressore	sopraffattore
+prezzo
+disco
+comune	municipalità	città
+giocattolo	domanda
+apparecchio elettrico	dispositivo	apparecchio radiotelevisivo	mass media
+opera musicale	album studio	raccolta musicale
+fenomeno fisico	tempesta	bufera	temporale	tormenta	fenomeno atmosferico	fenomeno naturale	fenomeno
+litigante	contendente
+insegnante	accademico	informatico	docente universitario	pedagogista	docente	istruttore
+arnese
+tupla	ennupla
+provincia	regione
+punto di riferimento	evidenza	indicazione	stampigliatura	indizio	accenno
+grandezza	evoluzione	potenziamento
+danza	party	celebrazione	festa	ballo
+caratteristica	aspetto	comunicazione non verbale	sembianza
+istrione	persona	artista	produttore cinematografico	attore	regista cinematografico	presidente
+parti del discorso	elemento lessicale	comunicazione scritta	testo	prosa	categoria grammaticale	documento
+fenomeno fisico	calore	parametro	grandezza	energia	fenomeno naturale	fenomeno
+guerriero	militare	armato	direttore	soldato	milite	lottatore	capo	senatore	leader	combattente
+suonatore	persona	star	artista	orchestrale	musicista	senatore	atleta	showman	sonatore	cantante	celebrità	politico	funzionario	musico	sportivo	strumentista
+punto di riferimento	destinazione	fine	estremità	punto	meta	bandolo	linea
+cacio	stomaco	viscere	latticino	prodotto caseario	formaggio	cibo	derrata alimentare	cibarie	genere alimentare
+metropoli	stato federato	regione	nazione	paese	città	quartiere	comunità
+pianta legnosa	agrume	lingua	tracheobionta	cinese	lingua cinese	pianta	cibo	pianta perenne	vegetale	pianta da fiore	magnoliophyta
+fenomeno fisico	considerazione	ponderazione	osservazione	fenomeno naturale	fenomeno
+tubatura	tecnologia	condotto	tubazione	conduttura
+persona	testo	scritto
+persona non grata	persona	intruso	criminale
+nota	accordo	notazione musicale	nota musicale
+disciplina
+organo	falsità	organo genitale	frottola	ellissoide	organo sessuale	organo riproduttivo	baggianata	antipatico	balla	invenzione	falso	genitale	persona non grata	nome volgare	proiettile	bugia	arma
+software applicativo	pacchetto	gioco elettronico	applicazione software	programma di computer	modalità di gioco	programma informatico	piattaforma	sistema software	programma per computer	console	video game	software
+lanterna	segnale	macchina	elemento strutturale
+lingua	lingua latina	idioma
+protettore	persona	redentore	lavorante	mestiere	benefattore	difensore	buono	salvatore	lavoratore	professione
+argomentazione	ricerca scientifica	trattazione	scrittura	trattato	ragionamento	testo	documento
+dissociazione	processo naturale	processo chimico	reazione chimica
+nazione	stato federato	paese
+opera letteraria	racconto	racconto breve	narrativa	prosa	testo
+bruciamento	bruciatura	distruzione	combustione
+mangiare	momento	cibo	pasto
+posseditore	direttore	guru	titolare	principale	capo	capintesta	funzionario	possessore	leader
+politico	persona	primo ministro	segretario	capo del governo	professore
+composizione musicale	spazio	evasione
+zona	immobile	fondo	beni immobili	podere	bene immobile	edificio	località	tenuta	campagna
+organo	parte del corpo	parte anatomica	apparato
+scarpa	calzatura	indumento
+veicolo a motore	macchina	veicolo	motoveicolo
+circuito stampato	circuito elettronico	comunicazione scritta
+istrione	commediante	artista	attore comico	attore
+sito archeologico	municipalità	città
+docente	pedagogista	professoressa
+zona
+comune	municipalità	borgo	città
+certezza del diritto	programma informatico	procedura
+disciplina
+scrittore	persona	autore
+passo	liquidazione	passaggio
+docente	scrittore	intellettuale
+pregio
+filantropo	donatore	buono	benefattore	altruista	generoso
+organo	parte del corpo	viscere
+distribuzione	erogazione
+vittoria	chiusura	caduta
+periodo	mese civile	mese	periodo di tempo
+persona	calcolatore	bibliotecario	professione	conservatore
+sborso	vantaggio	risorsa	lucro	possesso	merito	introito	guadagno
+roccia sedimentaria	minerale	sasso	roccia	calcare	composto chimico	composto	scultura	pietra
+programma televisivo	trasmissione
+zelatore	sostentatore	sostenitore	propugnatore	fedele	fautore
+unità di misura	enormità	peso	volume	grandezza
+miscuglio	impasto	ghiottoneria	squisitezza	cibarie	miscela	composto	manicaretto	torta	manna	caramella	dessert	piatto	cibo	portata	dolcetto	pasta	leccornia
+docente	scrittore	dotto	critico letterario	intellettuale
+insegna	rappresentazione	allegoria	croce	configurazione	emblema	raffigurazione	disegno
+comune	municipalità	quartiere	recapito	alloggio	punto geografico	indirizzo	paese	città	ricapito	borgo
+insegna	emblema	accessorio	fiocco	nastro
+tecnologia	sacca	seno	panorama	orifizio	via fluviale	idrovia	estuario	canale naturale	ingegneria
+sede	municipalità	borgo	comune	città
+limite	barriera	confine	estremità
+pellicola	lungometraggio	film romantico	film sentimentale	film
+sostegno	muro	divisorio	elemento strutturale	sbarramento	tramezzo	divisione	restrizione
+carnivoro	mustelide	animale	mammifero	vertebrato
+compito	dovere	documento
+periodo	mese civile	tempo	mese	periodo di tempo
+configurazione	oggetto celeste	costellazione
+componente elettronico	tecnologia	comunicazione visiva	apparecchio elettrico	canale di trasmissione	canale	dispositivo periferico	schermo	telecomunicazione	dispositivo
+accordo	patto	norma	contratto	intesa
+passeggiata	movimento
+dispositivo	protesi
+ago	punta	arnese	chiodo	bulletta	dispositivo
+regista	cineasta	persona	regista cinematografico
+dio	montagna	pianeta	deità	divinità	oggetto celeste	astro	personaggio	personaggio immaginario	banda	gruppo musicale	corpo celeste
+balocco	software applicativo	pacchetto	gioco elettronico	applicazione software	app	programma di computer	programma informatico	computer	calcolatore elettronico	piattaforma	sistema software	programma per computer	console	software	dispositivo	elaboratore
+operatore	corrispondente commerciale
+pittore	persona	autore	scultore	artista
+tempio	regione	demo	distretto	isola
+rappresentazione	emblema	indumento	copricapo	protezione	copertura
+editto	ordinanza	decreto
+disciplina	scienza	interpretazione	teologia	spiegazione	metodologia
+editore
+programma televisivo	trasmissione	trasmissione televisiva
+vagone	mezzo di trasporto	trasporto
+movimento	opposizione
+grado	antagonista	marittimo	milite	navigante	carica	navigatore	soldato	incarico	guerriero	sportivo	armato	rivale	principale	avversario	leader	concorrente	aeronauta	capo	personaggio immaginario	titolo	aviatore	militare	direttore	pilota	guru	lupo di mare	personaggio	capintesta
+comune	comunità	municipalità	provincia	comune italiano	regione	liquido	alcool	alcolico	bibita	beveraggio	paese	città	bevanda	alcoolico	vino
+risorsa	sostentamento	mantenimento	possesso
+metropoli	zona	municipalità	area metropolitana	grande città	punto geografico	località	città	capitale
+metropoli	comune	fiume	regione	confluente	rivo	municipalità	paese	città	affluente	borgo
+scuola	sistema sociale	struttura architettonica	edificio	edificio pubblico	istituto
+comune	municipalità	comune italiano	paese	comunità	borgo
+grafema	arnese	notazione musicale	codifica	identificatore	spiegazione	indizio	strumento musicale	meccanismo	dispositivo
+arredamento	mobile	mobilio	apparecchiamento	suppellettile
+stampa	tecnologia	stampatrice	torchio	macchina	pressa tipografica	dispositivo
+liquido	sfera	ellissoide
+pubblicazione	volantino	reclame	annuncio	opuscolo	scritto	manifestino	testo	documento
+ragionamento	trattazione	contestazione
+canto	fiume	distretto
+scrittore	dotto	autore	intellettuale
+fenomeno fisico	tempo	fenomeno atmosferico	meteo	fenomeno naturale	fenomeno
+strumento musicale	strumento a percussione	dispositivo	percussione
+famiglia nobile	famiglia
+chiave
+strumento di misura	comparatore	indicatore	raffigurazione	dispositivo
+suonatore	artista	guru	musicista	direttore	principale	orchestrale	capo	sonatore	compositore	capintesta	musico	autore	leader	strumentista
+riunone	incontro	meeting	convegno
+ostacolo	elemento architettonico	incaglio	impaccio	intralcio	divisorio	ostruzione	parete	barriera
+centauro	persona
+astro	galassia	oggetto celeste	ammasso di galassie	corpo celeste
+persona	asino	mulo
+vertebrato	tessuto animale	animale	oviparo	rettile	pelle
+cordone ombelicale	tessuto animale	condotto	canale	cordone
+giuntura	collaboratore	aiutante	assistente
+grandezza	unità di misura	estensione
+punto cardinale	direzione
+istrione	persona	star	artista	celebrità	attrice
+paradigma di programmazione	tattica
+scultura
+elemento architettonico	scala	elemento strutturale	struttura architettonica	scalinata
+circuito elettronico	apparecchio elettrico	dispositivo	interfaccia
+costituzione	architettura
+vendita
+fenomeno fisico	fumo	offuscamento	condensa	nebbia	umidità	fenomeno naturale	fenomeno
+metropoli	comune	municipalità	comune italiano	regione	paese	città	quartiere	comunità	borgo
+prezzo	importo	costo
+comune	punto geografico	paese	borgo	città
+persona	successore
+sport	nuoto	nuotata	movimento
+percezione	grandezza	temperatura
+strumento ottico	occhiali	accessorio
+politica estera	politica	tesi	controllo
+perdigiorno	sfaticato	scansafatiche	sfaccendato
+transito	brano	varco	movimento	composizione musicale	accesso	tiro	passo	spazio	valico
+nome di battesimo	antroponimo	personaggio	personaggio immaginario	raffigurazione
+collegamento
+comune	municipalità	comune italiano	regione	paese	città	quartiere	comunità	borgo
+periodo di tempo	giorno feriale	periodo	tempo	unità di tempo	giorno
+corrente	movimento
+periodo	mese civile	mese	periodo di tempo
+automatismo	sistema di scrittura	autorità	codifica	controllo	facoltà	architettura	scrittura	autorevolezza	meccanismo	arma
+scrittore	persona	saggista	poeta	letterato	intellettuale	autore
+operazione militare	meccanica dei fluidi	filtraggio	attacco	idrodinamica	assalto	scorreria	diffusione	incursione	processo naturale	operazione	tattica militare
+programma televisivo	trasmissione	trasmissione televisiva	serie televisiva
+biancore	sfumatura	candore	bianchezza	tintura	tinta	gradazione	bianco
+punto di riferimento	mimica	comunicazione visiva	macchia	gestualità	indizio	riferimento	raffigurazione	intonazione	comunicazione non verbale
+fenomeno fisico	vento	impeto	fenomeno atmosferico	fenomeno naturale	fenomeno
+minerale	sasso	roccia	composto chimico	composto	roccia magmatica	pietra
+cuoio capelluto	pelle
+sciame	nugolo	montagna	caterva	affollamento	punto geografico	luogo di lavoro	frotta	collinetta	stuolo	mucchio
+politica	economia pianificata	socialismo	economia	comunismo
+liquido	lubrificante	miscela
+istrione	persona	star	artista	laureato	attore	doppiatore	celebrità
+incapacità	ritmo	tempo	imbecillaggine	sosta	momento	stacco	finestra temporale	scemenza
+console	compagnia	azienda privata	azienda	multinazionale	sviluppatore di videogiochi
+comune	opera musicale	municipalità	album studio	amministrazione cittadina	centro amministrativo	località	città	comunità	borgo	raccolta musicale
+astro	corpo celeste	oggetto celeste	costellazione
+fine	completamento
+organo	punto medio	centro	base	fondamento
+altezza	grandezza	elevatezza	livello delle acque
+abito	indumento	vestito
+frazione	porzione
+rumore	lamento
+fenomeno fisico	automatismo	tempesta	bufera	temporale	tormenta	fenomeno atmosferico	acqua	fenomeno naturale	meccanismo	dispositivo	fenomeno
+brano	opera musicale	giornaletto	album studio	segnale audio	composizione musicale	canale di trasmissione	fumetto	trasmissione	traccia	mass media	canzonetta	giornalino	raccolta musicale
+resoconto	testo	lettera	resoconto scritto
+pellicola	film	cinema	produzione	spettacolo	rassegna	manifestazione
+specie autoctona	indigeno	vertebrato	coniglio	animale	autoctono	roditore	mammifero
+piazza	pagina web	sito web	canale di trasmissione	programma di computer	canale	programma informatico	spazio	sistema software	programma per computer	software
+caso	categoria grammaticale
+spazio	cammino	tragitto	itinerario	tracciato
+sottoinsieme proprio	grossezza	aggiunta	suffisso	postfisso	sovrainsieme	insiemistica	taglia	grandezza	configurazione	spazio	portata	sottoinsieme	affisso	senso	desinenza
+economia	socialismo	fascismo	economia pianificata
+campione	sottoinsieme proprio	sottoinsieme
+rappresentazione	quadro	dipinto	conclusione	verifica	giudizio universale
+politico	primo ministro	capo del governo	persona
+miglioramento	accordo	conciliazione	accomodazione	compromesso	riparazione	progresso	aggiustamento
+autotrasportatore	compagnia	nunzio	messaggero	viaggiatore	trasportatore	equus
+moneta circolante	moneta
+lega	emissione	mass media	radiazione ionizzante	tessuto animale	apparecchio elettrico	canale di trasmissione	elemento chimico	metallo	telecomunicazione	radiazione	apparecchio radiotelevisivo	radiazioni ionizzanti	energia	composto	fenomeno naturale	radiazione elettromagnetica
+mammifero	animale	felino	animale selvatico	carnivoro	vertebrato
+concorrente	competitore	sportivo	ciclista	corridore	contendente
+irregolare	intruso	illegale
+riordinamento	arrangiamento	regolamentazione	sistemazione
+periodo	mese civile	mese	periodo di tempo
+scrittore	persona	artista	verseggiatore	poeta	rimatore	autore	cantore
+sfortuna	fatalità	sventura	incidente	disavventura	accidente	vicissitudine	infortunio	traversia	avversità	disgrazia
+gol	punteggio	giocata	rete	goal
+idioma	lingua
+predecessore	parente	antenato
+momento	periodo	tempo	periodo di tempo
+dirigente	direttore operativo	amministratore	amministratore delegato
+cibo	limite	piatto
+insegnante	dotto	docente universitario	giocatore di calcio	sportivo	accademico	intellettuale	istruttore	artista
+posseditore	socialista	film tv	lungometraggio	direttore	trasmissione televisiva	guru	titolare	principale	programma televisivo	trasmissione	capo	video	capintesta	funzionario	leader	capo di stato	persona	dittatore
+provincia	regione	isola
+periodo	mese civile	tempo	mese	periodo di tempo
+gioiello	accessorio	copricapo	gioia	prezioso	cerchietto
+cargo	trasporto dei passeggeri	imbarcazione	bastimento	nave cargo	trasporto fluviale	trasporto passeggeri	mezzo di trasporto	trasporto	nave	natante	veicolo
+opera letteraria	album	discografico	lungometraggio	raccolta musicale	novelletta	racconto	racconto breve	fiction	pellicola	romanzo	prosa	film
+musicista	scrittore	artista	sportivo	compositore di canzoni	cantante	cantautore	compositore	autore
+percezione	carattere	gusto	tono
+licenza	pausa	ferie	periodo di tempo	periodo
+setta	associazione	corporazione
+campo vettoriale	fenomeno naturale	scoperta	controllo	ritrovamento
+cantatore	artista	musicista	orchestrale	cantante	musico	strumentista	persona
+risparmio	fondo
+materie plastiche	polimero	plastica	composto chimico	composto	materia organica
+periodo di tempo	periodo	intervallo di tempo	stagione	taglio
+espressione	maltrattamento	asserzione	abuso	messaggio	vessazione
+finanziamento	sussidio
+operosità	servizio	laboriosità
+automatismo	trasporto dei passeggeri	veicolo a motore	macchina	motoveicolo	trasporto passeggeri	viaggio	mezzo di trasporto	trasporto	motore	dispositivo	veicolo
+organo	sistema sociale	autorità	radunata	edificio	assemblea
+pittrice	artista
+registro	insieme di dati	archivio	documento
+zucchero	molecola	carboidrato	composto chimico	composto	disaccaride	macromolecola
+mezzo di comunicazione	foglio	documento
+carriera	vocazione
+guerra	scontro	litigio	discussione	competizione	contestazione	violenza	contrasto	argomentazione
+politico	primo ministro	segretario	capo del governo	persona
+moneta	biglietto	moneta cartacea	cartamoneta	moneta circolante	valuta	carta	documento
+equipaggiamento	scatola	corredo
+brano	opera musicale	singolo	composizione	composizione musicale	canzonetta	trasmissione	canzone	traccia
+aquila	vertebrato	rapace	uccello	animale	oviparo	volatile	bipede	uccello da preda	uccello rapace
+rappresentazione	costituente	hardware	resoconto scritto	lettera	raffigurazione	scritto	resoconto	archivio	vissuto	canale di trasmissione	registrazione	scrittura	indizio	dispositivo	documento	punto di riferimento	epistola	esperienza	missiva	testo	appunto	evidenza	facoltà
+incarico	carica
+patrizio	azienda	famiglia nobile	casata	linea di parentela	monarca	casa reale	famiglia	guru	principale	regnante	re	discendenza	famiglia reale	leader	linea di discendenza	capo	ceppo	aristocratico	tribù	titolo	prosapia	direttore	stirpe	governante	parentado	capintesta	casato
+personaggio immaginario	personaggio
+preghiera
+elemento chimico	metallo
+persona	politico	autorità	presidente	ministro	capo di stato	funzionario	governante	leader	statista
+roccia sedimentaria	terreno	minerale	sasso	silicato	roccia	calcare	composto chimico	composto	pietra
+regione	stella binaria	oggetto celeste	stella	suddivisione amministrativa	paese	città	comunità	borgo	corpo celeste
+barbarità	empietà	crudeltà	maltrattamento	atrocità	abuso	efferatezza	vessazione
+scrittore	guerriero	militare	greco	retore	capo	oratore	condottiero	autore	leader	statista
+utile netto	ritrovamento	scoperta
+cassetta	cassetta delle lettere
+espressione
+procura	carta	mandato	documento
+curatore	redattore	caporedattore	editore	curatore editoriale	capo redattore
+sentimento	comunità
+politico	principale	capo	dirigente	funzionario	leader
+scrittore	dotto	attivista	studioso	linguista	filosofo	intellettuale	autore
+fonazione	tono	tipo di voce	lato	intonazione
+oro nero	combustibile fossile	carburante	combustibile	petrolio
+persona	funzione matematica	borsista	avventuriero	fotografo
+operazione	conduzione	amministrazione	gestione
+numero naturale
+celebrità	star	artista
+mammifero	oviparo	animale	vertebrato
+collegamento ipertestuale	indirizzo	codifica	collegamento
+persona	trasporto dei passeggeri	aereo	areoplano	movimento	aeroplano	ragazzo	macchina	velivolo militare	mezzo di trasporto	dispositivo	veicolo
+persona	religioso	persona religiosa	filosofo	teologo	francescano
+verdura	pianta	cibo	vegetale	pianta da fiore	magnoliophyta
+mezzo di comunicazione
+cratere	esploratore	cratere da impatto
+presentazione	svago	comunicazione visiva	spasso	demo	canale	multimedialità	dimostrazione	esperienza
+strumento di misura	automatismo	misuratore	orologio	macchina	meccanismo	dispositivo
+trasmissione
+pittrice	poetessa	pittore
+distributore	automatismo	meccanismo	dispositivo	macchina
+sonoro	nodo
+verseggiatore	artista	compositore di canzoni	scrittore	poeta	cantautore	rimatore	autore	cantore
+filosofo	letterato	intellettuale
+periodo di tempo	festa	celebrazione	periodo	tempo	stagione
+aggressore	persona	assalitore	animale	balordo	reo	rompitore	cattivo	cretino
+laureato	scrittore	designer	informatico	artista	celebrità	studioso	scrittrice	accademico	persona	dotto	autore
+minerale	pietra
+calcolo	servizio	computo	dovere
+metropoli	comune	municipalità	regione	paese	città	quartiere	comunità	borgo
+stato federato	nazione	paese	arcipelago	comunità
+regione	suddivisione amministrativa	popolo	comunità
+periodo di tempo	periodo	tempo	intervallo di tempo	stagione	taglio
+notazione musicale	livello	grado	nota musicale
+santo	apostolo	scultura
+rovesciamento	rivoluzione	cessazione
+struttura architettonica
+arredamento	mobile	copertura	panneggiamento	mobilio	tenda	cortina	protezione	tendaggio	drappeggio	panneggio	suppellettile
+maggiorente	titolo	eminenza	allocuzione	perfezione
+sound system	apparecchio elettrico
+direttore	guru	gestore	principale	amministratore	dirigente	capo	capintesta	responsabile
+contorno	costola	litorale	pendio	declivio
+traccia	perseguimento	inseguimento	esplorazione
+mescolanza	lega	soluzione	composto chimico	misto	composto	mistura
+curva	poligono
+indoeuropeo	gruppo etnico	lingua	lingua inglese	dialetto	etnia	inglese	idioma
+conclusione	cibo	vegetale
+antroponimo	nome di battesimo
+accertamento	meeting	adunanza	ispezione	visita medica	esame	assemblea	incontro
+antiossidante	additivo alimentare	vitamina
+opera letteraria	racconto	romanzo
+lungometraggio	puntata
+accolito	converso	gruppo etnico	seguace	aderente	sostenitore	fedele	antipatico	adepto	giudeo	persona non grata	affiliato	persona
+roccaforte	struttura architettonica	fortezza	edificio	fortificazione	difesa
+mestizia	disfavore	declino	malinconia	possesso	svantaggio	male	decremento
+determinazione	entusiasmo	energia	risolutezza
+persona	aggiunto	assistente	ausiliare	collaboratore	aiutante	lavoratore
+arnese	bacchetta	pianta erbacea	bastone	scettro
+documentazione	comunicazione scritta	documento
+configurazione	retta	segmento
+film	fumetto
+cerna	opzione	indagazione	sistema di scrittura	database	investigazione	comunicazione scritta	elaborazione dati	scrittura	linguaggio di programmazione	modello matematico	selezione	scrematura
+maggiorente	persona	star	artista	celebrità	attore	istrione
+persona	politico	disoccupato
+notazione musicale	periodo di tempo	istante	composizione musicale	fenomeno atmosferico	periodo	fenomeno naturale	fenomeno
+trasmissione	canale di trasmissione	mass media	tecnologia
+dispositivo	macchina
+numero intero	numero abbondante	numero naturale
+ricercatore	chimico	scienziato
+meccanismo	dispositivo	miscelatore
+novelletta	racconto	canale di trasmissione	racconto breve	fiction	trasmissione	mass media	prosa
+produttore discografico	leader	artista
+aristocratico	titolo
+conte	vescovo	persona	personaggio
+verseggiatore	persona	scrittore	poeta	letterato	intellettuale	rimatore	autore	cantore
+persona	femmina	giovane
+stoviglie	stoviglia	posata	cucchiaio	stoviglie da tavola
+girata	viraggio	virata	svolta
+astro	configurazione	oggetto celeste	costellazione	corpo celeste
+elemento chimico
+credenza	teoria	dottrina	culto	filosofia
+spazio vuoto	distanza
+calcolo	equazione	computo	formula matematica	espressione	formula	operazione
+suonatore	persona	artista	orchestrale	musicista	sonatore	musico	strumentista
+miscuglio	abbinamento	unione	alimento di base	miscela	cibo	mistura	mescolanza	cibarie	misto	composto	derrata alimentare	genere alimentare
+persona	giovane	ragazzo	ragazza
+rivo	fiume
+scrittore	dotto	autore	intellettuale
+fenomeno fisico	tempesta	bufera	temporale	tormenta	fenomeno atmosferico	fenomeno naturale	fenomeno
+persona	fondatore	gemello	fratello
+pellicola	film	cinema	produzione	spettacolo
+requisito	originalità	riforma	nuova
+messaggio	email	pubblicità
+accademico	dotto	professore	studioso	scienziato	persona	intellettuale	docente	storico
+compagnia	azienda privata	azienda	multinazionale	pasta
+arthropoda	mosca	invertebrato	animale	volatile	insetto
+organo
+lipidi	lipide	grasso	macromolecola
+metropoli	comune	municipalità	località	città	comunità
+mezzo	potenzialità	accademia
+mammifero	animale	animale selvatico	carnivoro	vertebrato
+opera musicale	lungometraggio	album studio	oggetto celeste	film drammatico	corpo celeste	raccolta musicale
+veleno
+femmina	titolo	allocuzione
+istrione	scrittore	artista	soggettista	sceneggiatore	attore comico	produttore cinematografico	attore	commediante	autore	persona
+lealtà	dedizione	affetto	vicinanza	unione
+lesione	trauma	danno	ferita	condizione fisiologica	male	problema di salute
+fenomeno fisico	transizione di fase	accorpamento	integrazione	processo fisico	processo naturale	reazione nucleare	connubio	unione	fenomeno naturale	passaggio di stato	fenomeno
+grande marea	marea
+disciplina	scienza	psicologia	psicologia sperimentale
+minerale
+scrittore	dotto	studioso	storiografo	persona	letterato	intellettuale	storico	autore
+metropoli	comune	municipalità	amministrazione cittadina	città	township
+personaggio immaginario	personaggio
+comune	municipalità	rivo	fiume	paese	quartiere	comunità	borgo	comune francese
+blu	blu chiaro	azzurro
+finanziamento	scontro	capitale	collisione
+dotto	artista	studioso	persona	letterato	autore	alfabeta
+cavo	tubazione	condotto	tubatura	dispositivo	linea	conduttura
+regista	sportivo	ciclista	regista cinematografico
+sintomo clinico	sintomo
+macaco	mammifero	scimmia	quadrumane	vertebrato
+studioso	mestiere	persona	biologo
+nome di battesimo
+opera letteraria	racconto	fiction	pubblicazione	romanzo	libro
+comune	municipalità	suddivisione amministrativa	paese	città	quartiere	borgo	isola
+misto	mescolanza	composto chimico	miscela	mistura	materiale da costruzione	superficie
+paesano	autostrada	cittadino comune	superstrada	strada
+organizzazione non governativa	chiesa cattolica	culto
+riunione	folla	reggimento
+suonatore	musicista	sonatore	compositore
+periodo di tempo	periodo	autorità	gerenza	tempo	limite di tempo	conduzione	amministrazione	potenziamento	scrittura	scadenza	dirigenza	documento
+squadra di calcio	squadra	società	società per azioni	azienda
+tessuto	parte anatomica	tessuto animale	membrana	parte del corpo
+fenomeno fisico	stato della materia	processo naturale	acqua	punto critico	fenomeno naturale	passaggio di stato	fenomeno	fase
+componente elettronico	apparecchio elettrico	macchina	aviazione	dispositivo
+subcontinente	regione
+disc jockey	dj	artista	disc-jockey	direttore	principale	produttore discografico	giornalista radiotelevisivo	persona	musicista
+viaggio	turismo
+intervallo	irregolarità	incoerenza	ineguaglianza	divisione	separazione	interruzione	fine
+organo	cointeressato	protuberanza	consociato
+approdo	porto	darsena	infrastruttura	punto geografico
+piacere	organo genitale	attività sessuale
+verseggiatore	persona	scrittore	poeta	intellettuale	rimatore	autore	cantore
+celebrità	persona	giocatore di calcio	sportivo	atleta	calciatore	attaccante
+sentiero	viottolo	attraversamento	attraversamento pedonale
+dotto	studioso	ricercatore	letterato	intellettuale	titolo
+ossido di alluminio	gemma	minerale	sasso	roccia	composto	pietra
+comune	comune italiano	borgo	città
+acquisizione	diritto processuale	appropriazione	procedura legale	esproprio
+senso
+felino	animale	mammifero	carnivoro	animale domestico	vertebrato
+sfruttato	oppresso	residuo	indigente	negazione	scarto	povero	criminale	diniego	delinquente	mal capitato
+lampada
+marcia	movimento	protesta	manifestazione	assemblea	dissenso
+brano	opera musicale	singolo	composizione	composizione musicale	canzonetta	pellicola	trasmissione	traccia	film
+imbarcazione	veliero	barca	nave	bastimento
+stadio	livello	passaggio	cima	fase
+dipendente	operaio	persona	assunto	lavorante	lavoratore	professione	manovale	lavoratore dipendente
+vertebrato	cygnus	uccello acquatico	uccello	animale	volatile	cigno
+animale
+favoritismo	fazione	tendenza	faziosità
+impulso sessuale	desiderio
+autoscafo	trasporto dei passeggeri	aereo	imbarcazione	bastimento	macchina	trasporto fluviale	motoscafo	trasporto passeggeri	mezzo di trasporto	trasporto	natante	areoplano	aeroplano	veicolo	motobarca
+autocaravan	rimorchio	veicolo	mezzo di trasporto	trasporto	trasporto passeggeri
+montagna	panorama	elevazione	collina	valico	poggio
+resoconto	discorso	narrazione
+partito politico	partito	fazione
+fenomeno atmosferico	fenomeno naturale	spostamento	fenomeno	fenomeno fisico
+ragionamento
+nave	cantante	regione	artista
+pellicola	film	produzione	cinema
+grafema	nota musicale	notazione musicale	sillaba	nota	lettera
+arcipelago	gruppo di isole
+lirica	opera buffa	opera teatrale	dramma	drammaturgia	raffigurazione	genere musicale	opera comica
+unità di tempo
+punta	sommità	cocuzzolo	elemento architettonico	cucuzzolo	struttura architettonica
+accordo
+branca della scienza	disciplina
+grafema	segno diacritico	sistema di scrittura	interpunzione	punto	comunicazione scritta	scrittura	diacritico
+cittadino	africano
+persona	incompetente	irresponsabile
+sciocchezza
+metadato	merito	risorsa	allocuzione	possesso	resoconto scritto	dato	sintagma	carica	scrittura	affisso	testo	documento
+minerale	sasso	lamina	roccia	blocco	distesa	fotografia	vetro	stoviglie	pietra
+socialista	persona	politico	patriota	rivoluzionario	intellettuale	autore
+resoconto	timbro	archivio	fascicolo	resoconto scritto	manopola	libro
+concordanza	unanimità
+football	calcio	atletica	atleta
+istrione	persona	artista	celebrità	modella	attrice
+attore	doppiatore	artista	persona	lavoratore
+banda	gruppo musicale
+film	film catastrofico
+esploratore	scopritore
+stato insulare	regione	città-stato	nazione	paese	città
+esecutivo	associazione	luogo di lavoro	sistema sociale	installazione	corporazione	consorzio	posto di lavoro	orinatoio	edificio	potere esecutivo	edificio pubblico	istituto	pisciatoio	consociazione	comitato	governo	affisso	organizzazione politica	giunta	commissione
+produttore	compagnia	ditta	struttura architettonica	edificio	fabbrica
+liquido	fluido	cibo
+persona	artista
+dott.	medico	sanitario	dottore	persona	dottore in medicina	professione
+istrione	artista	attore
+moneta circolante	moneta
+legnata	punizione	castigo	battuta	picchiata	pestata	bastonatura	pena	punizione corporale	giustizia
+crollo	recessione	periodo di tempo	periodo	epoca	crisi
+provincia	città	comune	municipalità	comune italiano
+struttura architettonica	edificio	edificio pubblico	servizio
+metodica	deprecazione	ricerca scientifica	disapprovazione	trattazione	facoltà	biasimo	messaggio	ragionamento
+peso	proiettile	elemento chimico	metallo
+disciplina	scienze naturali
+poeta	traduttore	scrittore	autore
+denominazione	allocuzione	gestione	conduzione	amministrazione	cura	salutazione
+peccato	conca	bramosia	tubazione	modanatura	vizio	immoralità	spaccato	intemperanza	passo	sete di ricchezza	tubatura	valico	cavità	cornice	condotto	malcostume	conduttura
+vino	liquido	alcoolico	alcolico	bibita	bevanda
+scrittore	animatore	produttore cinematografico	sceneggiatore	regista	disegnatore
+romanza	giallo
+dispositivo
+forze armate	protettore	guerriero	militare	armato	milite	grado	difensore	carica	soldato	titolo
+opera letteraria	punto di riferimento	evidenza	narrazione	struttura architettonica	genere letterario	registrazione	messaggio	monumento	autobiografia
+strato	mobilio	appoggio
+prodotto alimentare	verdura	cibo	pianta erbacea	vegetale
+femmina	persona	anziano	signora
+zona	località	appezzamento	area protetta	appezzato	possesso	spazio
+pittore	persona	autore	artista
+calciatore	giocatore di calcio	celebrità	sportivo	attaccante	marcatore
+composto	nitrato	composto chimico
+canale di trasmissione	canale	stazione televisiva	mass media	canale televisivo
+sistema di scrittura	pacchetto	programma di computer	codifica	contenuto libero	programma informatico	scrittura	sistema software	programma per computer	software open-source	software
+ordinale	comune	podio	numero ordinale
+esibizione	programma informatico	ammazzamento	morte	assassinare	presentazione	azione legale	delitto	verdetto	castigo	fine	giustizia	programma di computer	sentenza	controversia	pena	sterminio	uccisione	svago	decesso	mattanza	punizione corporale	spasso	punizione	dimostrazione	certezza del diritto	omicidio	software
+struttura architettonica	edificio	istituto	scuola	edificio pubblico
+curriculum	curriculum vitae	documento
+transizione di fase	disturbo	processo fisico	processo naturale	danno	raffreddamento	ferita	male	passaggio di stato	problema di salute
+periodo di tempo	periodo	funzione matematica	momento	fenomeno naturale	fenomeno
+delegazione	amministrazione	collaborazione
+fenomeno fisico	grandezza fisica	grandezza	compito	contratto	scalare
+specie autoctona	vertebrato	topo	animale	roditore	mammifero
+tecnica	chiusura	blocco
+opera musicale	album studio	raccolta musicale
+faccia	coalizione	facciata	superficie	davanti	confine	linea
+comune	zona	municipalità	regione	centro amministrativo	centro	comunità	sede	amministrazione pubblica	paese	località	capitale
+femmina	ragazza	pulzella	bambina	fanciulla	signora	signorina	persona	discendenza	giovane	figlia
+insegnante	dotto	ricercatore	scienziato	studioso	anatomista
+cerimonia	periodo di tempo	celebrazione	periodo	tempo	data	gala	ricevimento	giorno	occasione
+rifugio	nascondiglio	rientranza	stanza	tana
+automatismo	trasporto dei passeggeri	trasporto pubblico	macchina	trasporto passeggeri	viaggio	mezzo di trasporto	trasporto	sistema di trasporto	veicolo
+generalizzazione	facoltà	atto pubblico	regola
+arrendevolezza
+personaggio tipo	caratterizzazione	ruolo	personaggio	raffigurazione	recitazione	personaggio immaginario
+rappresentazione	elemento architettonico	proporzione	standard	grandezza	pietra di paragone
+comune	comunità	borgo
+eleganza	costrutto	unione	forbitezza	sinonimia	signorilità	insiemistica	stanza	istruzione generale	associazione	vocazione
+agglomerazione	banda	famiglia	struttura algebrica
+elaborato	incombenza	dovere	mansione	compito	incarico
+indice	cominciamento	sistema di scrittura	incominciamento	testo di partenza	comunicazione scritta	scrittura	avviamento	partenza	testo
+fenomeno naturale	fenomeno fisico	pericolo	massacro	tempesta	calamità	aria	cataclisma	fenomeno	fenomeno atmosferico	sciagura	bufera	dramma	disastro	tragedia
+ritorno
+raddoppiamento	replica	traduzione	riproduzione	copiatura
+mimica	comunicazione visiva	comunicazione non verbale	tono	funzione matematica	gestualità	raffigurazione	messaggio	intonazione
+regista	regista cinematografico
+persona	rappresentante	funzionario pubblico	professione	responsabile	capo	dirigente	funzionario	governante	amministratore
+pane	dessert	impasto	cibo	derrata alimentare	portata	cibarie	pasta	torta	genere alimentare
+malefatta	ingiustizia	trasgressione	immoralità	attività illegale	torto	malcostume
+intuizione	intendimento	pensamento	suggerimento	fantasia	fissazione
+dispositivo
+comunità	nazione	paese	stato sociale	stato unitario
+paura	fobia	timore	ostilità	odio
+resoconto	eternità	periodo di tempo	ritmo	periodo	pietra di paragone	tempo	cronologia	tasso	standard	anno civile	secolo
+caratteristica	particolarità	specificità	singolarità
+persona non grata	viaggiatore	persona
+pellicola	film	cinema	produzione	spettacolo	rassegna	manifestazione
+monarca	persona	regnante	regina	capo di stato
+punto di riferimento	accertamento	evidenza	investigazione	indicazione	verifica	indizio	esperienza
+grammatica	linguistica	tempo
+hacker	tecnologo	esperto informatico	programmatore	ingegnere	programmatore di computer	sviluppatore
+disciplina	teologia
+carta	carta da gioco
+musicista	artista	compositore di canzoni	cantante	compositore	autore
+strada principale	strada maestra	infrastruttura	struttura architettonica	strada di città	via maestra	strada
+canale di trasmissione
+valico	passo
+vantaggio	risorsa	possesso
+dipendente	operaio	persona	assunto	domestico	lavorante	lavoratore	professione	manovale	lavoratore dipendente
+regnante	opera teatrale	dramma	monarca	re	tragedia	capo di stato	governante	personaggio
+modellista	persona	couturier	disegnatore	disegnatore di moda	stilista
+opera musicale	album studio	raccolta musicale
+pettegolezzo	artista	segnale audio	linea melodica
+personaggio immaginario	personaggio
+fenomeno fisico	rodimento	erosione del suolo	processo naturale	fenomeno naturale	erosione	fenomeno	erosione idrica
+gioiello	gingillo	gioielli	pendaglio	bigiotteria	gioia	gioielleria	pendente	ciondolo
+periodo	intervallo di tempo	periodo di tempo	stagione
+sistema sociale	ateneo	università	accademia
+certezza	stato cognitivo	coraggio	sicurezza	speranza
+tassa	imposta	spesa
+fattoria	podere	terreno	tenuta agricola	allevamento
+comune	opera musicale	municipalità	luogo immaginario	album studio	regione	brano	composizione musicale	traccia	località	città
+cerimonia	posto di lavoro	struttura architettonica
+unità militare	esercito	compagnia	tattica
+mestiere	dotto	progettista
+disinfestante
+individualità	consapevolezza	uguaglianza
+strada principale	strada maestra	infrastruttura	marca	struttura architettonica	strada di città	via maestra	strada	marca commerciale
+indigenza	miseria	brama	pulsione	appetito	desiderio
+metropoli	comune	municipalità	artista	musicista	città	township	autore	capitale	strumentista
+pubblicazione	produzione
+estro	risorsa	sorgente	informatore	ispirazione
+gemma	minerale	sasso	silicato	roccia	verde	composto	pietra
+comune	zona	municipalità	capitale	città
+femmina	persona	bambina	figlia	espressione	personaggio	titolo	allocuzione
+aiuto	assistenza	sollievo	consolazione	sostegno
+trama	nodo	annodamento	avviluppamento	viluppo	intrico	imbroglio	groppo	inviluppo	groviglio	aggrovigliamento
+malware	pacchetto	programma di computer	codifica	programma informatico	sistema software	programma per computer	software
+fanciullo	bambino	scolaro	bimbo	ragazzo	giovane	universitario
+sentimento	emozione
+partito politico	patto	associazione	partito
+edificazione	risorsa	possesso	struttura architettonica	edificio	edificio pubblico	fortificazione	erezione	difesa
+nazione	comunità	paese	dominio
+detto	angustia	esperienza	metafora	afflizione	patimento	espressione	accoramento	sintagma	dolore	pena	massima	motto	male
+celebrità	persona	giocatore di calcio	sportivo	atleta	calciatore	attaccante
+scivolata	sventura	accidente	disavventura	errore	sconfitta	male	disgrazia
+indumento	vestito	copricapo	sporgenza	abbigliamento	bene di consumo	copertura
+istrione	scrittore	artista	regista teatrale	sceneggiatore	drammaturga	attore	regista	autore	drammaturgo
+cavaliere	cavallerizzo	cavalcatore
+incidente	catastrofe	calamità	sciagura	guaio
+percorso	registrazione	sfruttamento	cambiale
+istrione	artista	attore
+università	sistema sociale	società	struttura architettonica	accademia	edificio	edificio pubblico	istituto	scuola
+comune	municipalità	regione	paesino	paese	città	comunità	borgo
+film drammatico	opera teatrale	dramma	film	tragedia
+pianta da fiore	edificio	convento	monastero
+suonatore	scrittore	persona	artista	musicista	poeta	musico	autore
+grado	periodo di tempo	periodo	assistente	tempo	cibo	ausiliare	collaboratore	aiutante	piatto	portata	titolo	carica
+liquidità	moneta	soldi	moneta circolante	denaro	banconota
+organo	tecnologia	controllo della natalità	contraccettivo	dispositivo medico	anticoncezionale	medicina	tessuto animale	membrana	controllo delle nascite	meccanismo	dispositivo
+sede
+ordine religioso
+reazione chimica	automatismo	processo chimico	fuoco	processo naturale	meccanismo	dispositivo
+circolazione	passaggio	servizio	punizione	cambio	trasporto
+parentela	congiunto	famiglia	famigliare	parentado	gruppo biologico
+regione
+produttore	impresario	professione	persona
+ossatura	tecnologia	segnale	finestra temporale	elemento architettonico	periodo di tempo	periodo	grafema	diacritico	arma	configurazione	strumento musicale	funzione continua	dispositivo
+mossa	passo	cambiamento di stato
+colloquio	passaggio	prestito	strada ferrata	binario	discussione	rotaia	cambio	giocata	argomentazione
+dotto	studioso	scienziato	astronomo	persona	filosofo	intellettuale	matematico
+regista	filmologia	produzione cinematografica	produttore cinematografico	regista cinematografico
+chiarificazione	possibilità	ricerca scientifica	spiegazione	asserzione	assunzione	rischiaramento	messaggio	proposizione	teoria
+unione	risorsa	certificato	accordo
+appezzamento	appezzato	spazio
+liquidità	moneta	moneta circolante	denaro	banconota	danaro
+grandezza fisica	caratteristica	proprietà fisica	grandezza	scalare
+concorrente	competitore	rivale	sportivo	antagonista	avversario	contendente
+concorrente	competitore	rivale	guidatore	avversario	contendente
+indoeuropeo	cittadino	europeo	idioma	lingua
+forestale	protettore	difensore	pompiere	sorveglianza
+etnia	metropoli	regione	paese	città	politico	primo ministro	capo del governo	persona
+storico	dotto	politico	intellettuale
+municipalità	comune	città	comunità	isola
+condizione fisiologica	istituto	benessere	integrità
+calciatore	difensore	giocatore di calcio	sportivo
+brano	opera musicale	composizione musicale	canzonetta	tema musicale	traccia
+tessera	credito al consumo	impegno	fido	carta	banco
+spettacolo	show
+caratteristica	carattere	spirito	tratto distintivo
+film drammatico	film
+struttura architettonica	edificio	istallazione	museo	galleria
+tessuto muscolare	cibo
+striscia	accessorio	addobbo	ornamento	decorazione	lembo	banda	fascia	reggetta
+zona	beni culturali	colle	struttura architettonica	edificio	edificio pubblico	monumento	monumento storico	bene culturale
+selezione	scrematura
+sentenza	verdetto
+laureato	architetto
+municipalità	habitat	biocenosi	microambiente	microhabitat	sinecologia	comunità
+motore	motore rotativo	dispositivo	meccanismo	apparato
+testo	strofa	spazio
+composto	ciottolo	roccia sedimentaria	roccia	pietra
+puntata
+riunione	assemblea legislativa	assemblea	corpo legislativo	organo legislativo
+mare	oceano
+colonizzazione	demografia	crescita
+videogioco	dispositivo	macchina
+gioiello	allegranza	allegria	gioielli	bigiotteria	umore	sollecitazione	gaiezza	gioielleria
+duplicazione	configurazione	magniloquenza	progettazione	retorica
+trasmissione
+zona	appannaggio	privilegio	possesso	controllo	edificio	località
+gradevole	tenero	gentile	dessert	gusto	cibo	portata	sapore	piatto	percezione	affettuoso	soave
+instabilità	incostanza	mutevolezza	variabilità	mutabilità
+attore	scrittore	autore	scrittrice
+attore	persona	artista
+sovrano	trasmissione televisiva	programma televisivo	re	personaggio	personaggio immaginario	raffigurazione
+confluenza	unione	fusione	connubio
+resoconto	falsità	frottola	narrazione	balla	bugia	testo
+torrente	comune	municipalità	lungometraggio	film	appezzato	pellicola	sede	suddivisione amministrativa	paese	personaggio	città	fiume	personaggio immaginario	raffigurazione	borgo
+aristocratico	persona	titolo	patrizio
+protocollo di comunicazione	controllo
+disturbo	malattia	male	infiammazione	problema di salute
+attimo	vettore	periodo di tempo	istante	parametro	periodo	tempo	grandezza	secondo	minuto
+dissenso	litigio	discussione	argomentazione	scontro	contrasto
+stazione	edificio	struttura architettonica	frazione	paese	stazione metropolitana	borgo
+organo	autorità
+composto	minerale	composto chimico
+dotto	ricercatore	dottore di ricerca	studente universitario	intellettuale	universitario	titolo	studente
+stratagemma	macchinario	aggeggio
+presentazione	incontro	adunanza	radunata	assemblea	orazione	meeting	lezione
+mare	oceano
+mestiere	autorità	parlamentare	membro aggregato	persona	consulente	funzionario	professione	cointeressato
+organo	malefatta	colpo	violazione
+criterio	sistemi di misurazione
+poligono	tetragono	quadrilatero
+semidio	personaggio immaginario	personaggio	dio	divinità	deità
+periodo	periodo di tempo
+bacheca	custodia	cornice	astuccio
+ripartizione	procreazione	processo chimico	allontanamento	processo naturale	divisione	separazione	riproduzione
+comune	municipalità	comune italiano	paese	borgo
+associazione	compagnia	consociazione	comunità
+operazione militare	zona	terreno	spazio
+attivatore	composto chimico
+trasmissione	canale	trattazione	ragionamento
+cacio	latticino	prodotto caseario	formaggio	parmigiano	cibo	denaro	genere alimentare
+merito	risorsa	possesso	scrittura	carta	scritto	documento
+striscia	barriera	banchina	aiuola	separatore	linea	isola
+montagna
+sommario	passo	ricapitolazione
+laureato	dotto	professore	studioso	accademico	filologo	persona	intellettuale	docente	autore
+caratteristica	lealtà	dirittura	correttezza	tratto distintivo
+film drammatico	dramma	dipinto
+scontro	contrasto	giocata
+movimento	propulsione	spinta	colpo
+scrittore	persona	autore	professione	giornalista
+pianta	specie vegetale	vegetale	vita vegetale	aroma	pianta da fiore	magnoliophyta	angiosperme	fanerogame	spermatophyta	tracheobionta
+zona	località	punto
+frequenza	cadenza	tempo	ciclicità	tempo musicale
+disco	registrazione sonora	registrazione	disco in vinile
+comune	opera musicale	raccolta musicale	città	borgo	album studio
+delinquente	criminale	cattivo	brigante	fuorilegge	personaggio tipo	ladro	reo	personaggio immaginario	malvivente	personaggio
+parte anatomica	barriera	orifizio	estremità	limite	di dietro	parte del corpo
+strumento musicale	aerofono	parte del corpo
+dirigente	direttore	comandante	guru	gestore	principale	amministratore	dispensatore	capo	capintesta	responsabile	leader
+metropoli	comune	municipalità	regione	paese	città	quartiere	comunità	borgo
+via navigabile	condotto	via fluviale	idrovia	struttura architettonica	solco	mass media	fosso	stazione televisiva	stazione radio
+prova	riscontro	verifica	evidenza	controllo
+politico	primo ministro	capo del governo	persona
+suonatore	artista	musicista	orchestrale	sonatore	compositore	musico	autore	pianista	strumentista
+stella	oggetto celeste	corpo celeste
+figlio	fanciullo	carnivoro	bimbo	canide	lupo	ragazzo	figliuolo	animale	giovane	figlio piccolo	bambino	ragazzino	guaglione	marmocchio
+chiarificazione	geomorfologia	ricerca scientifica	spiegazione	testo	geologia	scienze della terra
+composto	composto chimico
+autoveicolo	automobile	trasporto	veicolo a motore	macchina	motoveicolo	trasporto passeggeri	mezzo di trasporto	auto	autovettura	veicolo
+avvoltoio	vertebrato	uccello	animale	volatile	uccello da preda	uccello rapace	falco
+gioco da tavolo	partita	villaggio	fiume	città	acqua	comune	antroponimo
+appezzamento	impianto sportivo	anello commutativo	campo vettoriale	struttura algebrica	anello
+torrente	montagna	sportivo	persona	personaggio	personaggio immaginario	ninfa
+fiume	stato federato	regione	rivo	principato	nazione	paese	stato unitario
+laureato	dottore	persona	allocuzione	espressione	titolo	professione	abbreviazione
+tintura	pigmento
+allaccio	operazione militare	deprecazione	scontro	biasimo	afflizione	combattimento	disapprovazione	contestazione	violenza	critica	operazione
+privilegio	regalia	armamentario
+prodotto alimentare	adesivo	cibo	gel
+nome di battesimo	denominazione	antroponimo	nominativo
+mistura	miscela	misto
+esposizione
+veicolo	macchina
+musicista	artista	compositore	musico	autore	strumentista
+scelta	possibilità	alternativa	preferenza
+dirigente	docente	persona	politico
+significatività	rilevanza	salienza	densità	importanza
+figlio	bambino	figlio piccolo	raffigurazione	neonato
+concordato	appunto	accordo	riferimento	patto	conciliazione	trattazione	compromesso	contratto	scrittura	ragionamento	concordanza	accomodamento
+sistema sociale	struttura architettonica	edificio	edificio pubblico	occasione
+autostrada	strada principale	strada maestra	canale	infrastruttura	via di comunicazione	struttura architettonica	via maestra	superstrada	rotta
+sistema sociale	organizzazione politica	forma di governo
+forestiero	viaggiatore	straniero	persona
+metropoli	comune	municipalità	comunità	sede	località	capitale
+circuito elettronico	automatismo	controller	microcircuito	comando	meccanismo	dispositivo
+rospo	rana	vertebrato	anura	animale	amphibia	anfibio
+campionessa	sportiva
+incertezza	perplessità	dubbio	insicurezza	esitazione	attesa	titubanza
+riunione	congresso	radunata	corpo legislativo	organo legislativo
+rigorosità
+scusa	chiarificazione	chiarimento	spiegazione	rischiaramento	giustificazione
+segreto	subbuglio	sbandamento	perplessità	confusione
+persona	presentatore	parlante	speaker	relatore	oratore
+inseguire	investigazione	indagine	scienza
+inesistenza	assenza	pronome	insussistenza	categoria grammaticale
+cacciatorpediniere	vescovo	molo
+mammifero	animale	felino	animale selvatico	carnivoro	vertebrato
+regione	nazione	paese	stato unitario	comunità
+elemento architettonico	elemento strutturale	pilastro	appoggio	sopporto
+comune	frazione	borgo
+chiarificazione	formulazione	spiegazione
+film drammatico	dramma
+autostrada	strada principale	strada maestra	infrastruttura	struttura architettonica	strada di città	via maestra	monumento	strada
+persona	mestiere
+dispositivo	memoria di massa	disco
+periodo	mese civile	tempo	mese	periodo di tempo
+insegna	emblema	allegoria	croce	raffigurazione	disegno
+lungometraggio	dramma	pellicola	commedia drammatica	film drammatico	film
+osso	parte del corpo	parte anatomica
+web	canale di comunicazione	pagina web
+espressione
+intervento chirurgico	operazione	intervento	operazione chirurgica
+sciatore	sportivo
+pianta	pianta da fiore	magnoliophyta	vegetale
+stato federato	regione	repubblica parlamentare	nazione	casato	paese
+veicolo a motore	moto	motociclo	mezzo di trasporto	motocicletta	motoveicolo	dispositivo	veicolo
+legge	legge fisica	enunciato	equazione	teorema	proposizione
+convenienza	possesso	rendita	guadagno	ricavo	profitto
+vertebrato	cibo	uccello	animale	oviparo	volatile	bipede	pennuto
+struttura architettonica	edificio	edificio pubblico	comunità
+conversazione
+dispositivo
+comune	municipalità	comune italiano	paese	città	borgo
+trasformazione	conto	codifica	calcolo	computo
+fenomeno fisico	getto	movimento	flusso	fenomeno
+concorso	gara	competizione	campionato
+zona	estremità	sportivo
