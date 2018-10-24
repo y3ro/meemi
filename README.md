@@ -84,9 +84,35 @@ python test_similarity_crosslingual.py EN-ES.english.vecmap.meemi.bin EN-ES.span
 ```
 *Note:* This code assumes that lowercased word embeddings are provided as input. If you would like to mantain the casing, simply remove the *.lower()* commands in the evaluation scripts.
 
-#### Hypernym Discovery
+#### Cross-lingual Hypernym Discovery
 
-Coming soon!
+[Hypernym Discovery](https://competitions.codalab.org/competitions/17119) is the task to retrieve, for a given term, a ranked list of valid hypernyms. In this experiment, a hypernym discovery system is trained in English data (and possibly in a weakly supervised setting with some target language data), and makes predictions in the target language.
+
+To run the hypernym discovery experiments, launch the following command:
+
+```bash
+python3 experiments/hypernym_discovery/taxoembed.py -wvtrain SOURCE_EMBEDDINGS -wvtest TARGET_EMBEDDINGS -vtest TARGET_VOCABULARY -hypotrain SOURCE_HYPONYMS -hypertrain SOURCE_HYPERNYMS -test TARGET_HYPONYMS -newtrain TARGET_LANG_TRAINING_INSTANCES -npairs NUMB_TRAINING_INSTANCES -o OUTPUT_FOLDER 
+```
+
+The predictions of the model are saved in `OUTPUT_FOLDER` with the name `[TARGET_EMBEDDINGS]_[NUMB_TRAINING_INSTANCES]_[TARGET_LANG_TRAINING_INSTANCES]_W.txt`.
+
+For example, evaluating a hypernym discovery model for Spanish trained on VecMap English vectors and 500 additional instances in Spanish:
+
+```bash
+ python3 experiments/hypernym_discovery/taxoembed.py -wvtrain EN-ES.english.vecmap.bin -wvtest EN-ES.spanish.vecmap.bin -vtest experiments/hypernym_discovery/SemEval2018-Task9/vocabulary/1C.spanish.vocabulary.txt -hypotrain experiments/hypernym_discovery/SemEval2018-Task9/training/data/1A.english.training.data.txt -hypertrain experiments/hypernym_discovery/SemEval2018-Task9/training/gold/1A.english.training.gold.txt -test experiments/hypernym_discovery/SemEval2018-Task9/test/data/1C.spanish.test.data.txt -o experiments/hypernym_discovery/ -newtrain experiments/hypernym_discovery/SemEval2018-Task9/utils/spanish_train.tsv -npairs 500
+```
+
+Then, call the official SemEval task scorer passing as arguments the gold file and the predictions file generated in the previous step.
+
+```bash
+python experiments/hypernym_discovery/SemEval2018-Task9/task9-scorer.py GOLD_FILE PREDICTIONS_FILE
+```
+
+For the previous example, the exact command would be:
+
+```bash
+python experiments/hypernym_discovery/SemEval2018-Task9/task9-scorer.py experiments/hypernym_discovery/SemEval2018-Task9/test/gold/1C.spanish.test.gold.txt experiments/hypernym_discovery/EN-ES.spanish.vecmap.bin_500_1C.spanish.output_W.txt 
+```
 
 ### Reference paper
 
