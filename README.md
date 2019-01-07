@@ -1,11 +1,11 @@
 ## Meemi
 
-The following repository includes the code and pre-trained cross-lingual word embeddings from the paper *[Improving cross-lingual word embeddings by meeting in the middle](https://arxiv.org/abs/1808.08780)*  (EMNLP 2018).
+The following repository includes the code and pre-trained cross-lingual word embeddings from the paper *[Improving cross-lingual word embeddings by meeting in the middle](http://aclweb.org/anthology/D18-1027)*  (EMNLP 2018).
 
 
 ### Pre-trained embeddings
 
-We release the 300-dimension word embeddings used in our experiments as binary *bin* files:
+We release the 300-dimension word embeddings used in our experiments (English, Spanish, Italian, German and Finnish) as binary *bin* files:
 
 - **Monolingual FastText embeddings**: Available [here](https://drive.google.com/drive/folders/1sQNZN4_2GRkK0Pb1pRJaOpM6Nh8yHJpX?usp=sharing)
 - **Baseline cross-lingual embeddings**: Available [here](https://drive.google.com/drive/folders/1Qq5_fC9kqWUA_YwP3SLPpjCB_KMNvxlB?usp=sharing)
