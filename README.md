@@ -38,7 +38,7 @@ get_crossembs.sh SOURCE_EMBEDDINGS TARGET_EMBEDDINGS DICTIONARY_FILE
 Example:
 
 ```bash
-get_crossembs.sh crawl.en.100.en-es.vec crawl.es.100.en-es.vec en-es.train.txt
+get_crossembs.sh EN-ES.english.vecmap.txt EN-ES.spanish.vecmap.txt en-es.dict.txt
 ```
 
 #### Use VecMap to align monolingual embeddings and then meemi
