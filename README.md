@@ -7,9 +7,9 @@ The following repository includes the code and pre-trained cross-lingual word em
 
 We release the 300-dimension word embeddings used in our experiments (English, Spanish, Italian, German and Finnish) as binary *bin* files:
 
-- **Monolingual FastText embeddings**: Available [here](https://drive.google.com/drive/folders/1sQNZN4_2GRkK0Pb1pRJaOpM6Nh8yHJpX?usp=sharing)
+- **Monolingual FastText embeddings**: Available [here](https://drive.google.com/drive/folders/1a4H1qmMWhG5CZQnkNt79wAaJFA6tqZLn?usp=sharing)
 - **Baseline cross-lingual embeddings**: Available [here](https://drive.google.com/drive/folders/1Qq5_fC9kqWUA_YwP3SLPpjCB_KMNvxlB?usp=sharing)
-- **Cross-lingual embeddings post-processed with Meemi**: Available [here](https://drive.google.com/drive/folders/1q0SijS7dcPqN0_N3Ct5_GTKDu3N-_5xB?usp=sharing)
+- **Cross-lingual embeddings post-processed with Meemi**: Available [here](https://drive.google.com/drive/folders/11rsZf10IJ6Z2WeKJgI7cHy__QBffm5lP?usp=sharing)
 
 *Note 1:* All vocabulary words are lowercased.
 
